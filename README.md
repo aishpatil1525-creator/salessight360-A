@@ -7,9 +7,9 @@
 [![Code Quality](https://img.shields.io/badge/Data%20Checks-22%20Passed-success.svg)]()
 
 > **SalesSight 360** is an enterprise-grade revenue analytics platform that bridges raw transactional sales data and executive decision-making. Featuring a Kimball-style dimensional star-schema warehouse, automated ETL data cleaning, rigorous statistical validation, machine learning revenue forecasting, and an executive Streamlit BI dashboard.
-> Repo Link -
-> Documentation Link -https://drive.google.com/file/d/1NDfe9Bfep59GRelzBYyYrrHrGDC0UzSu/view?usp=sharing
-> Demo Link-https://drive.google.com/file/d/12fIs33QQY_Qz12wN2EqakCL6brV1J_YK/view?usp=drive_link
+>       Repo Link -https://github.com/aishpatil1525-creator/salessight360-A.git
+>      Documentation Link -https://drive.google.com/file/d/1NDfe9Bfep59GRelzBYyYrrHrGDC0UzSu/view?usp=sharing
+       Demo Link-https://drive.google.com/file/d/12fIs33QQY_Qz12wN2EqakCL6brV1J_YK/view?usp=drive_link
 
 ## 📑 Table of Contents
 
