@@ -1,0 +1,6 @@
+product_id,product_name,category,base_price
+PRD-01,AI Platform,Software,65000.0
+PRD-02,Cloud Services,Infrastructure,48000.0
+PRD-03,Data Analytics,Software,36000.0
+PRD-04,Cybersecurity,Security,32000.0
+PRD-05,ERP Integration,Services,28000.0

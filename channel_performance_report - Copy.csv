@@ -1,0 +1,5 @@
+channel,total_deals,won_deals,won_revenue,avg_deal_size,win_rate_pct
+Online,504,105,8247700.0,78549.52,24.8
+Direct Sales,420,103,8024800.0,77910.68,29.5
+Partner,389,97,7700700.0,79388.66,29.0
+Retail,267,65,4948600.0,76132.31,29.0

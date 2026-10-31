@@ -1,0 +1,2401 @@
+lead_id,customer_id,lead_source,channel,rep_id,created_date,status,converted_to_opp
+LEAD-5001,CUST-1111,Webinar,Online,REP-111,2024-10-04,Converted,1
+LEAD-5002,CUST-1102,Inbound Demo,Retail,REP-107,2025-01-30,Disqualified,0
+LEAD-5003,CUST-1191,Partner Event,Online,REP-110,2025-05-11,Converted,1
+LEAD-5004,CUST-1254,LinkedIn,Direct Sales,REP-112,2025-04-13,Disqualified,0
+LEAD-5005,CUST-1161,Referral,Partner,REP-108,2024-11-08,Converted,1
+LEAD-5006,CUST-1514,Referral,  Retail,REP-111,2024-12-26,Converted,1
+LEAD-5007,,Webinar,  Partner,REP-105,2024-03-04,Contacted,0
+LEAD-5008,CUST-1350,LinkedIn,  Partner,REP-105,2024-01-31,Contacted,0
+LEAD-5009,CUST-1628,Website,  Direct Sales,REP-112,2024-05-20,Contacted,0
+LEAD-5010,CUST-1437,Cold Outreach,  Partner,REP-104,2024-08-20,Disqualified,0
+LEAD-5011,CUST-1142,Cold Outreach,  Online,REP-109,2024-12-03,Converted,1
+LEAD-5012,CUST-1537,Partner Event,  Retail,REP-103,2024-07-26,Disqualified,0
+LEAD-5013,,Partner Event,Direct Sales,REP-103,2025-03-16,Converted,1
+LEAD-5014,CUST-1122,Referral,Partner,REP-102,2024-06-10,Converted,1
+LEAD-5015,,Webinar,Direct Sales,REP-101,2024-05-29,Contacted,0
+LEAD-5016,CUST-1281,Cold Outreach,Partner,REP-105,2025-02-27,Converted,1
+LEAD-5017,CUST-1627,Website,Direct Sales,REP-103,2024-07-11,Converted,1
+LEAD-5018,CUST-1027,LinkedIn,Partner,REP-104,2024-08-24,Converted,1
+LEAD-5019,,Inbound Demo,Online,REP-109,2025-05-03,Converted,1
+LEAD-5020,CUST-1141,Inbound Demo,Online,REP-107,2025-01-17,Converted,1
+LEAD-5021,,Website,Online,REP-107,2024-08-19,Converted,1
+LEAD-5022,,Cold Outreach,Online,REP-104,2024-10-03,Disqualified,0
+LEAD-5023,,Website,Retail,REP-103,2024-07-28,Disqualified,0
+LEAD-5024,,Webinar,Online,REP-106,2025-05-16,Contacted,0
+LEAD-5025,CUST-1390,Cold Outreach,Retail,REP-101,2025-03-13,Qualified,0
+LEAD-5026,CUST-1550,LinkedIn,Direct Sales,REP-112,2025-02-07,Converted,1
+LEAD-5027,CUST-1044,LinkedIn,Online,REP-102,2024-02-09,Contacted,0
+LEAD-5028,CUST-1041,LinkedIn,Partner,REP-109,2024-09-08,Converted,1
+LEAD-5029,CUST-1312,Inbound Demo,Partner,REP-105,2024-02-20,Qualified,0
+LEAD-5030,CUST-1628,Cold Outreach,Direct Sales,REP-103,2024-10-19,Disqualified,0
+LEAD-5031,CUST-1513,Cold Outreach,Direct Sales,REP-111,2024-05-25,Converted,1
+LEAD-5032,CUST-1026,Cold Outreach,Partner,REP-107,2024-05-18,Converted,1
+LEAD-5033,CUST-1168,Cold Outreach,Online,REP-102,2024-07-25,Qualified,0
+LEAD-5034,,Website,Retail,REP-102,2024-05-06,Qualified,0
+LEAD-5035,CUST-1524,LinkedIn,Retail,REP-112,2024-03-28,Converted,1
+LEAD-5036,CUST-1175,Cold Outreach,Partner,REP-109,2024-06-12,Disqualified,0
+LEAD-5037,CUST-1053,Inbound Demo,Online,REP-103,2024-06-02,Converted,1
+LEAD-5038,CUST-1186,Webinar,Partner,REP-108,2024-11-12,Converted,1
+LEAD-5039,CUST-1260,Inbound Demo,Online,REP-101,2024-05-14,Converted,1
+LEAD-5040,CUST-1006,Partner Event,Online,REP-108,2025-05-24,Converted,1
+LEAD-5041,CUST-1488,Inbound Demo,Online,REP-104,2025-05-20,Converted,1
+LEAD-5042,CUST-1251,Website,Direct Sales,REP-110,2025-03-28,Contacted,0
+LEAD-5043,CUST-1213,LinkedIn,Retail,REP-111,2024-10-11,Converted,1
+LEAD-5044,CUST-1149,Website,Partner,REP-111,2024-05-31,Contacted,0
+LEAD-5045,CUST-1427,Referral,Partner,REP-102,2024-11-01,Disqualified,0
+LEAD-5046,CUST-1610,Webinar,Direct Sales,REP-105,2024-06-14,Converted,1
+LEAD-5047,CUST-1037,Cold Outreach,Direct Sales,REP-112,2024-06-30,Converted,1
+LEAD-5048,,Referral,Direct Sales,REP-106,2024-11-02,Contacted,0
+LEAD-5049,CUST-1483,Partner Event,Retail,REP-109,2025-03-13,Converted,1
+LEAD-5050,CUST-1215,Referral,Online,REP-109,2024-10-08,Qualified,0
+LEAD-5051,,Website,Retail,REP-110,2024-02-29,Qualified,0
+LEAD-5052,,Cold Outreach,Direct Sales,REP-112,2024-03-30,Disqualified,0
+LEAD-5053,,Cold Outreach,Direct Sales,REP-110,2024-10-21,Converted,1
+LEAD-5054,CUST-1533,Inbound Demo,Partner,REP-110,2024-12-28,Qualified,0
+LEAD-5055,,Cold Outreach,Direct Sales,REP-103,2025-05-24,Converted,1
+LEAD-5056,CUST-1477,Inbound Demo,Retail,REP-101,2024-10-24,Qualified,0
+LEAD-5057,,Webinar,Retail,REP-104,2024-04-30,Disqualified,0
+LEAD-5058,CUST-1218,Website,Direct Sales,REP-106,2025-02-27,Converted,1
+LEAD-5059,CUST-1070,Webinar,Online,REP-105,2024-07-25,Converted,1
+LEAD-5060,CUST-1342,Partner Event,Partner,REP-101,2024-11-27,Converted,1
+LEAD-5061,CUST-1347,Partner Event,Retail,REP-103,2024-01-30,Disqualified,0
+LEAD-5062,CUST-1494,Cold Outreach,Online,REP-101,2025-05-05,Converted,1
+LEAD-5063,,Partner Event,Partner,REP-109,2025-04-16,Converted,1
+LEAD-5064,,Webinar,Partner,REP-101,2025-02-27,Converted,1
+LEAD-5065,CUST-1592,LinkedIn,Partner,REP-109,2024-11-19,Qualified,0
+LEAD-5066,CUST-1032,Website,Online,REP-103,2024-12-28,Converted,1
+LEAD-5067,,Webinar,Partner,REP-109,2025-01-19,Converted,1
+LEAD-5068,CUST-1316,Inbound Demo,Retail,REP-110,2025-02-02,Qualified,0
+LEAD-5069,CUST-1089,Webinar,Online,REP-101,2024-11-18,Converted,1
+LEAD-5070,,Referral,Online,REP-108,2024-08-31,Converted,1
+LEAD-5071,CUST-1039,Inbound Demo,Retail,REP-102,2024-11-05,Qualified,0
+LEAD-5072,CUST-1495,Cold Outreach,Online,REP-109,2024-04-04,Disqualified,0
+LEAD-5073,,Inbound Demo,Retail,REP-106,2024-06-06,Qualified,0
+LEAD-5074,CUST-1101,Partner Event,Direct Sales,REP-106,2024-11-13,Contacted,0
+LEAD-5075,CUST-1397,Inbound Demo,Online,REP-112,2024-05-15,Qualified,0
+LEAD-5076,,Website,Retail,REP-105,2024-04-28,Qualified,0
+LEAD-5077,,Referral,Direct Sales,REP-108,2024-03-30,Converted,1
+LEAD-5078,,Website,Direct Sales,REP-110,2024-11-15,Qualified,0
+LEAD-5079,CUST-1284,Referral,Direct Sales,REP-104,2024-08-02,Converted,1
+LEAD-5080,CUST-1162,Webinar,Partner,REP-102,2025-03-27,Converted,1
+LEAD-5081,CUST-1212,LinkedIn,Online,REP-109,2024-01-16,Converted,1
+LEAD-5082,,Referral,Direct Sales,REP-103,2024-11-22,Contacted,0
+LEAD-5083,CUST-1347,Inbound Demo,Retail,REP-102,2024-09-07,Converted,1
+LEAD-5084,CUST-1052,Inbound Demo,Online,REP-101,2024-02-21,Converted,1
+LEAD-5085,CUST-1611,Website,Partner,REP-107,2024-02-25,Contacted,0
+LEAD-5086,CUST-1203,LinkedIn,Direct Sales,REP-106,2025-04-01,Qualified,0
+LEAD-5087,CUST-1096,Partner Event,Partner,REP-108,2024-03-21,Contacted,0
+LEAD-5088,CUST-1477,Website,Online,REP-108,2025-04-24,Converted,1
+LEAD-5089,CUST-1373,Inbound Demo,Retail,REP-110,2024-08-17,Converted,1
+LEAD-5090,CUST-1031,Partner Event,Direct Sales,REP-106,2024-12-04,Converted,1
+LEAD-5091,CUST-1175,Referral,Online,REP-108,2024-04-25,Converted,1
+LEAD-5092,CUST-1106,LinkedIn,Online,REP-110,2024-12-22,Converted,1
+LEAD-5093,CUST-1310,Referral,Online,REP-109,2024-04-19,Converted,1
+LEAD-5094,CUST-1250,LinkedIn,Direct Sales,REP-107,2025-02-14,Converted,1
+LEAD-5095,CUST-1606,Cold Outreach,Direct Sales,REP-102,2025-05-08,Converted,1
+LEAD-5096,CUST-1242,LinkedIn,Retail,REP-106,2025-03-21,Converted,1
+LEAD-5097,CUST-1499,Webinar,Direct Sales,REP-112,2024-03-20,Converted,1
+LEAD-5098,CUST-1456,Referral,Online,REP-109,2025-04-19,Converted,1
+LEAD-5099,CUST-1611,Website,Partner,REP-110,2025-02-19,Qualified,0
+LEAD-5100,CUST-1063,Referral,Partner,REP-108,2025-01-23,Converted,1
+LEAD-5101,,LinkedIn,Online,REP-111,2024-05-22,Qualified,0
+LEAD-5102,CUST-1631,Cold Outreach,Online,REP-109,2024-06-01,Converted,1
+LEAD-5103,,Inbound Demo,Online,REP-111,2024-07-19,Converted,1
+LEAD-5104,,Cold Outreach,Partner,REP-112,2024-11-07,Converted,1
+LEAD-5105,CUST-1523,LinkedIn,Partner,REP-101,2024-04-01,Converted,1
+LEAD-5106,CUST-1563,Partner Event,Direct Sales,REP-105,2024-05-10,Disqualified,0
+LEAD-5107,,Webinar,Retail,REP-109,2024-01-01,Converted,1
+LEAD-5108,CUST-1605,Partner Event,Partner,REP-101,2024-10-15,Converted,1
+LEAD-5109,CUST-1446,Webinar,Direct Sales,REP-107,2024-11-21,Converted,1
+LEAD-5110,CUST-1394,Cold Outreach,Retail,REP-103,2024-06-26,Contacted,0
+LEAD-5111,CUST-1129,Partner Event,Online,REP-107,2025-01-03,Converted,1
+LEAD-5112,CUST-1499,Webinar,Online,REP-101,2024-03-14,Qualified,0
+LEAD-5113,CUST-1426,Website,Online,REP-103,2024-05-19,Contacted,0
+LEAD-5114,CUST-1435,LinkedIn,Online,REP-103,2025-03-11,Converted,1
+LEAD-5115,CUST-1435,Cold Outreach,Direct Sales,REP-106,2025-04-05,Converted,1
+LEAD-5116,CUST-1514,Partner Event,Retail,REP-112,2025-05-25,Converted,1
+LEAD-5117,CUST-1378,Website,Online,REP-101,2025-01-10,Converted,1
+LEAD-5118,CUST-1540,Webinar,Online,REP-102,2025-05-08,Disqualified,0
+LEAD-5119,CUST-1625,Cold Outreach,Direct Sales,REP-109,2024-10-13,Converted,1
+LEAD-5120,,Webinar,Retail,REP-112,2025-04-28,Qualified,0
+LEAD-5121,,LinkedIn,Direct Sales,REP-101,2024-11-15,Converted,1
+LEAD-5122,CUST-1481,Cold Outreach,Direct Sales,REP-108,2024-01-12,Converted,1
+LEAD-5123,,Cold Outreach,Online,REP-106,2024-12-05,Contacted,0
+LEAD-5124,,Inbound Demo,Online,REP-101,2024-10-23,Converted,1
+LEAD-5125,CUST-1645,Webinar,Retail,REP-110,2024-11-07,Converted,1
+LEAD-5126,,LinkedIn,Retail,REP-101,2024-06-22,Converted,1
+LEAD-5127,CUST-1518,Referral,Online,REP-108,2024-01-28,Converted,1
+LEAD-5128,CUST-1282,Referral,Retail,REP-103,2024-10-11,Contacted,0
+LEAD-5129,CUST-1606,Webinar,Partner,REP-102,2024-01-15,Qualified,0
+LEAD-5130,CUST-1242,Referral,Retail,REP-103,2025-04-02,Converted,1
+LEAD-5131,,Referral,Direct Sales,REP-102,2024-02-03,Converted,1
+LEAD-5132,,Partner Event,Direct Sales,REP-108,2024-06-06,Converted,1
+LEAD-5133,CUST-1172,Inbound Demo,Direct Sales,REP-111,2025-01-27,Converted,1
+LEAD-5134,CUST-1119,Website,Partner,REP-111,2024-12-19,Converted,1
+LEAD-5135,CUST-1546,Cold Outreach,Online,REP-108,2025-04-20,Converted,1
+LEAD-5136,CUST-1446,Cold Outreach,Online,REP-105,2025-02-03,Converted,1
+LEAD-5137,CUST-1543,Cold Outreach,Online,REP-111,2025-04-04,Qualified,0
+LEAD-5138,CUST-1443,Website,Partner,REP-109,2024-02-12,Converted,1
+LEAD-5139,CUST-1101,Referral,Online,REP-105,2024-10-06,Converted,1
+LEAD-5140,,Cold Outreach,Partner,REP-111,2025-02-04,Qualified,0
+LEAD-5141,,LinkedIn,Retail,REP-106,2024-07-18,Disqualified,0
+LEAD-5142,,LinkedIn,Online,REP-101,2024-11-16,Contacted,0
+LEAD-5143,CUST-1457,Cold Outreach,Partner,REP-102,2024-01-13,Converted,1
+LEAD-5144,CUST-1635,Referral,Direct Sales,REP-104,2024-10-17,Converted,1
+LEAD-5145,CUST-1123,LinkedIn,Retail,REP-111,2024-08-10,Converted,1
+LEAD-5146,,Cold Outreach,Online,REP-111,2024-05-13,Qualified,0
+LEAD-5147,CUST-1302,Website,Partner,REP-112,2024-07-08,Converted,1
+LEAD-5148,,Webinar,Retail,REP-108,2024-03-18,Converted,1
+LEAD-5149,,Webinar,Retail,REP-111,2025-03-13,Converted,1
+LEAD-5150,CUST-1064,Partner Event,Partner,REP-102,2024-06-14,Converted,1
+LEAD-5151,,Website,Direct Sales,REP-105,2024-12-06,Converted,1
+LEAD-5152,,Website,Partner,REP-108,2025-03-27,Converted,1
+LEAD-5153,CUST-1148,Inbound Demo,Retail,REP-111,2025-02-06,Converted,1
+LEAD-5154,CUST-1453,Inbound Demo,Direct Sales,REP-110,2025-03-17,Qualified,0
+LEAD-5155,CUST-1257,Website,Online,REP-102,2024-04-15,Qualified,0
+LEAD-5156,,Cold Outreach,Retail,REP-103,2024-01-20,Converted,1
+LEAD-5157,CUST-1338,Webinar,Partner,REP-107,2024-02-08,Disqualified,0
+LEAD-5158,,LinkedIn,Partner,REP-112,2024-01-04,Converted,1
+LEAD-5159,,Cold Outreach,Online,REP-112,2025-03-22,Contacted,0
+LEAD-5160,,Website,Partner,REP-107,2024-08-19,Contacted,0
+LEAD-5161,CUST-1368,Website,Direct Sales,REP-110,2025-05-08,Converted,1
+LEAD-5162,CUST-1093,Cold Outreach,Partner,REP-101,2024-11-06,Converted,1
+LEAD-5163,,Website,Online,REP-108,2024-12-14,Converted,1
+LEAD-5164,CUST-1394,Inbound Demo,Partner,REP-109,2024-07-26,Qualified,0
+LEAD-5165,,Webinar,Retail,REP-107,2024-11-02,Qualified,0
+LEAD-5166,,Cold Outreach,Online,REP-102,2025-01-02,Converted,1
+LEAD-5167,CUST-1608,Inbound Demo,Retail,REP-101,2024-07-13,Converted,1
+LEAD-5168,CUST-1512,Website,Direct Sales,REP-109,2025-02-02,Converted,1
+LEAD-5169,CUST-1346,Website,Retail,REP-101,2025-04-05,Contacted,0
+LEAD-5170,CUST-1536,Cold Outreach,Partner,REP-102,2024-02-13,Converted,1
+LEAD-5171,CUST-1074,Webinar,Direct Sales,REP-110,2024-06-01,Converted,1
+LEAD-5172,CUST-1634,Cold Outreach,Partner,REP-111,2024-05-24,Converted,1
+LEAD-5173,CUST-1315,Website,Retail,REP-103,2024-05-13,Contacted,0
+LEAD-5174,CUST-1606,Cold Outreach,Direct Sales,REP-110,2024-04-09,Converted,1
+LEAD-5175,CUST-1631,Website,Direct Sales,REP-108,2024-04-18,Converted,1
+LEAD-5176,,Cold Outreach,Partner,REP-106,2024-07-26,Disqualified,0
+LEAD-5177,,Referral,Partner,REP-102,2025-02-15,Converted,1
+LEAD-5178,,Referral,Partner,REP-104,2024-05-20,Converted,1
+LEAD-5179,CUST-1426,Website,Partner,REP-102,2024-12-09,Converted,1
+LEAD-5180,CUST-1596,LinkedIn,Direct Sales,REP-103,2025-01-13,Converted,1
+LEAD-5181,CUST-1162,Partner Event,Partner,REP-111,2024-04-12,Converted,1
+LEAD-5182,CUST-1092,Website,Online,REP-101,2025-05-13,Qualified,0
+LEAD-5183,,Cold Outreach,Direct Sales,REP-112,2024-10-17,Qualified,0
+LEAD-5184,CUST-1536,Inbound Demo,Online,REP-103,2024-05-09,Converted,1
+LEAD-5185,,Inbound Demo,Direct Sales,REP-110,2024-09-01,Converted,1
+LEAD-5186,CUST-1309,LinkedIn,Direct Sales,REP-102,2025-05-26,Converted,1
+LEAD-5187,CUST-1543,LinkedIn,Direct Sales,REP-104,2024-01-05,Disqualified,0
+LEAD-5188,CUST-1476,Partner Event,Partner,REP-109,2025-01-05,Qualified,0
+LEAD-5189,CUST-1153,Referral,Direct Sales,REP-101,2024-08-01,Qualified,0
+LEAD-5190,CUST-1045,Cold Outreach,Direct Sales,REP-103,2025-04-30,Converted,1
+LEAD-5191,CUST-1343,Referral,Online,REP-104,2025-01-07,Converted,1
+LEAD-5192,,Website,Direct Sales,REP-102,2025-04-09,Disqualified,0
+LEAD-5193,CUST-1119,Inbound Demo,Online,REP-101,2024-06-29,Converted,1
+LEAD-5194,CUST-1334,Webinar,Online,REP-108,2024-08-28,Converted,1
+LEAD-5195,CUST-1101,Inbound Demo,Partner,REP-102,2024-11-29,Converted,1
+LEAD-5196,CUST-1226,Partner Event,Partner,REP-104,2025-02-26,Converted,1
+LEAD-5197,CUST-1625,Website,Partner,REP-107,2025-05-11,Converted,1
+LEAD-5198,CUST-1199,Referral,Direct Sales,REP-103,2025-01-31,Qualified,0
+LEAD-5199,CUST-1583,Inbound Demo,Direct Sales,REP-106,2024-10-03,Converted,1
+LEAD-5200,CUST-1176,Website,Retail,REP-108,2024-05-19,Qualified,0
+LEAD-5201,CUST-1627,Referral,Direct Sales,REP-110,2024-08-13,Disqualified,0
+LEAD-5202,,Website,Direct Sales,REP-107,2024-08-23,Converted,1
+LEAD-5203,,LinkedIn,Online,REP-108,2024-08-09,Converted,1
+LEAD-5204,CUST-1445,Webinar,Direct Sales,REP-104,2025-03-14,Converted,1
+LEAD-5205,CUST-1046,LinkedIn,Direct Sales,REP-101,2024-06-01,Converted,1
+LEAD-5206,CUST-1544,Webinar,Direct Sales,REP-109,2025-04-26,Converted,1
+LEAD-5207,CUST-1572,Cold Outreach,Direct Sales,REP-108,2024-04-10,Qualified,0
+LEAD-5208,CUST-1245,Inbound Demo,Direct Sales,REP-103,2025-02-20,Qualified,0
+LEAD-5209,,Website,Partner,REP-108,2024-04-02,Converted,1
+LEAD-5210,,Partner Event,Partner,REP-110,2025-04-15,Converted,1
+LEAD-5211,,Cold Outreach,Partner,REP-103,2025-04-10,Converted,1
+LEAD-5212,,Webinar,Partner,REP-108,2025-01-14,Converted,1
+LEAD-5213,CUST-1034,Cold Outreach,Retail,REP-112,2024-03-13,Converted,1
+LEAD-5214,CUST-1213,Webinar,Online,REP-110,2024-10-03,Contacted,0
+LEAD-5215,,LinkedIn,Online,REP-106,2024-03-23,Converted,1
+LEAD-5216,CUST-1477,Website,Online,REP-102,2025-01-07,Converted,1
+LEAD-5217,CUST-1069,Referral,Partner,REP-103,2025-01-09,Converted,1
+LEAD-5218,CUST-1117,Inbound Demo,Retail,REP-106,2024-07-28,Qualified,0
+LEAD-5219,,Partner Event,Online,REP-112,2024-08-02,Converted,1
+LEAD-5220,CUST-1056,LinkedIn,Retail,REP-111,2024-09-30,Converted,1
+LEAD-5221,CUST-1126,Cold Outreach,Online,REP-108,2024-12-19,Converted,1
+LEAD-5222,CUST-1068,Cold Outreach,Retail,REP-110,2024-10-26,Converted,1
+LEAD-5223,CUST-1184,Website,Direct Sales,REP-102,2025-04-13,Converted,1
+LEAD-5224,CUST-1152,Website,Online,REP-103,2024-03-19,Converted,1
+LEAD-5225,CUST-1427,LinkedIn,Direct Sales,REP-111,2024-07-28,Disqualified,0
+LEAD-5226,CUST-1022,Cold Outreach,Online,REP-106,2024-05-15,Converted,1
+LEAD-5227,,Website,Online,REP-104,2024-03-05,Converted,1
+LEAD-5228,CUST-1335,Cold Outreach,Online,REP-110,2024-12-09,Converted,1
+LEAD-5229,CUST-1314,Cold Outreach,Partner,REP-105,2025-03-31,Converted,1
+LEAD-5230,CUST-1296,Inbound Demo,Direct Sales,REP-108,2024-09-23,Qualified,0
+LEAD-5231,CUST-1171,Inbound Demo,Direct Sales,REP-106,2024-02-18,Converted,1
+LEAD-5232,CUST-1180,Webinar,Partner,REP-109,2024-06-13,Contacted,0
+LEAD-5233,CUST-1325,Inbound Demo,Partner,REP-104,2024-06-06,Converted,1
+LEAD-5234,CUST-1576,Referral,Online,REP-106,2025-03-27,Qualified,0
+LEAD-5235,CUST-1553,Referral,Direct Sales,REP-103,2024-11-20,Disqualified,0
+LEAD-5236,CUST-1512,Website,Online,REP-101,2024-11-04,Qualified,0
+LEAD-5237,CUST-1560,Referral,Online,REP-103,2025-04-14,Disqualified,0
+LEAD-5238,CUST-1297,Webinar,Partner,REP-112,2024-12-05,Disqualified,0
+LEAD-5239,,Partner Event,Online,REP-110,2024-05-30,Disqualified,0
+LEAD-5240,,Webinar,Direct Sales,REP-102,2024-12-12,Disqualified,0
+LEAD-5241,CUST-1026,Webinar,Partner,REP-109,2024-05-22,Converted,1
+LEAD-5242,CUST-1057,Cold Outreach,Online,REP-106,2024-08-13,Converted,1
+LEAD-5243,CUST-1285,LinkedIn,Direct Sales,REP-109,2024-07-18,Converted,1
+LEAD-5244,,LinkedIn,Online,REP-108,2024-03-26,Disqualified,0
+LEAD-5245,CUST-1620,Inbound Demo,Retail,REP-108,2025-02-07,Converted,1
+LEAD-5246,CUST-1438,Webinar,Direct Sales,REP-106,2024-02-27,Converted,1
+LEAD-5247,CUST-1316,Website,Partner,REP-105,2025-01-16,Disqualified,0
+LEAD-5248,,Inbound Demo,Direct Sales,REP-112,2024-03-30,Qualified,0
+LEAD-5249,CUST-1435,Partner Event,Online,REP-108,2025-03-01,Qualified,0
+LEAD-5250,CUST-1148,Inbound Demo,Partner,REP-110,2025-02-28,Converted,1
+LEAD-5251,,Partner Event,Retail,REP-109,2025-05-01,Converted,1
+LEAD-5252,CUST-1280,Website,Partner,REP-101,2025-01-19,Converted,1
+LEAD-5253,,Webinar,Partner,REP-110,2025-04-18,Converted,1
+LEAD-5254,CUST-1503,Partner Event,Retail,REP-107,2024-07-09,Converted,1
+LEAD-5255,CUST-1573,Partner Event,Online,REP-110,2024-11-05,Qualified,0
+LEAD-5256,CUST-1308,Website,Online,REP-101,2024-08-17,Disqualified,0
+LEAD-5257,,Website,Partner,REP-111,2025-04-28,Converted,1
+LEAD-5258,CUST-1030,Cold Outreach,Direct Sales,REP-112,2024-07-02,Converted,1
+LEAD-5259,CUST-1371,Cold Outreach,Retail,REP-102,2024-10-10,Converted,1
+LEAD-5260,CUST-1488,Partner Event,Retail,REP-105,2025-03-22,Disqualified,0
+LEAD-5261,,Referral,Direct Sales,REP-109,2024-05-02,Converted,1
+LEAD-5262,CUST-1328,Inbound Demo,Online,REP-110,2024-09-22,Converted,1
+LEAD-5263,CUST-1370,Referral,Partner,REP-103,2024-05-18,Converted,1
+LEAD-5264,CUST-1079,Website,Online,REP-105,2024-12-30,Converted,1
+LEAD-5265,CUST-1172,Partner Event,Retail,REP-102,2024-07-06,Converted,1
+LEAD-5266,,Partner Event,Direct Sales,REP-111,2024-11-19,Converted,1
+LEAD-5267,CUST-1148,Website,Partner,REP-109,2025-01-06,Converted,1
+LEAD-5268,CUST-1167,Referral,Online,REP-108,2024-10-15,Converted,1
+LEAD-5269,,LinkedIn,Partner,REP-104,2024-06-07,Contacted,0
+LEAD-5270,,Cold Outreach,Direct Sales,REP-108,2024-04-26,Converted,1
+LEAD-5271,CUST-1372,Website,Direct Sales,REP-108,2024-05-14,Converted,1
+LEAD-5272,,LinkedIn,Online,REP-109,2025-03-28,Converted,1
+LEAD-5273,,Website,Partner,REP-112,2024-11-07,Converted,1
+LEAD-5274,CUST-1215,Webinar,Retail,REP-104,2024-05-25,Converted,1
+LEAD-5275,,Cold Outreach,Online,REP-112,2024-03-21,Converted,1
+LEAD-5276,,Partner Event,Online,REP-108,2024-01-20,Converted,1
+LEAD-5277,CUST-1061,Website,Online,REP-111,2024-04-20,Converted,1
+LEAD-5278,CUST-1011,Website,Partner,REP-102,2024-09-16,Qualified,0
+LEAD-5279,CUST-1205,LinkedIn,Partner,REP-104,2024-05-06,Converted,1
+LEAD-5280,CUST-1285,Website,Direct Sales,REP-102,2024-12-25,Disqualified,0
+LEAD-5281,,Referral,Online,REP-103,2024-12-22,Contacted,0
+LEAD-5282,CUST-1593,LinkedIn,Direct Sales,REP-110,2024-09-04,Qualified,0
+LEAD-5283,,Webinar,Partner,REP-104,2024-08-10,Converted,1
+LEAD-5284,,Webinar,Direct Sales,REP-102,2024-01-05,Disqualified,0
+LEAD-5285,CUST-1451,Referral,Retail,REP-112,2025-05-01,Qualified,0
+LEAD-5286,,Inbound Demo,Online,REP-106,2024-04-19,Converted,1
+LEAD-5287,,Cold Outreach,Partner,REP-102,2024-08-21,Converted,1
+LEAD-5288,CUST-1370,Website,Direct Sales,REP-109,2025-04-22,Qualified,0
+LEAD-5289,CUST-1395,Website,Direct Sales,REP-106,2024-02-11,Converted,1
+LEAD-5290,CUST-1418,Webinar,Partner,REP-108,2024-11-15,Converted,1
+LEAD-5291,,Inbound Demo,Partner,REP-102,2025-03-14,Contacted,0
+LEAD-5292,,Inbound Demo,Retail,REP-101,2025-01-11,Converted,1
+LEAD-5293,CUST-1088,Cold Outreach,Online,REP-108,2024-04-17,Converted,1
+LEAD-5294,CUST-1105,Cold Outreach,Online,REP-112,2025-02-08,Qualified,0
+LEAD-5295,,Website,Partner,REP-106,2024-06-21,Converted,1
+LEAD-5296,,Website,Direct Sales,REP-104,2025-02-17,Qualified,0
+LEAD-5297,,Partner Event,Online,REP-112,2024-10-12,Converted,1
+LEAD-5298,,Referral,Online,REP-108,2025-02-13,Disqualified,0
+LEAD-5299,CUST-1466,LinkedIn,Online,REP-105,2025-05-11,Converted,1
+LEAD-5300,CUST-1138,Cold Outreach,Retail,REP-108,2024-09-13,Converted,1
+LEAD-5301,CUST-1028,Partner Event,Online,REP-102,2024-02-24,Disqualified,0
+LEAD-5302,CUST-1311,LinkedIn,Direct Sales,REP-111,2025-01-26,Qualified,0
+LEAD-5303,,Partner Event,Online,REP-102,2024-04-08,Converted,1
+LEAD-5304,CUST-1510,Partner Event,Direct Sales,REP-108,2025-05-19,Converted,1
+LEAD-5305,,LinkedIn,Online,REP-106,2024-09-24,Converted,1
+LEAD-5306,,Partner Event,Direct Sales,REP-101,2024-01-19,Contacted,0
+LEAD-5307,CUST-1386,Cold Outreach,Online,REP-108,2024-05-01,Converted,1
+LEAD-5308,CUST-1311,Website,Partner,REP-103,2024-02-06,Contacted,0
+LEAD-5309,CUST-1399,Cold Outreach,Online,REP-107,2024-06-17,Converted,1
+LEAD-5310,CUST-1568,LinkedIn,Direct Sales,REP-111,2024-04-22,Qualified,0
+LEAD-5311,,Cold Outreach,Retail,REP-109,2025-04-26,Converted,1
+LEAD-5312,CUST-1387,Referral,Partner,REP-108,2025-02-04,Converted,1
+LEAD-5313,CUST-1029,Partner Event,Direct Sales,REP-105,2024-12-27,Converted,1
+LEAD-5314,CUST-1598,Partner Event,Direct Sales,REP-106,2024-05-11,Converted,1
+LEAD-5315,CUST-1366,Cold Outreach,Direct Sales,REP-102,2024-12-15,Converted,1
+LEAD-5316,CUST-1320,Webinar,Partner,REP-104,2024-02-27,Converted,1
+LEAD-5317,CUST-1174,Partner Event,Retail,REP-105,2024-03-08,Converted,1
+LEAD-5318,,Website,Partner,REP-108,2024-11-29,Converted,1
+LEAD-5319,,Referral,Direct Sales,REP-101,2025-03-07,Converted,1
+LEAD-5320,CUST-1587,Cold Outreach,Partner,REP-110,2024-11-20,Converted,1
+LEAD-5321,,Website,Direct Sales,REP-112,2025-05-15,Converted,1
+LEAD-5322,CUST-1630,Partner Event,Online,REP-111,2025-05-29,Converted,1
+LEAD-5323,CUST-1078,Inbound Demo,Direct Sales,REP-108,2025-03-22,Contacted,0
+LEAD-5324,CUST-1588,Referral,Retail,REP-105,2024-08-07,Converted,1
+LEAD-5325,,LinkedIn,Online,REP-112,2024-08-19,Qualified,0
+LEAD-5326,CUST-1581,LinkedIn,Partner,REP-106,2024-04-07,Contacted,0
+LEAD-5327,CUST-1079,Cold Outreach,Online,REP-104,2025-05-01,Qualified,0
+LEAD-5328,CUST-1553,LinkedIn,Direct Sales,REP-105,2024-11-05,Converted,1
+LEAD-5329,CUST-1465,Cold Outreach,Online,REP-105,2025-02-28,Qualified,0
+LEAD-5330,,Website,Direct Sales,REP-111,2024-07-03,Contacted,0
+LEAD-5331,,Inbound Demo,Partner,REP-111,2025-05-26,Qualified,0
+LEAD-5332,CUST-1630,Referral,Direct Sales,REP-111,2025-04-23,Contacted,0
+LEAD-5333,CUST-1535,LinkedIn,Partner,REP-112,2025-03-20,Converted,1
+LEAD-5334,CUST-1308,Inbound Demo,Partner,REP-104,2025-04-18,Contacted,0
+LEAD-5335,CUST-1423,Referral,Retail,REP-102,2025-02-24,Converted,1
+LEAD-5336,CUST-1616,Webinar,Online,REP-103,2024-10-20,Converted,1
+LEAD-5337,CUST-1252,Website,Direct Sales,REP-103,2024-09-01,Contacted,0
+LEAD-5338,CUST-1447,Cold Outreach,Online,REP-108,2024-11-13,Converted,1
+LEAD-5339,CUST-1030,Inbound Demo,Retail,REP-103,2024-02-07,Converted,1
+LEAD-5340,CUST-1044,Webinar,Retail,REP-109,2024-10-11,Disqualified,0
+LEAD-5341,CUST-1086,Partner Event,Direct Sales,REP-101,2025-05-12,Converted,1
+LEAD-5342,,Partner Event,Retail,REP-102,2024-11-01,Converted,1
+LEAD-5343,,Webinar,Direct Sales,REP-111,2025-01-07,Converted,1
+LEAD-5344,CUST-1513,Inbound Demo,Partner,REP-102,2024-05-23,Disqualified,0
+LEAD-5345,CUST-1126,Cold Outreach,Online,REP-102,2024-09-14,Qualified,0
+LEAD-5346,,Referral,Partner,REP-110,2024-11-16,Contacted,0
+LEAD-5347,CUST-1180,Cold Outreach,Online,REP-104,2024-08-29,Converted,1
+LEAD-5348,CUST-1604,Cold Outreach,Retail,REP-107,2024-10-08,Converted,1
+LEAD-5349,CUST-1434,Webinar,Partner,REP-102,2025-01-18,Converted,1
+LEAD-5350,CUST-1377,Referral,Partner,REP-103,2024-09-09,Contacted,0
+LEAD-5351,CUST-1056,Webinar,Online,REP-110,2024-01-22,Qualified,0
+LEAD-5352,CUST-1372,Referral,Online,REP-109,2024-09-02,Disqualified,0
+LEAD-5353,,LinkedIn,Online,REP-104,2024-05-04,Converted,1
+LEAD-5354,CUST-1242,Referral,Direct Sales,REP-105,2025-02-06,Converted,1
+LEAD-5355,CUST-1417,Cold Outreach,Online,REP-111,2024-06-13,Contacted,0
+LEAD-5356,,Partner Event,Retail,REP-102,2024-10-07,Disqualified,0
+LEAD-5357,,Webinar,Direct Sales,REP-107,2025-04-27,Converted,1
+LEAD-5358,,Partner Event,Online,REP-102,2025-03-08,Qualified,0
+LEAD-5359,CUST-1561,Referral,Direct Sales,REP-107,2024-03-08,Qualified,0
+LEAD-5360,,Webinar,Direct Sales,REP-101,2025-04-09,Qualified,0
+LEAD-5361,,Webinar,Partner,REP-108,2024-07-07,Converted,1
+LEAD-5362,CUST-1590,Inbound Demo,Direct Sales,REP-111,2025-02-14,Converted,1
+LEAD-5363,,Inbound Demo,Retail,REP-109,2024-06-10,Qualified,0
+LEAD-5364,,Partner Event,Direct Sales,REP-110,2024-05-13,Contacted,0
+LEAD-5365,,Cold Outreach,Retail,REP-108,2024-11-23,Converted,1
+LEAD-5366,,Webinar,Retail,REP-110,2024-06-26,Contacted,0
+LEAD-5367,CUST-1403,Website,Online,REP-107,2024-07-22,Contacted,0
+LEAD-5368,,Website,Retail,REP-101,2024-08-17,Qualified,0
+LEAD-5369,CUST-1173,Website,Online,REP-108,2024-08-22,Converted,1
+LEAD-5370,CUST-1377,LinkedIn,Partner,REP-105,2025-03-15,Converted,1
+LEAD-5371,CUST-1465,Website,Direct Sales,REP-112,2024-04-30,Contacted,0
+LEAD-5372,,Website,Retail,REP-104,2025-05-21,Converted,1
+LEAD-5373,CUST-1134,Referral,Retail,REP-112,2024-09-29,Converted,1
+LEAD-5374,,LinkedIn,Partner,REP-104,2024-07-30,Converted,1
+LEAD-5375,CUST-1150,Cold Outreach,Partner,REP-103,2024-07-12,Converted,1
+LEAD-5376,CUST-1255,Inbound Demo,Online,REP-110,2024-09-25,Converted,1
+LEAD-5377,CUST-1332,Website,Online,REP-101,2025-04-14,Disqualified,0
+LEAD-5378,,Webinar,Direct Sales,REP-104,2025-02-11,Qualified,0
+LEAD-5379,CUST-1054,Website,Online,REP-102,2024-09-19,Converted,1
+LEAD-5380,,Cold Outreach,Partner,REP-106,2024-08-28,Disqualified,0
+LEAD-5381,CUST-1391,Website,Direct Sales,REP-105,2024-02-16,Converted,1
+LEAD-5382,CUST-1573,Webinar,Retail,REP-106,2025-02-08,Converted,1
+LEAD-5383,CUST-1348,Referral,Partner,REP-103,2024-07-02,Contacted,0
+LEAD-5384,,Website,Retail,REP-106,2024-05-15,Converted,1
+LEAD-5385,CUST-1131,Website,Online,REP-106,2024-09-23,Converted,1
+LEAD-5386,,Webinar,Retail,REP-106,2024-10-14,Converted,1
+LEAD-5387,CUST-1447,LinkedIn,Retail,REP-105,2024-09-26,Contacted,0
+LEAD-5388,,Webinar,Direct Sales,REP-108,2024-11-19,Converted,1
+LEAD-5389,CUST-1236,Website,Partner,REP-104,2025-03-26,Converted,1
+LEAD-5390,,Referral,Partner,REP-103,2025-04-26,Converted,1
+LEAD-5391,CUST-1575,Website,Online,REP-108,2025-05-21,Converted,1
+LEAD-5392,,Website,Direct Sales,REP-112,2025-05-19,Converted,1
+LEAD-5393,CUST-1173,Inbound Demo,Direct Sales,REP-105,2024-04-05,Qualified,0
+LEAD-5394,CUST-1598,LinkedIn,Online,REP-111,2024-10-06,Disqualified,0
+LEAD-5395,CUST-1079,LinkedIn,Direct Sales,REP-110,2024-01-05,Converted,1
+LEAD-5396,,Webinar,Online,REP-102,2025-05-25,Converted,1
+LEAD-5397,CUST-1109,Cold Outreach,Online,REP-106,2024-05-04,Contacted,0
+LEAD-5398,CUST-1492,Website,Online,REP-102,2024-06-06,Converted,1
+LEAD-5399,CUST-1045,LinkedIn,Retail,REP-111,2024-10-02,Qualified,0
+LEAD-5400,,Referral,Direct Sales,REP-112,2025-04-08,Disqualified,0
+LEAD-5401,,Inbound Demo,Retail,REP-101,2024-05-12,Converted,1
+LEAD-5402,CUST-1617,Webinar,Direct Sales,REP-102,2024-02-26,Converted,1
+LEAD-5403,CUST-1409,Referral,Direct Sales,REP-103,2025-02-12,Converted,1
+LEAD-5404,,Inbound Demo,Direct Sales,REP-107,2024-08-01,Converted,1
+LEAD-5405,CUST-1443,Website,Direct Sales,REP-105,2024-06-06,Qualified,0
+LEAD-5406,CUST-1099,Webinar,Online,REP-110,2024-11-13,Contacted,0
+LEAD-5407,,Cold Outreach,Partner,REP-108,2024-07-23,Converted,1
+LEAD-5408,,Website,Online,REP-107,2025-03-09,Converted,1
+LEAD-5409,CUST-1526,Webinar,Partner,REP-107,2025-03-20,Converted,1
+LEAD-5410,CUST-1159,Webinar,Partner,REP-104,2025-04-19,Disqualified,0
+LEAD-5411,CUST-1490,Referral,Online,REP-108,2024-03-26,Converted,1
+LEAD-5412,,Webinar,Online,REP-105,2024-05-10,Converted,1
+LEAD-5413,CUST-1047,LinkedIn,Partner,REP-101,2024-10-29,Converted,1
+LEAD-5414,CUST-1583,Cold Outreach,Direct Sales,REP-102,2025-03-11,Contacted,0
+LEAD-5415,CUST-1516,Referral,Online,REP-110,2024-12-29,Converted,1
+LEAD-5416,,Inbound Demo,Retail,REP-103,2025-04-18,Converted,1
+LEAD-5417,CUST-1466,Webinar,Online,REP-105,2025-03-02,Qualified,0
+LEAD-5418,CUST-1192,LinkedIn,Partner,REP-105,2025-04-05,Converted,1
+LEAD-5419,CUST-1109,Webinar,Retail,REP-110,2024-03-21,Converted,1
+LEAD-5420,CUST-1176,Website,Online,REP-107,2024-01-19,Qualified,0
+LEAD-5421,,Webinar,Online,REP-107,2025-04-16,Disqualified,0
+LEAD-5422,,Referral,Online,REP-110,2025-05-13,Converted,1
+LEAD-5423,CUST-1139,Partner Event,Online,REP-105,2025-02-08,Converted,1
+LEAD-5424,,Partner Event,Online,REP-101,2024-04-24,Converted,1
+LEAD-5425,CUST-1248,Inbound Demo,Partner,REP-108,2024-01-28,Converted,1
+LEAD-5426,,Website,Online,REP-105,2024-07-14,Converted,1
+LEAD-5427,CUST-1157,Website,Direct Sales,REP-102,2025-03-08,Qualified,0
+LEAD-5428,CUST-1461,Cold Outreach,Retail,REP-108,2025-03-31,Converted,1
+LEAD-5429,,Referral,Partner,REP-110,2024-07-25,Converted,1
+LEAD-5430,CUST-1443,Website,Partner,REP-102,2024-12-07,Disqualified,0
+LEAD-5431,CUST-1568,Webinar,Online,REP-110,2025-05-22,Disqualified,0
+LEAD-5432,CUST-1606,Cold Outreach,Partner,REP-107,2024-02-07,Qualified,0
+LEAD-5433,CUST-1020,Inbound Demo,Direct Sales,REP-112,2025-05-14,Converted,1
+LEAD-5434,CUST-1428,LinkedIn,Direct Sales,REP-102,2024-11-19,Contacted,0
+LEAD-5435,,Cold Outreach,Online,REP-110,2024-04-29,Converted,1
+LEAD-5436,CUST-1197,Website,Retail,REP-103,2025-03-22,Converted,1
+LEAD-5437,CUST-1348,Inbound Demo,Direct Sales,REP-109,2025-03-24,Disqualified,0
+LEAD-5438,,Inbound Demo,Online,REP-105,2025-04-24,Converted,1
+LEAD-5439,,Partner Event,Direct Sales,REP-111,2025-03-02,Converted,1
+LEAD-5440,CUST-1290,Partner Event,Direct Sales,REP-103,2025-04-28,Qualified,0
+LEAD-5441,CUST-1205,Webinar,Retail,REP-108,2024-03-29,Converted,1
+LEAD-5442,,Website,Partner,REP-107,2025-05-18,Converted,1
+LEAD-5443,CUST-1019,Inbound Demo,Partner,REP-109,2024-08-28,Converted,1
+LEAD-5444,CUST-1516,Referral,Online,REP-111,2024-09-24,Converted,1
+LEAD-5445,CUST-1233,Referral,Direct Sales,REP-107,2024-03-06,Converted,1
+LEAD-5446,,Cold Outreach,Direct Sales,REP-105,2024-08-17,Contacted,0
+LEAD-5447,CUST-1155,Partner Event,Online,REP-109,2024-02-17,Contacted,0
+LEAD-5448,,Webinar,Online,REP-101,2024-04-16,Converted,1
+LEAD-5449,,Partner Event,Partner,REP-102,2025-04-13,Contacted,0
+LEAD-5450,CUST-1108,Partner Event,Online,REP-109,2024-04-14,Converted,1
+LEAD-5451,,Partner Event,Direct Sales,REP-104,2024-04-30,Converted,1
+LEAD-5452,,Webinar,Online,REP-108,2024-10-26,Converted,1
+LEAD-5453,CUST-1142,Inbound Demo,Online,REP-111,2024-04-11,Converted,1
+LEAD-5454,,Cold Outreach,Online,REP-107,2024-07-25,Converted,1
+LEAD-5455,CUST-1088,Referral,Retail,REP-105,2025-04-30,Converted,1
+LEAD-5456,,Referral,Partner,REP-111,2025-02-28,Converted,1
+LEAD-5457,CUST-1440,Partner Event,Retail,REP-104,2025-03-07,Converted,1
+LEAD-5458,,Cold Outreach,Direct Sales,REP-109,2025-02-23,Converted,1
+LEAD-5459,,Cold Outreach,Online,REP-103,2024-01-31,Qualified,0
+LEAD-5460,CUST-1169,Website,Direct Sales,REP-106,2024-03-12,Converted,1
+LEAD-5461,,Partner Event,Direct Sales,REP-101,2025-02-06,Qualified,0
+LEAD-5462,,Webinar,Retail,REP-112,2024-02-29,Contacted,0
+LEAD-5463,,Cold Outreach,Online,REP-107,2024-10-29,Qualified,0
+LEAD-5464,CUST-1353,Webinar,Direct Sales,REP-112,2024-11-07,Converted,1
+LEAD-5465,,LinkedIn,Online,REP-110,2024-10-13,Qualified,0
+LEAD-5466,,Webinar,Direct Sales,REP-104,2025-04-01,Qualified,0
+LEAD-5467,,Webinar,Partner,REP-106,2025-03-28,Contacted,0
+LEAD-5468,,Partner Event,Direct Sales,REP-104,2025-02-18,Converted,1
+LEAD-5469,,Cold Outreach,Direct Sales,REP-112,2024-12-08,Contacted,0
+LEAD-5470,CUST-1320,Inbound Demo,Direct Sales,REP-102,2024-10-17,Converted,1
+LEAD-5471,,Website,Direct Sales,REP-101,2024-06-12,Converted,1
+LEAD-5472,,Inbound Demo,Partner,REP-105,2024-09-21,Disqualified,0
+LEAD-5473,,Webinar,Retail,REP-101,2024-04-23,Converted,1
+LEAD-5474,,Website,Retail,REP-101,2024-12-28,Disqualified,0
+LEAD-5475,,Referral,Partner,REP-110,2025-04-04,Converted,1
+LEAD-5476,,Partner Event,Direct Sales,REP-112,2024-08-29,Converted,1
+LEAD-5477,CUST-1587,Referral,Partner,REP-105,2024-08-27,Qualified,0
+LEAD-5478,CUST-1336,LinkedIn,Direct Sales,REP-112,2025-01-21,Converted,1
+LEAD-5479,CUST-1151,Partner Event,Online,REP-106,2024-07-16,Qualified,0
+LEAD-5480,CUST-1134,Website,Retail,REP-102,2025-02-25,Converted,1
+LEAD-5481,,Website,Online,REP-106,2025-04-01,Converted,1
+LEAD-5482,CUST-1434,Partner Event,Retail,REP-105,2025-02-08,Disqualified,0
+LEAD-5483,,Webinar,Direct Sales,REP-107,2025-05-16,Converted,1
+LEAD-5484,CUST-1526,Cold Outreach,Partner,REP-112,2024-05-10,Contacted,0
+LEAD-5485,CUST-1034,Webinar,Partner,REP-104,2024-04-30,Qualified,0
+LEAD-5486,,Website,Retail,REP-110,2025-01-13,Converted,1
+LEAD-5487,CUST-1157,LinkedIn,Partner,REP-105,2025-01-13,Converted,1
+LEAD-5488,CUST-1029,Referral,Partner,REP-105,2024-11-08,Contacted,0
+LEAD-5489,CUST-1313,Partner Event,Online,REP-110,2024-05-25,Contacted,0
+LEAD-5490,CUST-1126,Inbound Demo,Direct Sales,REP-112,2024-08-08,Converted,1
+LEAD-5491,CUST-1587,Partner Event,Online,REP-101,2024-03-10,Converted,1
+LEAD-5492,CUST-1621,Referral,Partner,REP-107,2025-04-08,Converted,1
+LEAD-5493,CUST-1461,LinkedIn,Direct Sales,REP-111,2024-05-21,Qualified,0
+LEAD-5494,CUST-1640,Partner Event,Partner,REP-112,2024-06-01,Qualified,0
+LEAD-5495,,Cold Outreach,Online,REP-104,2025-02-23,Converted,1
+LEAD-5496,,Webinar,Online,REP-108,2024-02-16,Qualified,0
+LEAD-5497,CUST-1317,Webinar,Partner,REP-101,2024-06-18,Converted,1
+LEAD-5498,CUST-1634,Webinar,Online,REP-109,2024-05-06,Converted,1
+LEAD-5499,CUST-1488,LinkedIn,Online,REP-109,2024-02-24,Converted,1
+LEAD-5500,,Website,Online,REP-111,2024-01-20,Converted,1
+LEAD-5501,CUST-1594,Referral,Retail,REP-104,2024-01-20,Converted,1
+LEAD-5502,CUST-1024,Cold Outreach,Partner,REP-110,2024-11-24,Converted,1
+LEAD-5503,,Cold Outreach,Direct Sales,REP-101,2024-07-03,Converted,1
+LEAD-5504,,Website,Online,REP-102,2024-09-20,Converted,1
+LEAD-5505,CUST-1092,Inbound Demo,Direct Sales,REP-103,2024-10-19,Converted,1
+LEAD-5506,CUST-1334,Webinar,Partner,REP-103,2025-02-21,Converted,1
+LEAD-5507,CUST-1146,Referral,Partner,REP-107,2024-02-29,Converted,1
+LEAD-5508,,Referral,Online,REP-107,2024-11-27,Contacted,0
+LEAD-5509,,Inbound Demo,Online,REP-104,2024-02-23,Converted,1
+LEAD-5510,CUST-1118,LinkedIn,Online,REP-109,2025-05-19,Converted,1
+LEAD-5511,CUST-1496,Cold Outreach,Partner,REP-109,2024-11-21,Converted,1
+LEAD-5512,CUST-1601,Website,Partner,REP-105,2024-08-27,Qualified,0
+LEAD-5513,,Partner Event,Online,REP-109,2024-09-09,Converted,1
+LEAD-5514,,Cold Outreach,Online,REP-102,2025-02-20,Converted,1
+LEAD-5515,,Referral,Online,REP-109,2024-05-25,Contacted,0
+LEAD-5516,CUST-1476,LinkedIn,Retail,REP-108,2025-03-09,Disqualified,0
+LEAD-5517,CUST-1494,Webinar,Online,REP-103,2024-10-23,Converted,1
+LEAD-5518,CUST-1360,Partner Event,Partner,REP-111,2024-09-13,Contacted,0
+LEAD-5519,CUST-1166,LinkedIn,Partner,REP-109,2024-08-05,Qualified,0
+LEAD-5520,CUST-1126,Referral,Direct Sales,REP-102,2024-03-12,Contacted,0
+LEAD-5521,CUST-1326,Cold Outreach,Online,REP-104,2024-10-13,Contacted,0
+LEAD-5522,,Webinar,Online,REP-105,2024-12-16,Qualified,0
+LEAD-5523,,Inbound Demo,Partner,REP-111,2024-10-06,Converted,1
+LEAD-5524,CUST-1137,LinkedIn,Partner,REP-106,2025-04-15,Qualified,0
+LEAD-5525,CUST-1010,LinkedIn,Partner,REP-108,2024-01-03,Qualified,0
+LEAD-5526,,LinkedIn,Direct Sales,REP-112,2025-02-27,Qualified,0
+LEAD-5527,,Partner Event,Online,REP-111,2024-03-24,Converted,1
+LEAD-5528,CUST-1386,Webinar,Retail,REP-102,2025-03-31,Contacted,0
+LEAD-5529,,Cold Outreach,Partner,REP-103,2025-01-01,Contacted,0
+LEAD-5530,CUST-1198,Website,Online,REP-108,2024-01-09,Converted,1
+LEAD-5531,,Webinar,Retail,REP-101,2024-08-14,Qualified,0
+LEAD-5532,,Inbound Demo,Partner,REP-102,2025-01-01,Qualified,0
+LEAD-5533,,Inbound Demo,Direct Sales,REP-108,2024-08-14,Converted,1
+LEAD-5534,CUST-1008,Webinar,Partner,REP-112,2025-05-19,Converted,1
+LEAD-5535,CUST-1506,Website,Partner,REP-105,2025-02-09,Converted,1
+LEAD-5536,CUST-1618,Webinar,Partner,REP-112,2024-07-17,Converted,1
+LEAD-5537,,LinkedIn,Online,REP-103,2024-03-07,Converted,1
+LEAD-5538,,LinkedIn,Direct Sales,REP-112,2024-08-21,Converted,1
+LEAD-5539,CUST-1259,Webinar,Retail,REP-111,2024-01-24,Qualified,0
+LEAD-5540,CUST-1054,Website,Online,REP-107,2025-04-09,Contacted,0
+LEAD-5541,CUST-1531,Cold Outreach,Direct Sales,REP-107,2024-11-26,Converted,1
+LEAD-5542,,LinkedIn,Direct Sales,REP-101,2025-01-05,Converted,1
+LEAD-5543,CUST-1006,Cold Outreach,Direct Sales,REP-109,2024-10-11,Converted,1
+LEAD-5544,,Website,Partner,REP-110,2024-12-08,Disqualified,0
+LEAD-5545,,Webinar,Retail,REP-107,2024-08-19,Disqualified,0
+LEAD-5546,CUST-1642,Inbound Demo,Online,REP-106,2024-07-20,Qualified,0
+LEAD-5547,,Cold Outreach,Online,REP-107,2024-01-29,Converted,1
+LEAD-5548,CUST-1485,Partner Event,Online,REP-105,2024-12-08,Converted,1
+LEAD-5549,,Partner Event,Retail,REP-101,2024-12-14,Converted,1
+LEAD-5550,CUST-1098,Website,Partner,REP-110,2024-08-30,Qualified,0
+LEAD-5551,,Website,Online,REP-101,2024-05-07,Converted,1
+LEAD-5552,CUST-1453,Partner Event,Partner,REP-103,2024-03-07,Converted,1
+LEAD-5553,,Website,Retail,REP-102,2025-03-18,Converted,1
+LEAD-5554,CUST-1633,Partner Event,Retail,REP-107,2024-10-28,Qualified,0
+LEAD-5555,,Partner Event,Retail,REP-110,2024-08-26,Qualified,0
+LEAD-5556,,Cold Outreach,Online,REP-108,2025-04-09,Contacted,0
+LEAD-5557,,Referral,Partner,REP-111,2024-04-13,Contacted,0
+LEAD-5558,CUST-1111,LinkedIn,Direct Sales,REP-106,2025-04-09,Converted,1
+LEAD-5559,,LinkedIn,Retail,REP-104,2024-03-10,Converted,1
+LEAD-5560,CUST-1636,Referral,Partner,REP-107,2024-09-19,Converted,1
+LEAD-5561,CUST-1320,Inbound Demo,Partner,REP-101,2024-09-05,Converted,1
+LEAD-5562,,Referral,Partner,REP-110,2025-01-01,Qualified,0
+LEAD-5563,CUST-1299,Cold Outreach,Online,REP-105,2024-05-30,Converted,1
+LEAD-5564,,LinkedIn,Direct Sales,REP-110,2024-01-09,Converted,1
+LEAD-5565,,LinkedIn,Retail,REP-109,2024-08-31,Converted,1
+LEAD-5566,,Inbound Demo,Retail,REP-111,2024-07-19,Contacted,0
+LEAD-5567,CUST-1479,Inbound Demo,Online,REP-111,2024-12-15,Converted,1
+LEAD-5568,CUST-1344,Partner Event,Online,REP-110,2024-12-05,Converted,1
+LEAD-5569,CUST-1044,Referral,Online,REP-103,2025-03-04,Converted,1
+LEAD-5570,,Webinar,Partner,REP-104,2024-01-04,Converted,1
+LEAD-5571,,Inbound Demo,Partner,REP-108,2024-08-06,Disqualified,0
+LEAD-5572,CUST-1410,Partner Event,Online,REP-112,2024-12-05,Converted,1
+LEAD-5573,CUST-1031,Referral,Direct Sales,REP-101,2024-01-07,Converted,1
+LEAD-5574,CUST-1600,Referral,Retail,REP-108,2024-05-25,Disqualified,0
+LEAD-5575,CUST-1291,Website,Partner,REP-101,2025-01-03,Converted,1
+LEAD-5576,CUST-1568,Webinar,Direct Sales,REP-103,2024-09-25,Converted,1
+LEAD-5577,,Website,Partner,REP-103,2024-07-19,Disqualified,0
+LEAD-5578,CUST-1114,Partner Event,Direct Sales,REP-111,2024-01-22,Converted,1
+LEAD-5579,CUST-1382,Referral,Online,REP-108,2024-08-03,Qualified,0
+LEAD-5580,CUST-1134,Webinar,Direct Sales,REP-102,2025-03-20,Contacted,0
+LEAD-5581,,LinkedIn,Partner,REP-107,2024-07-15,Converted,1
+LEAD-5582,,Webinar,Retail,REP-104,2025-03-15,Qualified,0
+LEAD-5583,CUST-1153,Partner Event,Partner,REP-109,2024-07-12,Converted,1
+LEAD-5584,,Webinar,Partner,REP-105,2024-02-24,Contacted,0
+LEAD-5585,CUST-1482,Inbound Demo,Online,REP-112,2025-05-15,Contacted,0
+LEAD-5586,CUST-1522,Inbound Demo,Direct Sales,REP-109,2024-03-07,Converted,1
+LEAD-5587,,Inbound Demo,Online,REP-106,2025-04-20,Converted,1
+LEAD-5588,CUST-1596,Webinar,Online,REP-108,2025-05-09,Converted,1
+LEAD-5589,,Inbound Demo,Partner,REP-104,2024-02-07,Converted,1
+LEAD-5590,CUST-1387,Cold Outreach,Retail,REP-104,2024-08-28,Converted,1
+LEAD-5591,CUST-1087,Referral,Online,REP-109,2025-01-18,Converted,1
+LEAD-5592,CUST-1525,Inbound Demo,Direct Sales,REP-110,2024-12-26,Qualified,0
+LEAD-5593,CUST-1377,Cold Outreach,Partner,REP-108,2025-03-12,Contacted,0
+LEAD-5594,CUST-1453,Referral,Online,REP-107,2024-11-20,Converted,1
+LEAD-5595,CUST-1514,Referral,Direct Sales,REP-102,2024-03-18,Converted,1
+LEAD-5596,,Partner Event,Partner,REP-105,2024-03-21,Converted,1
+LEAD-5597,CUST-1342,Referral,Partner,REP-101,2024-03-14,Converted,1
+LEAD-5598,,Referral,Online,REP-105,2024-12-03,Qualified,0
+LEAD-5599,CUST-1142,Inbound Demo,Direct Sales,REP-112,2024-10-08,Disqualified,0
+LEAD-5600,CUST-1355,Website,Partner,REP-105,2024-09-24,Contacted,0
+LEAD-5601,,Cold Outreach,Direct Sales,REP-110,2025-02-17,Converted,1
+LEAD-5602,CUST-1215,Partner Event,Online,REP-107,2024-06-01,Converted,1
+LEAD-5603,CUST-1088,Webinar,Partner,REP-108,2025-04-24,Converted,1
+LEAD-5604,CUST-1450,Cold Outreach,Online,REP-112,2024-07-11,Converted,1
+LEAD-5605,CUST-1132,Referral,Partner,REP-103,2024-01-31,Converted,1
+LEAD-5606,,Cold Outreach,Online,REP-111,2024-01-10,Converted,1
+LEAD-5607,,Cold Outreach,Retail,REP-111,2025-03-05,Qualified,0
+LEAD-5608,CUST-1033,Referral,Direct Sales,REP-110,2024-11-02,Disqualified,0
+LEAD-5609,CUST-1618,Referral,Direct Sales,REP-110,2024-06-06,Disqualified,0
+LEAD-5610,,Cold Outreach,Online,REP-104,2025-02-04,Converted,1
+LEAD-5611,CUST-1584,Inbound Demo,Online,REP-108,2025-01-30,Disqualified,0
+LEAD-5612,CUST-1567,Website,Retail,REP-103,2024-11-07,Converted,1
+LEAD-5613,CUST-1396,Website,Retail,REP-103,2025-05-15,Converted,1
+LEAD-5614,CUST-1466,Referral,Direct Sales,REP-111,2024-08-26,Converted,1
+LEAD-5615,,Inbound Demo,Direct Sales,REP-106,2024-01-12,Converted,1
+LEAD-5616,CUST-1490,Website,Partner,REP-103,2024-06-09,Qualified,0
+LEAD-5617,CUST-1211,Partner Event,Retail,REP-104,2025-02-02,Converted,1
+LEAD-5618,CUST-1318,Inbound Demo,Partner,REP-110,2025-05-01,Converted,1
+LEAD-5619,CUST-1207,Webinar,Direct Sales,REP-111,2025-05-29,Converted,1
+LEAD-5620,,Cold Outreach,Direct Sales,REP-102,2024-05-26,Converted,1
+LEAD-5621,,LinkedIn,Partner,REP-106,2024-09-09,Contacted,0
+LEAD-5622,CUST-1094,Cold Outreach,Online,REP-110,2025-04-16,Converted,1
+LEAD-5623,,Referral,Partner,REP-112,2025-04-12,Contacted,0
+LEAD-5624,CUST-1184,LinkedIn,Direct Sales,REP-103,2025-02-04,Contacted,0
+LEAD-5625,,Cold Outreach,Partner,REP-107,2025-03-18,Converted,1
+LEAD-5626,,Cold Outreach,Online,REP-112,2024-04-07,Converted,1
+LEAD-5627,CUST-1069,Referral,Direct Sales,REP-111,2024-06-10,Qualified,0
+LEAD-5628,,Cold Outreach,Direct Sales,REP-107,2024-08-10,Converted,1
+LEAD-5629,CUST-1334,Website,Partner,REP-102,2025-01-12,Converted,1
+LEAD-5630,CUST-1474,Referral,Online,REP-104,2024-06-17,Converted,1
+LEAD-5631,,Cold Outreach,Direct Sales,REP-106,2025-04-17,Contacted,0
+LEAD-5632,CUST-1140,Website,Direct Sales,REP-101,2025-02-10,Converted,1
+LEAD-5633,CUST-1562,Cold Outreach,Direct Sales,REP-108,2025-04-20,Qualified,0
+LEAD-5634,,Inbound Demo,Partner,REP-108,2025-03-24,Contacted,0
+LEAD-5635,CUST-1182,Partner Event,Partner,REP-101,2024-06-23,Converted,1
+LEAD-5636,,Inbound Demo,Partner,REP-102,2025-02-04,Converted,1
+LEAD-5637,CUST-1222,Inbound Demo,Online,REP-108,2024-10-06,Qualified,0
+LEAD-5638,CUST-1536,Cold Outreach,Retail,REP-112,2024-08-09,Qualified,0
+LEAD-5639,CUST-1054,Cold Outreach,Direct Sales,REP-112,2024-04-15,Converted,1
+LEAD-5640,,Partner Event,Online,REP-107,2024-02-19,Disqualified,0
+LEAD-5641,CUST-1432,Inbound Demo,Online,REP-104,2025-01-18,Converted,1
+LEAD-5642,,Referral,Direct Sales,REP-104,2024-01-15,Converted,1
+LEAD-5643,CUST-1172,Partner Event,Partner,REP-111,2024-04-08,Converted,1
+LEAD-5644,CUST-1642,Partner Event,Partner,REP-106,2024-04-20,Converted,1
+LEAD-5645,,LinkedIn,Partner,REP-107,2024-07-31,Converted,1
+LEAD-5646,CUST-1016,Website,Direct Sales,REP-106,2024-08-06,Converted,1
+LEAD-5647,CUST-1226,Website,Direct Sales,REP-107,2024-11-19,Converted,1
+LEAD-5648,CUST-1069,Webinar,Online,REP-110,2024-10-12,Contacted,0
+LEAD-5649,CUST-1105,Referral,Direct Sales,REP-110,2025-02-24,Qualified,0
+LEAD-5650,CUST-1647,Referral,Direct Sales,REP-102,2024-06-24,Qualified,0
+LEAD-5651,CUST-1326,Referral,Online,REP-103,2024-05-16,Disqualified,0
+LEAD-5652,CUST-1600,Website,Online,REP-106,2025-05-08,Converted,1
+LEAD-5653,,LinkedIn,Partner,REP-110,2024-08-26,Converted,1
+LEAD-5654,CUST-1439,LinkedIn,Partner,REP-102,2024-01-22,Qualified,0
+LEAD-5655,CUST-1304,Website,Retail,REP-103,2024-03-22,Converted,1
+LEAD-5656,CUST-1613,Inbound Demo,Retail,REP-111,2025-01-19,Disqualified,0
+LEAD-5657,CUST-1326,Webinar,Partner,REP-106,2025-03-30,Qualified,0
+LEAD-5658,CUST-1296,LinkedIn,Direct Sales,REP-107,2024-02-10,Qualified,0
+LEAD-5659,CUST-1249,Partner Event,Partner,REP-112,2024-08-22,Converted,1
+LEAD-5660,,Webinar,Partner,REP-104,2024-02-25,Qualified,0
+LEAD-5661,CUST-1188,LinkedIn,Online,REP-107,2024-08-15,Converted,1
+LEAD-5662,CUST-1198,Website,Direct Sales,REP-108,2024-01-07,Converted,1
+LEAD-5663,CUST-1607,Inbound Demo,Retail,REP-103,2024-05-24,Converted,1
+LEAD-5664,CUST-1479,Inbound Demo,Direct Sales,REP-109,2024-07-28,Converted,1
+LEAD-5665,CUST-1255,Inbound Demo,Direct Sales,REP-107,2024-07-21,Converted,1
+LEAD-5666,CUST-1493,Webinar,Direct Sales,REP-104,2025-04-04,Converted,1
+LEAD-5667,CUST-1452,Cold Outreach,Online,REP-107,2025-01-03,Converted,1
+LEAD-5668,,Partner Event,Direct Sales,REP-103,2025-03-19,Contacted,0
+LEAD-5669,CUST-1086,Partner Event,Direct Sales,REP-107,2024-01-21,Qualified,0
+LEAD-5670,CUST-1180,LinkedIn,Online,REP-109,2024-11-03,Converted,1
+LEAD-5671,CUST-1576,Referral,Online,REP-108,2025-04-19,Converted,1
+LEAD-5672,,Referral,Retail,REP-103,2024-03-14,Converted,1
+LEAD-5673,,Website,Online,REP-101,2024-07-13,Qualified,0
+LEAD-5674,,Cold Outreach,Direct Sales,REP-107,2025-01-18,Disqualified,0
+LEAD-5675,CUST-1603,Cold Outreach,Online,REP-108,2025-01-17,Converted,1
+LEAD-5676,,Website,Retail,REP-107,2024-02-09,Converted,1
+LEAD-5677,CUST-1501,Referral,Online,REP-112,2025-03-22,Qualified,0
+LEAD-5678,,Webinar,Direct Sales,REP-101,2025-01-12,Disqualified,0
+LEAD-5679,CUST-1371,Inbound Demo,Retail,REP-108,2024-09-09,Qualified,0
+LEAD-5680,CUST-1268,Webinar,Retail,REP-111,2024-01-29,Converted,1
+LEAD-5681,CUST-1166,Referral,Online,REP-104,2024-05-30,Converted,1
+LEAD-5682,,Webinar,Partner,REP-112,2024-04-04,Converted,1
+LEAD-5683,,LinkedIn,Direct Sales,REP-104,2024-03-23,Converted,1
+LEAD-5684,CUST-1546,Referral,Direct Sales,REP-112,2025-03-13,Qualified,0
+LEAD-5685,,LinkedIn,Online,REP-105,2025-01-26,Qualified,0
+LEAD-5686,CUST-1353,Website,Online,REP-111,2024-04-01,Contacted,0
+LEAD-5687,,Webinar,Partner,REP-104,2024-10-02,Converted,1
+LEAD-5688,,Website,Direct Sales,REP-103,2024-11-11,Converted,1
+LEAD-5689,CUST-1427,Partner Event,Direct Sales,REP-112,2024-03-12,Qualified,0
+LEAD-5690,CUST-1138,Inbound Demo,Partner,REP-103,2025-03-17,Converted,1
+LEAD-5691,CUST-1218,LinkedIn,Partner,REP-102,2024-07-05,Converted,1
+LEAD-5692,,Webinar,Online,REP-103,2024-03-01,Converted,1
+LEAD-5693,,Cold Outreach,Partner,REP-111,2025-02-22,Converted,1
+LEAD-5694,CUST-1128,Website,Online,REP-105,2024-06-19,Converted,1
+LEAD-5695,CUST-1497,Website,Partner,REP-110,2024-12-16,Qualified,0
+LEAD-5696,CUST-1008,Website,Partner,REP-101,2024-04-13,Qualified,0
+LEAD-5697,CUST-1008,Website,Retail,REP-104,2024-02-12,Converted,1
+LEAD-5698,,Cold Outreach,Online,REP-108,2024-09-29,Converted,1
+LEAD-5699,,Referral,Online,REP-111,2024-12-10,Disqualified,0
+LEAD-5700,CUST-1626,Referral,Online,REP-111,2024-09-02,Converted,1
+LEAD-5701,,Partner Event,Online,REP-106,2024-12-30,Converted,1
+LEAD-5702,CUST-1126,Webinar,Online,REP-103,2025-02-15,Contacted,0
+LEAD-5703,CUST-1634,Webinar,Retail,REP-104,2024-10-13,Qualified,0
+LEAD-5704,,LinkedIn,Online,REP-107,2025-05-01,Converted,1
+LEAD-5705,CUST-1047,Website,Online,REP-111,2024-11-25,Disqualified,0
+LEAD-5706,CUST-1497,Webinar,Partner,REP-108,2024-11-29,Converted,1
+LEAD-5707,,Referral,Direct Sales,REP-107,2024-03-24,Disqualified,0
+LEAD-5708,,Webinar,Partner,REP-112,2025-05-02,Qualified,0
+LEAD-5709,,LinkedIn,Online,REP-104,2024-10-27,Contacted,0
+LEAD-5710,CUST-1090,Website,Direct Sales,REP-103,2025-05-31,Converted,1
+LEAD-5711,,Inbound Demo,Online,REP-108,2025-04-23,Converted,1
+LEAD-5712,CUST-1092,Inbound Demo,Online,REP-104,2024-09-03,Converted,1
+LEAD-5713,,Inbound Demo,Retail,REP-106,2024-01-30,Qualified,0
+LEAD-5714,,Webinar,Online,REP-105,2024-08-13,Disqualified,0
+LEAD-5715,,Webinar,Direct Sales,REP-103,2024-05-06,Qualified,0
+LEAD-5716,CUST-1230,Website,Direct Sales,REP-112,2025-05-18,Disqualified,0
+LEAD-5717,CUST-1391,Webinar,Direct Sales,REP-106,2024-03-07,Qualified,0
+LEAD-5718,CUST-1119,Partner Event,Retail,REP-104,2025-03-23,Converted,1
+LEAD-5719,,Website,Online,REP-106,2024-04-24,Disqualified,0
+LEAD-5720,CUST-1321,LinkedIn,Partner,REP-106,2024-04-28,Disqualified,0
+LEAD-5721,CUST-1195,Referral,Retail,REP-101,2024-01-02,Contacted,0
+LEAD-5722,,Referral,Direct Sales,REP-106,2025-03-09,Disqualified,0
+LEAD-5723,CUST-1228,LinkedIn,Retail,REP-111,2024-05-09,Converted,1
+LEAD-5724,CUST-1304,LinkedIn,Online,REP-108,2024-01-10,Contacted,0
+LEAD-5725,CUST-1291,Webinar,Direct Sales,REP-108,2025-05-26,Converted,1
+LEAD-5726,CUST-1127,LinkedIn,Online,REP-106,2024-02-05,Converted,1
+LEAD-5727,CUST-1386,Webinar,Partner,REP-104,2025-05-04,Converted,1
+LEAD-5728,CUST-1231,Inbound Demo,Retail,REP-112,2024-12-07,Qualified,0
+LEAD-5729,,Partner Event,Online,REP-103,2024-02-23,Qualified,0
+LEAD-5730,,Partner Event,Partner,REP-111,2024-11-02,Converted,1
+LEAD-5731,CUST-1485,LinkedIn,Online,REP-107,2024-01-23,Disqualified,0
+LEAD-5732,CUST-1290,Cold Outreach,Direct Sales,REP-102,2025-02-04,Converted,1
+LEAD-5733,CUST-1135,Webinar,Direct Sales,REP-109,2024-07-18,Converted,1
+LEAD-5734,CUST-1168,Partner Event,Retail,REP-112,2024-02-25,Converted,1
+LEAD-5735,CUST-1149,Webinar,Partner,REP-108,2025-03-28,Converted,1
+LEAD-5736,CUST-1590,Webinar,Direct Sales,REP-111,2024-07-19,Converted,1
+LEAD-5737,,Cold Outreach,Online,REP-107,2024-05-31,Converted,1
+LEAD-5738,,Website,Online,REP-106,2024-02-27,Converted,1
+LEAD-5739,,Website,Online,REP-109,2024-02-23,Converted,1
+LEAD-5740,CUST-1035,Webinar,Online,REP-112,2024-06-01,Converted,1
+LEAD-5741,,Cold Outreach,Retail,REP-105,2025-02-10,Disqualified,0
+LEAD-5742,,Partner Event,Direct Sales,REP-112,2025-01-19,Qualified,0
+LEAD-5743,,Partner Event,Direct Sales,REP-108,2024-04-01,Qualified,0
+LEAD-5744,CUST-1012,Webinar,Online,REP-111,2024-10-08,Converted,1
+LEAD-5745,CUST-1522,Website,Retail,REP-108,2024-03-25,Converted,1
+LEAD-5746,,Referral,Partner,REP-112,2025-05-06,Contacted,0
+LEAD-5747,,Cold Outreach,Online,REP-108,2024-07-04,Qualified,0
+LEAD-5748,CUST-1066,LinkedIn,Partner,REP-103,2024-11-01,Qualified,0
+LEAD-5749,CUST-1570,Cold Outreach,Direct Sales,REP-112,2024-07-08,Contacted,0
+LEAD-5750,,Website,Online,REP-109,2025-05-15,Converted,1
+LEAD-5751,,Partner Event,Direct Sales,REP-104,2024-05-07,Contacted,0
+LEAD-5752,,Partner Event,Direct Sales,REP-110,2024-07-04,Converted,1
+LEAD-5753,CUST-1132,Partner Event,Online,REP-106,2025-04-02,Converted,1
+LEAD-5754,CUST-1036,Website,Retail,REP-109,2024-06-14,Converted,1
+LEAD-5755,CUST-1558,LinkedIn,Retail,REP-105,2024-05-07,Converted,1
+LEAD-5756,CUST-1532,Inbound Demo,Partner,REP-105,2024-01-01,Disqualified,0
+LEAD-5757,CUST-1591,Webinar,Direct Sales,REP-109,2024-10-27,Converted,1
+LEAD-5758,CUST-1523,LinkedIn,Direct Sales,REP-106,2024-11-16,Converted,1
+LEAD-5759,CUST-1193,Webinar,Partner,REP-101,2024-04-11,Converted,1
+LEAD-5760,CUST-1606,Inbound Demo,Direct Sales,REP-110,2024-08-08,Converted,1
+LEAD-5761,CUST-1564,Webinar,Online,REP-110,2024-05-11,Converted,1
+LEAD-5762,CUST-1086,Webinar,Direct Sales,REP-103,2025-01-25,Disqualified,0
+LEAD-5763,CUST-1073,Webinar,Partner,REP-103,2025-03-11,Qualified,0
+LEAD-5764,CUST-1382,Webinar,Direct Sales,REP-112,2024-10-02,Converted,1
+LEAD-5765,CUST-1445,Cold Outreach,Online,REP-103,2024-06-16,Converted,1
+LEAD-5766,CUST-1113,Website,Partner,REP-105,2024-09-10,Qualified,0
+LEAD-5767,CUST-1372,Website,Online,REP-106,2025-02-20,Disqualified,0
+LEAD-5768,CUST-1101,Inbound Demo,Online,REP-104,2024-10-06,Converted,1
+LEAD-5769,,Cold Outreach,Online,REP-102,2024-08-15,Converted,1
+LEAD-5770,CUST-1358,LinkedIn,Direct Sales,REP-108,2024-11-09,Qualified,0
+LEAD-5771,CUST-1050,LinkedIn,Partner,REP-105,2024-10-15,Converted,1
+LEAD-5772,,Inbound Demo,Direct Sales,REP-106,2025-02-02,Qualified,0
+LEAD-5773,CUST-1010,Cold Outreach,Online,REP-110,2025-02-16,Qualified,0
+LEAD-5774,CUST-1582,Webinar,Retail,REP-103,2024-06-08,Qualified,0
+LEAD-5775,,Webinar,Retail,REP-111,2024-02-24,Qualified,0
+LEAD-5776,CUST-1469,Webinar,Retail,REP-110,2024-09-12,Converted,1
+LEAD-5777,CUST-1283,Partner Event,Online,REP-108,2024-12-28,Disqualified,0
+LEAD-5778,,Referral,Direct Sales,REP-111,2024-08-22,Disqualified,0
+LEAD-5779,,Partner Event,Retail,REP-106,2025-02-20,Qualified,0
+LEAD-5780,,Webinar,Partner,REP-104,2024-03-19,Converted,1
+LEAD-5781,CUST-1505,Website,Online,REP-112,2024-02-28,Contacted,0
+LEAD-5782,CUST-1140,Cold Outreach,Online,REP-111,2024-01-11,Converted,1
+LEAD-5783,CUST-1008,Cold Outreach,Direct Sales,REP-101,2024-05-07,Qualified,0
+LEAD-5784,,Inbound Demo,Retail,REP-112,2024-12-19,Disqualified,0
+LEAD-5785,,LinkedIn,Direct Sales,REP-108,2024-02-13,Qualified,0
+LEAD-5786,CUST-1137,Inbound Demo,Direct Sales,REP-102,2024-08-18,Converted,1
+LEAD-5787,CUST-1383,Cold Outreach,Online,REP-108,2024-02-22,Disqualified,0
+LEAD-5788,,Webinar,Partner,REP-104,2024-12-12,Contacted,0
+LEAD-5789,CUST-1272,Referral,Retail,REP-105,2024-04-30,Converted,1
+LEAD-5790,,Inbound Demo,Direct Sales,REP-105,2025-02-07,Disqualified,0
+LEAD-5791,,Cold Outreach,Partner,REP-110,2024-02-06,Converted,1
+LEAD-5792,CUST-1363,LinkedIn,Retail,REP-108,2024-01-07,Converted,1
+LEAD-5793,CUST-1010,Webinar,Online,REP-103,2024-12-24,Converted,1
+LEAD-5794,CUST-1158,Inbound Demo,Direct Sales,REP-102,2025-05-18,Converted,1
+LEAD-5795,,Website,Online,REP-103,2025-05-14,Converted,1
+LEAD-5796,CUST-1439,Cold Outreach,Partner,REP-106,2025-04-26,Contacted,0
+LEAD-5797,,Website,Direct Sales,REP-108,2024-10-02,Converted,1
+LEAD-5798,CUST-1368,Referral,Partner,REP-112,2024-05-23,Contacted,0
+LEAD-5799,CUST-1137,Website,Partner,REP-104,2024-07-22,Converted,1
+LEAD-5800,,Website,Direct Sales,REP-103,2024-12-05,Disqualified,0
+LEAD-5801,CUST-1508,Website,Retail,REP-107,2024-09-29,Contacted,0
+LEAD-5802,CUST-1399,Referral,Direct Sales,REP-107,2024-05-10,Converted,1
+LEAD-5803,CUST-1353,Partner Event,Online,REP-101,2024-04-20,Converted,1
+LEAD-5804,,Website,Partner,REP-111,2024-08-30,Converted,1
+LEAD-5805,CUST-1498,Cold Outreach,Partner,REP-108,2024-01-09,Converted,1
+LEAD-5806,CUST-1524,Inbound Demo,Direct Sales,REP-110,2025-03-15,Converted,1
+LEAD-5807,,Partner Event,Retail,REP-102,2024-10-14,Disqualified,0
+LEAD-5808,CUST-1106,Webinar,Retail,REP-107,2024-09-10,Qualified,0
+LEAD-5809,CUST-1606,LinkedIn,Online,REP-103,2025-05-29,Qualified,0
+LEAD-5810,CUST-1040,Inbound Demo,Retail,REP-102,2024-06-01,Converted,1
+LEAD-5811,CUST-1205,Inbound Demo,Online,REP-107,2024-07-15,Converted,1
+LEAD-5812,CUST-1649,Cold Outreach,Online,REP-107,2024-02-22,Disqualified,0
+LEAD-5813,CUST-1523,Referral,Online,REP-107,2024-08-15,Converted,1
+LEAD-5814,CUST-1288,Referral,Retail,REP-102,2024-02-22,Disqualified,0
+LEAD-5815,,Inbound Demo,Partner,REP-106,2025-03-04,Converted,1
+LEAD-5816,,Website,Online,REP-111,2024-01-01,Converted,1
+LEAD-5817,CUST-1190,Referral,Direct Sales,REP-110,2025-04-28,Converted,1
+LEAD-5818,CUST-1100,Referral,Partner,REP-106,2025-05-18,Qualified,0
+LEAD-5819,,Referral,Online,REP-106,2024-05-13,Converted,1
+LEAD-5820,CUST-1599,Inbound Demo,Retail,REP-111,2025-01-15,Converted,1
+LEAD-5821,,Inbound Demo,Partner,REP-111,2024-04-18,Converted,1
+LEAD-5822,CUST-1102,Inbound Demo,Direct Sales,REP-112,2024-07-14,Converted,1
+LEAD-5823,CUST-1207,Referral,Retail,REP-112,2024-12-17,Converted,1
+LEAD-5824,CUST-1564,Website,Direct Sales,REP-103,2024-06-06,Qualified,0
+LEAD-5825,CUST-1121,Referral,Retail,REP-108,2024-12-21,Disqualified,0
+LEAD-5826,CUST-1516,Cold Outreach,Partner,REP-107,2024-03-10,Contacted,0
+LEAD-5827,,LinkedIn,Partner,REP-105,2024-06-19,Converted,1
+LEAD-5828,,LinkedIn,Online,REP-101,2024-02-16,Qualified,0
+LEAD-5829,CUST-1526,Cold Outreach,Retail,REP-111,2025-02-11,Disqualified,0
+LEAD-5830,CUST-1400,Cold Outreach,Direct Sales,REP-109,2024-06-18,Converted,1
+LEAD-5831,CUST-1586,Inbound Demo,Online,REP-103,2024-10-05,Converted,1
+LEAD-5832,CUST-1538,Partner Event,Online,REP-109,2024-01-10,Converted,1
+LEAD-5833,CUST-1122,Referral,Direct Sales,REP-112,2024-08-13,Converted,1
+LEAD-5834,CUST-1152,LinkedIn,Direct Sales,REP-104,2024-02-16,Disqualified,0
+LEAD-5835,,Inbound Demo,Partner,REP-105,2024-10-11,Converted,1
+LEAD-5836,CUST-1002,Partner Event,Retail,REP-104,2024-09-11,Qualified,0
+LEAD-5837,,Referral,Online,REP-102,2025-01-12,Contacted,0
+LEAD-5838,CUST-1627,Webinar,Partner,REP-103,2024-09-27,Converted,1
+LEAD-5839,,Webinar,Online,REP-101,2024-02-28,Converted,1
+LEAD-5840,,Inbound Demo,Retail,REP-105,2024-10-13,Converted,1
+LEAD-5841,,Webinar,Partner,REP-112,2024-04-18,Disqualified,0
+LEAD-5842,CUST-1565,Partner Event,Direct Sales,REP-111,2024-09-20,Converted,1
+LEAD-5843,CUST-1596,Inbound Demo,Partner,REP-106,2025-03-28,Qualified,0
+LEAD-5844,CUST-1445,Inbound Demo,Direct Sales,REP-108,2025-02-08,Converted,1
+LEAD-5845,CUST-1190,Website,Direct Sales,REP-108,2025-05-05,Contacted,0
+LEAD-5846,CUST-1185,Inbound Demo,Retail,REP-110,2024-06-29,Qualified,0
+LEAD-5847,,Referral,Direct Sales,REP-103,2024-01-22,Contacted,0
+LEAD-5848,CUST-1252,Website,Direct Sales,REP-103,2024-07-11,Converted,1
+LEAD-5849,CUST-1013,Website,Direct Sales,REP-112,2025-02-16,Converted,1
+LEAD-5850,CUST-1014,Cold Outreach,Retail,REP-101,2025-01-21,Qualified,0
+LEAD-5851,,Inbound Demo,Direct Sales,REP-104,2024-02-14,Converted,1
+LEAD-5852,,Partner Event,Online,REP-101,2024-01-14,Converted,1
+LEAD-5853,CUST-1143,Partner Event,Partner,REP-112,2024-12-12,Converted,1
+LEAD-5854,CUST-1491,Partner Event,Retail,REP-103,2025-03-30,Converted,1
+LEAD-5855,CUST-1557,LinkedIn,Online,REP-112,2024-02-27,Converted,1
+LEAD-5856,CUST-1524,Website,Online,REP-109,2024-02-15,Contacted,0
+LEAD-5857,,Inbound Demo,Online,REP-101,2025-03-01,Converted,1
+LEAD-5858,CUST-1294,Cold Outreach,Direct Sales,REP-103,2025-03-13,Converted,1
+LEAD-5859,,Webinar,Direct Sales,REP-112,2025-01-28,Converted,1
+LEAD-5860,CUST-1289,Website,Partner,REP-104,2024-06-22,Converted,1
+LEAD-5861,,Website,Partner,REP-106,2024-12-07,Disqualified,0
+LEAD-5862,CUST-1544,LinkedIn,Partner,REP-103,2024-02-14,Converted,1
+LEAD-5863,CUST-1309,Webinar,Direct Sales,REP-107,2024-07-04,Qualified,0
+LEAD-5864,CUST-1512,Referral,Retail,REP-102,2024-10-20,Qualified,0
+LEAD-5865,,Partner Event,Direct Sales,REP-112,2024-09-28,Contacted,0
+LEAD-5866,CUST-1152,Partner Event,Retail,REP-111,2024-06-01,Converted,1
+LEAD-5867,CUST-1438,Partner Event,Partner,REP-102,2025-05-04,Disqualified,0
+LEAD-5868,CUST-1131,Inbound Demo,Online,REP-102,2024-10-12,Converted,1
+LEAD-5869,CUST-1493,Referral,Partner,REP-106,2025-01-29,Qualified,0
+LEAD-5870,CUST-1252,LinkedIn,Direct Sales,REP-111,2025-02-27,Converted,1
+LEAD-5871,CUST-1550,LinkedIn,Partner,REP-109,2025-05-24,Contacted,0
+LEAD-5872,,Website,Online,REP-110,2025-01-28,Converted,1
+LEAD-5873,CUST-1003,Webinar,Online,REP-102,2024-08-12,Converted,1
+LEAD-5874,CUST-1137,Referral,Retail,REP-109,2024-01-18,Disqualified,0
+LEAD-5875,,Referral,Online,REP-106,2024-03-02,Contacted,0
+LEAD-5876,CUST-1565,Referral,Retail,REP-108,2024-05-22,Disqualified,0
+LEAD-5877,,Inbound Demo,Online,REP-104,2025-03-07,Converted,1
+LEAD-5878,,Website,Partner,REP-112,2024-05-21,Converted,1
+LEAD-5879,CUST-1109,Webinar,Partner,REP-107,2024-01-27,Qualified,0
+LEAD-5880,,Cold Outreach,Direct Sales,REP-110,2024-03-16,Converted,1
+LEAD-5881,CUST-1013,Inbound Demo,Online,REP-102,2025-01-09,Converted,1
+LEAD-5882,CUST-1144,Inbound Demo,Online,REP-103,2025-03-02,Qualified,0
+LEAD-5883,,Cold Outreach,Online,REP-107,2024-11-02,Converted,1
+LEAD-5884,CUST-1033,Referral,Online,REP-102,2024-01-14,Converted,1
+LEAD-5885,CUST-1434,LinkedIn,Partner,REP-103,2024-06-26,Qualified,0
+LEAD-5886,,LinkedIn,Retail,REP-112,2025-04-10,Disqualified,0
+LEAD-5887,CUST-1161,Referral,Retail,REP-112,2025-05-28,Converted,1
+LEAD-5888,,LinkedIn,Partner,REP-107,2024-04-04,Converted,1
+LEAD-5889,CUST-1402,Cold Outreach,Partner,REP-110,2024-08-04,Converted,1
+LEAD-5890,CUST-1321,Partner Event,Partner,REP-112,2024-03-20,Qualified,0
+LEAD-5891,CUST-1381,Partner Event,Online,REP-107,2025-02-18,Qualified,0
+LEAD-5892,CUST-1372,Referral,Retail,REP-102,2024-07-18,Converted,1
+LEAD-5893,CUST-1555,Website,Partner,REP-104,2024-12-09,Converted,1
+LEAD-5894,,LinkedIn,Direct Sales,REP-101,2024-08-04,Converted,1
+LEAD-5895,CUST-1088,Webinar,Online,REP-101,2024-07-25,Disqualified,0
+LEAD-5896,CUST-1323,LinkedIn,Direct Sales,REP-108,2024-02-15,Converted,1
+LEAD-5897,,Website,Direct Sales,REP-106,2024-11-12,Disqualified,0
+LEAD-5898,,Inbound Demo,Retail,REP-106,2025-05-27,Qualified,0
+LEAD-5899,CUST-1418,Webinar,Direct Sales,REP-111,2024-05-12,Contacted,0
+LEAD-5900,,Website,Direct Sales,REP-109,2025-05-30,Converted,1
+LEAD-5901,,Cold Outreach,Retail,REP-110,2025-01-26,Converted,1
+LEAD-5902,CUST-1641,Inbound Demo,Online,REP-111,2024-06-14,Converted,1
+LEAD-5903,,Inbound Demo,Direct Sales,REP-111,2024-08-25,Qualified,0
+LEAD-5904,,LinkedIn,Online,REP-109,2024-06-13,Converted,1
+LEAD-5905,CUST-1369,Cold Outreach,Partner,REP-103,2024-12-15,Qualified,0
+LEAD-5906,,Website,Retail,REP-112,2025-03-17,Converted,1
+LEAD-5907,CUST-1157,LinkedIn,Online,REP-110,2024-08-01,Converted,1
+LEAD-5908,CUST-1317,Website,Retail,REP-101,2025-05-24,Converted,1
+LEAD-5909,CUST-1174,Cold Outreach,Online,REP-102,2024-03-30,Disqualified,0
+LEAD-5910,CUST-1362,Website,Retail,REP-105,2024-06-14,Converted,1
+LEAD-5911,CUST-1485,Webinar,Partner,REP-108,2024-07-02,Disqualified,0
+LEAD-5912,,Webinar,Partner,REP-103,2025-03-28,Disqualified,0
+LEAD-5913,,Website,Online,REP-106,2025-05-14,Converted,1
+LEAD-5914,CUST-1640,Cold Outreach,Retail,REP-106,2024-05-12,Disqualified,0
+LEAD-5915,CUST-1461,Website,Partner,REP-111,2025-01-17,Converted,1
+LEAD-5916,CUST-1251,LinkedIn,Online,REP-111,2024-02-13,Qualified,0
+LEAD-5917,CUST-1163,Inbound Demo,Retail,REP-102,2024-01-09,Converted,1
+LEAD-5918,,Inbound Demo,Online,REP-107,2024-03-15,Qualified,0
+LEAD-5919,CUST-1477,Cold Outreach,Retail,REP-108,2024-12-23,Converted,1
+LEAD-5920,,Webinar,Online,REP-102,2024-07-03,Disqualified,0
+LEAD-5921,CUST-1325,Inbound Demo,Partner,REP-107,2025-03-19,Converted,1
+LEAD-5922,,Inbound Demo,Direct Sales,REP-112,2025-05-12,Converted,1
+LEAD-5923,CUST-1482,Website,Online,REP-109,2025-04-10,Converted,1
+LEAD-5924,CUST-1616,Referral,Online,REP-110,2024-08-06,Qualified,0
+LEAD-5925,,Partner Event,Online,REP-106,2024-03-04,Disqualified,0
+LEAD-5926,,Website,Direct Sales,REP-104,2024-08-06,Disqualified,0
+LEAD-5927,CUST-1086,Referral,Online,REP-105,2025-03-09,Converted,1
+LEAD-5928,CUST-1463,Cold Outreach,Partner,REP-102,2024-10-07,Contacted,0
+LEAD-5929,CUST-1056,Webinar,Online,REP-105,2024-08-07,Converted,1
+LEAD-5930,CUST-1358,Referral,Online,REP-105,2025-03-14,Disqualified,0
+LEAD-5931,,Cold Outreach,Partner,REP-109,2025-05-08,Converted,1
+LEAD-5932,CUST-1011,Referral,Online,REP-112,2025-03-23,Converted,1
+LEAD-5933,,Website,Retail,REP-112,2024-07-22,Converted,1
+LEAD-5934,,Webinar,Retail,REP-112,2024-11-27,Qualified,0
+LEAD-5935,,Website,Partner,REP-103,2024-11-20,Disqualified,0
+LEAD-5936,CUST-1417,Partner Event,Partner,REP-106,2025-05-26,Converted,1
+LEAD-5937,CUST-1593,Cold Outreach,Retail,REP-103,2024-01-04,Converted,1
+LEAD-5938,CUST-1560,Webinar,Online,REP-104,2024-08-11,Qualified,0
+LEAD-5939,CUST-1196,Inbound Demo,Online,REP-106,2025-01-21,Disqualified,0
+LEAD-5940,CUST-1315,Referral,Online,REP-106,2024-01-15,Converted,1
+LEAD-5941,CUST-1467,Webinar,Partner,REP-108,2024-05-07,Converted,1
+LEAD-5942,CUST-1344,Referral,Online,REP-109,2024-12-26,Converted,1
+LEAD-5943,CUST-1567,Cold Outreach,Direct Sales,REP-107,2024-06-29,Converted,1
+LEAD-5944,,Cold Outreach,Retail,REP-105,2025-03-22,Qualified,0
+LEAD-5945,,Webinar,Retail,REP-105,2025-03-23,Disqualified,0
+LEAD-5946,CUST-1017,Website,Direct Sales,REP-102,2024-04-11,Converted,1
+LEAD-5947,,Website,Online,REP-108,2025-02-25,Qualified,0
+LEAD-5948,CUST-1034,Webinar,Retail,REP-108,2024-04-12,Qualified,0
+LEAD-5949,,Inbound Demo,Partner,REP-104,2025-03-06,Converted,1
+LEAD-5950,,Inbound Demo,Online,REP-108,2024-04-27,Converted,1
+LEAD-5951,,Cold Outreach,Online,REP-111,2025-04-20,Qualified,0
+LEAD-5952,CUST-1275,Referral,Retail,REP-104,2024-01-08,Contacted,0
+LEAD-5953,,Referral,Partner,REP-107,2024-09-27,Converted,1
+LEAD-5954,CUST-1384,Website,Retail,REP-101,2025-02-28,Contacted,0
+LEAD-5955,,Referral,Retail,REP-103,2024-11-21,Disqualified,0
+LEAD-5956,CUST-1403,LinkedIn,Direct Sales,REP-107,2024-09-04,Contacted,0
+LEAD-5957,CUST-1178,Inbound Demo,Direct Sales,REP-111,2025-03-15,Converted,1
+LEAD-5958,CUST-1102,LinkedIn,Direct Sales,REP-103,2024-11-21,Qualified,0
+LEAD-5959,CUST-1402,LinkedIn,Direct Sales,REP-102,2024-05-09,Contacted,0
+LEAD-5960,CUST-1331,Partner Event,Direct Sales,REP-109,2024-09-23,Converted,1
+LEAD-5961,CUST-1608,Website,Partner,REP-107,2024-04-05,Converted,1
+LEAD-5962,CUST-1134,LinkedIn,Partner,REP-107,2024-03-21,Disqualified,0
+LEAD-5963,,Inbound Demo,Retail,REP-104,2025-01-01,Converted,1
+LEAD-5964,,LinkedIn,Direct Sales,REP-104,2024-07-17,Contacted,0
+LEAD-5965,,Partner Event,Partner,REP-105,2025-01-22,Converted,1
+LEAD-5966,CUST-1594,Webinar,Partner,REP-101,2024-05-27,Contacted,0
+LEAD-5967,CUST-1146,Cold Outreach,Partner,REP-110,2024-04-23,Converted,1
+LEAD-5968,CUST-1371,Website,Partner,REP-102,2024-07-03,Disqualified,0
+LEAD-5969,CUST-1023,Cold Outreach,Online,REP-102,2024-07-31,Converted,1
+LEAD-5970,CUST-1430,Webinar,Direct Sales,REP-102,2025-05-13,Converted,1
+LEAD-5971,,Webinar,Online,REP-108,2024-11-17,Converted,1
+LEAD-5972,CUST-1622,Inbound Demo,Direct Sales,REP-111,2024-01-11,Contacted,0
+LEAD-5973,CUST-1629,Referral,Direct Sales,REP-106,2024-04-30,Converted,1
+LEAD-5974,,Inbound Demo,Partner,REP-109,2024-01-06,Disqualified,0
+LEAD-5975,CUST-1531,LinkedIn,Retail,REP-101,2024-07-16,Converted,1
+LEAD-5976,CUST-1223,Inbound Demo,Partner,REP-106,2024-06-05,Converted,1
+LEAD-5977,,Inbound Demo,Partner,REP-102,2024-05-21,Disqualified,0
+LEAD-5978,CUST-1095,Referral,Direct Sales,REP-108,2024-10-01,Converted,1
+LEAD-5979,,Cold Outreach,Partner,REP-112,2024-10-28,Converted,1
+LEAD-5980,CUST-1288,Inbound Demo,Online,REP-105,2025-02-13,Disqualified,0
+LEAD-5981,CUST-1211,LinkedIn,Online,REP-110,2024-04-15,Disqualified,0
+LEAD-5982,CUST-1279,Cold Outreach,Direct Sales,REP-108,2025-05-14,Contacted,0
+LEAD-5983,CUST-1581,LinkedIn,Direct Sales,REP-107,2024-04-20,Converted,1
+LEAD-5984,,Cold Outreach,Online,REP-103,2024-03-06,Disqualified,0
+LEAD-5985,CUST-1544,LinkedIn,Online,REP-107,2024-09-16,Converted,1
+LEAD-5986,,Website,Online,REP-103,2024-01-31,Converted,1
+LEAD-5987,CUST-1381,Referral,Retail,REP-104,2024-07-09,Converted,1
+LEAD-5988,CUST-1012,Website,Direct Sales,REP-101,2024-11-17,Qualified,0
+LEAD-5989,,Cold Outreach,Direct Sales,REP-110,2024-08-06,Contacted,0
+LEAD-5990,CUST-1540,Cold Outreach,Online,REP-105,2024-03-08,Converted,1
+LEAD-5991,,Webinar,Partner,REP-110,2024-10-11,Contacted,0
+LEAD-5992,CUST-1446,LinkedIn,Online,REP-111,2024-03-17,Converted,1
+LEAD-5993,CUST-1506,Inbound Demo,Online,REP-104,2024-11-23,Converted,1
+LEAD-5994,CUST-1176,Cold Outreach,Direct Sales,REP-102,2024-10-08,Converted,1
+LEAD-5995,CUST-1019,Inbound Demo,Online,REP-110,2025-01-27,Qualified,0
+LEAD-5996,CUST-1413,Cold Outreach,Online,REP-105,2024-01-05,Converted,1
+LEAD-5997,CUST-1482,Referral,Online,REP-111,2024-02-10,Converted,1
+LEAD-5998,CUST-1355,Webinar,Online,REP-105,2025-03-01,Converted,1
+LEAD-5999,CUST-1306,Cold Outreach,Online,REP-110,2024-11-16,Qualified,0
+LEAD-6000,,Cold Outreach,Direct Sales,REP-111,2025-04-10,Converted,1
+LEAD-6001,CUST-1049,LinkedIn,Partner,REP-102,2025-01-17,Contacted,0
+LEAD-6002,,Website,Direct Sales,REP-106,2024-05-22,Qualified,0
+LEAD-6003,CUST-1378,Inbound Demo,Direct Sales,REP-102,2024-08-19,Contacted,0
+LEAD-6004,CUST-1045,Webinar,Online,REP-101,2024-01-06,Converted,1
+LEAD-6005,CUST-1628,Website,Retail,REP-105,2024-11-07,Contacted,0
+LEAD-6006,CUST-1142,Referral,Direct Sales,REP-112,2025-01-23,Converted,1
+LEAD-6007,,Inbound Demo,Online,REP-106,2024-05-02,Qualified,0
+LEAD-6008,,Webinar,Partner,REP-108,2025-02-27,Converted,1
+LEAD-6009,,LinkedIn,Online,REP-108,2024-09-03,Disqualified,0
+LEAD-6010,CUST-1095,Partner Event,Direct Sales,REP-112,2024-11-25,Converted,1
+LEAD-6011,CUST-1249,Webinar,Direct Sales,REP-102,2024-10-30,Qualified,0
+LEAD-6012,CUST-1507,Webinar,Retail,REP-102,2024-07-29,Converted,1
+LEAD-6013,CUST-1395,Webinar,Direct Sales,REP-104,2024-01-14,Converted,1
+LEAD-6014,,Referral,Partner,REP-104,2024-04-17,Qualified,0
+LEAD-6015,,Partner Event,Retail,REP-105,2024-11-16,Qualified,0
+LEAD-6016,CUST-1373,Website,Online,REP-103,2025-05-31,Converted,1
+LEAD-6017,CUST-1410,Partner Event,Online,REP-110,2025-04-08,Converted,1
+LEAD-6018,,Cold Outreach,Direct Sales,REP-103,2024-10-11,Disqualified,0
+LEAD-6019,,Inbound Demo,Direct Sales,REP-108,2024-04-14,Qualified,0
+LEAD-6020,CUST-1030,Website,Direct Sales,REP-108,2024-09-03,Converted,1
+LEAD-6021,CUST-1564,Referral,Retail,REP-105,2025-04-08,Converted,1
+LEAD-6022,CUST-1442,Inbound Demo,Partner,REP-103,2025-03-17,Converted,1
+LEAD-6023,CUST-1051,Cold Outreach,Partner,REP-105,2024-02-24,Qualified,0
+LEAD-6024,CUST-1181,Inbound Demo,Online,REP-105,2025-03-08,Converted,1
+LEAD-6025,CUST-1052,LinkedIn,Retail,REP-107,2025-05-20,Qualified,0
+LEAD-6026,CUST-1037,Inbound Demo,Retail,REP-102,2024-04-23,Converted,1
+LEAD-6027,CUST-1232,Website,Retail,REP-109,2024-09-01,Contacted,0
+LEAD-6028,CUST-1275,Cold Outreach,Online,REP-107,2025-02-18,Converted,1
+LEAD-6029,CUST-1295,Partner Event,Partner,REP-104,2024-06-24,Qualified,0
+LEAD-6030,CUST-1516,Webinar,Online,REP-101,2024-10-21,Disqualified,0
+LEAD-6031,,Webinar,Online,REP-105,2025-05-03,Qualified,0
+LEAD-6032,CUST-1192,Referral,Online,REP-111,2024-06-23,Converted,1
+LEAD-6033,,Inbound Demo,Partner,REP-101,2025-04-11,Converted,1
+LEAD-6034,,Inbound Demo,Partner,REP-105,2024-01-22,Converted,1
+LEAD-6035,,LinkedIn,Online,REP-106,2024-01-10,Converted,1
+LEAD-6036,CUST-1047,Partner Event,Direct Sales,REP-104,2025-05-15,Contacted,0
+LEAD-6037,CUST-1172,Partner Event,Direct Sales,REP-104,2024-10-24,Qualified,0
+LEAD-6038,,Website,Direct Sales,REP-105,2024-04-06,Converted,1
+LEAD-6039,,Webinar,Online,REP-106,2025-05-17,Converted,1
+LEAD-6040,CUST-1362,Referral,Direct Sales,REP-106,2025-05-13,Converted,1
+LEAD-6041,,LinkedIn,Partner,REP-111,2024-12-07,Disqualified,0
+LEAD-6042,,Website,Online,REP-105,2025-05-10,Qualified,0
+LEAD-6043,,Inbound Demo,Online,REP-107,2024-01-22,Qualified,0
+LEAD-6044,CUST-1592,Referral,Direct Sales,REP-108,2024-05-25,Qualified,0
+LEAD-6045,,Referral,Retail,REP-104,2025-03-17,Converted,1
+LEAD-6046,,Webinar,Partner,REP-102,2025-01-21,Contacted,0
+LEAD-6047,CUST-1358,LinkedIn,Partner,REP-103,2025-04-05,Contacted,0
+LEAD-6048,,LinkedIn,Direct Sales,REP-107,2025-02-04,Converted,1
+LEAD-6049,CUST-1352,Website,Partner,REP-110,2024-07-14,Contacted,0
+LEAD-6050,CUST-1356,Cold Outreach,Online,REP-108,2024-05-05,Converted,1
+LEAD-6051,CUST-1154,Cold Outreach,Partner,REP-111,2024-01-09,Converted,1
+LEAD-6052,,LinkedIn,Retail,REP-109,2024-10-23,Converted,1
+LEAD-6053,CUST-1042,Website,Partner,REP-105,2024-10-22,Converted,1
+LEAD-6054,CUST-1441,Website,Retail,REP-108,2024-05-06,Converted,1
+LEAD-6055,CUST-1291,Website,Partner,REP-105,2024-01-01,Contacted,0
+LEAD-6056,CUST-1089,Webinar,Online,REP-109,2025-05-29,Qualified,0
+LEAD-6057,CUST-1083,Webinar,Retail,REP-104,2024-05-26,Converted,1
+LEAD-6058,CUST-1396,Cold Outreach,Online,REP-106,2024-02-02,Converted,1
+LEAD-6059,CUST-1178,Referral,Direct Sales,REP-105,2024-04-10,Converted,1
+LEAD-6060,CUST-1205,Partner Event,Online,REP-110,2024-11-26,Converted,1
+LEAD-6061,CUST-1088,LinkedIn,Online,REP-104,2025-03-02,Converted,1
+LEAD-6062,CUST-1448,LinkedIn,Direct Sales,REP-103,2025-04-17,Converted,1
+LEAD-6063,CUST-1367,Webinar,Online,REP-106,2025-03-28,Converted,1
+LEAD-6064,,Cold Outreach,Direct Sales,REP-107,2025-03-13,Converted,1
+LEAD-6065,CUST-1144,Partner Event,Direct Sales,REP-107,2024-01-28,Converted,1
+LEAD-6066,CUST-1383,Partner Event,Online,REP-104,2024-11-05,Converted,1
+LEAD-6067,CUST-1007,Website,Online,REP-107,2024-10-27,Converted,1
+LEAD-6068,CUST-1277,Partner Event,Direct Sales,REP-101,2025-04-16,Contacted,0
+LEAD-6069,CUST-1298,Referral,Direct Sales,REP-110,2024-04-19,Converted,1
+LEAD-6070,CUST-1599,Partner Event,Partner,REP-101,2024-12-05,Qualified,0
+LEAD-6071,CUST-1576,Webinar,Partner,REP-104,2024-02-24,Qualified,0
+LEAD-6072,,Inbound Demo,Retail,REP-104,2025-05-22,Qualified,0
+LEAD-6073,CUST-1007,Referral,Partner,REP-111,2024-06-07,Contacted,0
+LEAD-6074,CUST-1619,Website,Direct Sales,REP-102,2024-07-24,Contacted,0
+LEAD-6075,CUST-1026,Inbound Demo,Partner,REP-104,2024-04-09,Contacted,0
+LEAD-6076,,Cold Outreach,Online,REP-101,2025-03-30,Converted,1
+LEAD-6077,,Inbound Demo,Online,REP-104,2025-05-10,Converted,1
+LEAD-6078,CUST-1443,Partner Event,Partner,REP-111,2025-03-25,Converted,1
+LEAD-6079,,Inbound Demo,Direct Sales,REP-103,2024-01-23,Qualified,0
+LEAD-6080,,LinkedIn,Partner,REP-112,2024-06-23,Converted,1
+LEAD-6081,,Referral,Retail,REP-105,2025-05-06,Disqualified,0
+LEAD-6082,CUST-1396,Referral,Retail,REP-111,2025-05-19,Qualified,0
+LEAD-6083,,Cold Outreach,Retail,REP-107,2024-04-19,Converted,1
+LEAD-6084,CUST-1012,Cold Outreach,Direct Sales,REP-102,2024-10-17,Converted,1
+LEAD-6085,,Webinar,Direct Sales,REP-111,2024-02-04,Converted,1
+LEAD-6086,CUST-1470,Referral,Direct Sales,REP-103,2024-02-13,Converted,1
+LEAD-6087,,Referral,Direct Sales,REP-109,2024-06-11,Converted,1
+LEAD-6088,CUST-1065,Webinar,Partner,REP-109,2024-12-23,Converted,1
+LEAD-6089,,Referral,Partner,REP-111,2024-06-04,Converted,1
+LEAD-6090,CUST-1404,Referral,Partner,REP-111,2024-05-23,Converted,1
+LEAD-6091,CUST-1185,Cold Outreach,Direct Sales,REP-108,2025-05-10,Converted,1
+LEAD-6092,CUST-1595,Inbound Demo,Online,REP-112,2024-09-22,Converted,1
+LEAD-6093,CUST-1163,Website,Direct Sales,REP-101,2025-02-17,Converted,1
+LEAD-6094,CUST-1238,Cold Outreach,Online,REP-111,2024-04-18,Disqualified,0
+LEAD-6095,,Website,Retail,REP-103,2024-08-30,Converted,1
+LEAD-6096,CUST-1118,Website,Direct Sales,REP-101,2025-03-06,Converted,1
+LEAD-6097,CUST-1031,Cold Outreach,Online,REP-106,2024-03-15,Disqualified,0
+LEAD-6098,CUST-1137,Website,Online,REP-112,2024-11-24,Disqualified,0
+LEAD-6099,CUST-1293,Inbound Demo,Partner,REP-105,2024-07-23,Converted,1
+LEAD-6100,,Cold Outreach,Partner,REP-109,2024-06-14,Converted,1
+LEAD-6101,CUST-1035,Webinar,Direct Sales,REP-111,2024-01-25,Contacted,0
+LEAD-6102,CUST-1074,Referral,Online,REP-107,2024-01-06,Converted,1
+LEAD-6103,CUST-1486,Inbound Demo,Direct Sales,REP-104,2025-05-23,Converted,1
+LEAD-6104,,LinkedIn,Direct Sales,REP-109,2024-12-31,Contacted,0
+LEAD-6105,CUST-1073,Cold Outreach,Partner,REP-111,2025-03-25,Converted,1
+LEAD-6106,CUST-1121,Partner Event,Partner,REP-109,2024-05-10,Converted,1
+LEAD-6107,CUST-1230,LinkedIn,Direct Sales,REP-109,2024-02-22,Contacted,0
+LEAD-6108,CUST-1367,Partner Event,Online,REP-105,2024-10-23,Converted,1
+LEAD-6109,CUST-1248,Referral,Retail,REP-102,2024-06-10,Contacted,0
+LEAD-6110,CUST-1560,Referral,Direct Sales,REP-107,2025-05-27,Qualified,0
+LEAD-6111,,LinkedIn,Partner,REP-108,2024-04-23,Disqualified,0
+LEAD-6112,CUST-1206,Website,Online,REP-106,2024-01-31,Converted,1
+LEAD-6113,CUST-1338,Inbound Demo,Direct Sales,REP-104,2024-03-01,Disqualified,0
+LEAD-6114,CUST-1578,Inbound Demo,Online,REP-108,2024-03-04,Disqualified,0
+LEAD-6115,,Referral,Direct Sales,REP-102,2024-02-06,Converted,1
+LEAD-6116,,LinkedIn,Retail,REP-108,2024-03-23,Converted,1
+LEAD-6117,CUST-1231,Website,Direct Sales,REP-101,2024-02-12,Qualified,0
+LEAD-6118,,Cold Outreach,Online,REP-105,2025-03-17,Contacted,0
+LEAD-6119,CUST-1201,Website,Online,REP-101,2024-08-21,Converted,1
+LEAD-6120,,Webinar,Direct Sales,REP-111,2025-01-23,Converted,1
+LEAD-6121,,Cold Outreach,Online,REP-107,2024-02-23,Converted,1
+LEAD-6122,CUST-1121,LinkedIn,Online,REP-103,2025-03-13,Contacted,0
+LEAD-6123,CUST-1060,Referral,Partner,REP-104,2025-01-11,Converted,1
+LEAD-6124,CUST-1550,LinkedIn,Direct Sales,REP-101,2024-04-04,Converted,1
+LEAD-6125,CUST-1059,Partner Event,Online,REP-112,2024-01-16,Converted,1
+LEAD-6126,CUST-1322,Cold Outreach,Retail,REP-103,2024-05-09,Converted,1
+LEAD-6127,CUST-1491,Referral,Online,REP-103,2024-09-07,Qualified,0
+LEAD-6128,,Website,Retail,REP-105,2024-03-19,Converted,1
+LEAD-6129,CUST-1310,Partner Event,Direct Sales,REP-104,2024-12-31,Disqualified,0
+LEAD-6130,CUST-1274,Partner Event,Retail,REP-111,2024-10-26,Converted,1
+LEAD-6131,CUST-1421,Website,Partner,REP-101,2025-05-30,Qualified,0
+LEAD-6132,CUST-1141,Referral,Retail,REP-102,2025-05-12,Contacted,0
+LEAD-6133,CUST-1126,Referral,Retail,REP-112,2024-08-24,Converted,1
+LEAD-6134,,Website,Online,REP-104,2024-05-25,Qualified,0
+LEAD-6135,CUST-1035,Website,Retail,REP-101,2025-04-09,Converted,1
+LEAD-6136,CUST-1625,Referral,Direct Sales,REP-102,2025-01-28,Converted,1
+LEAD-6137,CUST-1046,Partner Event,Direct Sales,REP-107,2024-01-20,Converted,1
+LEAD-6138,CUST-1054,Inbound Demo,Direct Sales,REP-111,2025-01-23,Qualified,0
+LEAD-6139,,LinkedIn,Direct Sales,REP-106,2024-02-02,Disqualified,0
+LEAD-6140,,Partner Event,Online,REP-105,2024-12-10,Converted,1
+LEAD-6141,,Referral,Direct Sales,REP-112,2024-01-29,Converted,1
+LEAD-6142,,Partner Event,Direct Sales,REP-112,2025-03-13,Qualified,0
+LEAD-6143,,LinkedIn,Partner,REP-107,2024-04-21,Disqualified,0
+LEAD-6144,CUST-1587,Partner Event,Retail,REP-109,2024-10-21,Qualified,0
+LEAD-6145,CUST-1244,Inbound Demo,Direct Sales,REP-107,2024-09-23,Converted,1
+LEAD-6146,,Referral,Online,REP-111,2024-01-16,Converted,1
+LEAD-6147,CUST-1585,Partner Event,Online,REP-109,2024-09-12,Converted,1
+LEAD-6148,,Referral,Online,REP-105,2024-10-07,Contacted,0
+LEAD-6149,CUST-1329,Website,Online,REP-105,2024-01-13,Contacted,0
+LEAD-6150,CUST-1010,Cold Outreach,Direct Sales,REP-108,2024-07-02,Converted,1
+LEAD-6151,,Cold Outreach,Online,REP-111,2025-01-02,Converted,1
+LEAD-6152,CUST-1625,LinkedIn,Retail,REP-102,2024-02-29,Converted,1
+LEAD-6153,CUST-1283,Cold Outreach,Direct Sales,REP-103,2024-03-06,Converted,1
+LEAD-6154,CUST-1151,Inbound Demo,Direct Sales,REP-104,2025-05-21,Contacted,0
+LEAD-6155,,Inbound Demo,Direct Sales,REP-102,2024-02-20,Converted,1
+LEAD-6156,CUST-1234,LinkedIn,Online,REP-106,2025-03-26,Converted,1
+LEAD-6157,,Referral,Direct Sales,REP-101,2024-09-22,Contacted,0
+LEAD-6158,CUST-1241,LinkedIn,Partner,REP-112,2024-12-27,Converted,1
+LEAD-6159,CUST-1080,LinkedIn,Direct Sales,REP-108,2024-03-20,Converted,1
+LEAD-6160,,LinkedIn,Direct Sales,REP-106,2024-11-29,Qualified,0
+LEAD-6161,,Webinar,Retail,REP-107,2024-03-14,Converted,1
+LEAD-6162,CUST-1418,LinkedIn,Retail,REP-106,2024-11-30,Contacted,0
+LEAD-6163,CUST-1165,Cold Outreach,Partner,REP-105,2025-01-18,Converted,1
+LEAD-6164,CUST-1624,Inbound Demo,Direct Sales,REP-110,2024-10-24,Converted,1
+LEAD-6165,,LinkedIn,Partner,REP-112,2024-11-16,Converted,1
+LEAD-6166,,Inbound Demo,Online,REP-107,2024-12-18,Converted,1
+LEAD-6167,CUST-1080,Cold Outreach,Direct Sales,REP-111,2024-06-02,Disqualified,0
+LEAD-6168,,LinkedIn,Online,REP-109,2024-08-17,Qualified,0
+LEAD-6169,CUST-1541,LinkedIn,Direct Sales,REP-112,2025-03-04,Contacted,0
+LEAD-6170,CUST-1325,Webinar,Direct Sales,REP-109,2025-04-28,Converted,1
+LEAD-6171,CUST-1371,Inbound Demo,Online,REP-106,2024-10-27,Converted,1
+LEAD-6172,,Webinar,Retail,REP-102,2024-11-18,Converted,1
+LEAD-6173,CUST-1518,Referral,Retail,REP-102,2025-02-23,Converted,1
+LEAD-6174,CUST-1460,Webinar,Partner,REP-108,2025-01-05,Contacted,0
+LEAD-6175,,LinkedIn,Direct Sales,REP-103,2024-08-23,Converted,1
+LEAD-6176,,Webinar,Retail,REP-110,2025-02-21,Converted,1
+LEAD-6177,CUST-1419,Referral,Online,REP-106,2024-10-20,Converted,1
+LEAD-6178,CUST-1203,LinkedIn,Partner,REP-108,2024-05-31,Contacted,0
+LEAD-6179,CUST-1270,Website,Online,REP-103,2025-04-09,Qualified,0
+LEAD-6180,CUST-1035,Webinar,Partner,REP-102,2025-04-26,Contacted,0
+LEAD-6181,,Webinar,Online,REP-103,2024-01-25,Converted,1
+LEAD-6182,CUST-1571,Cold Outreach,Retail,REP-106,2025-02-01,Converted,1
+LEAD-6183,,Website,Retail,REP-106,2024-10-27,Contacted,0
+LEAD-6184,CUST-1364,Webinar,Online,REP-101,2024-04-20,Disqualified,0
+LEAD-6185,,Webinar,Direct Sales,REP-108,2025-02-22,Converted,1
+LEAD-6186,,Webinar,Retail,REP-103,2025-05-03,Qualified,0
+LEAD-6187,CUST-1379,Inbound Demo,Direct Sales,REP-101,2024-03-26,Qualified,0
+LEAD-6188,CUST-1521,Cold Outreach,Retail,REP-106,2025-04-09,Qualified,0
+LEAD-6189,CUST-1506,Partner Event,Direct Sales,REP-102,2024-10-13,Converted,1
+LEAD-6190,CUST-1183,Referral,Direct Sales,REP-106,2025-03-12,Disqualified,0
+LEAD-6191,,Partner Event,Online,REP-112,2024-02-12,Qualified,0
+LEAD-6192,CUST-1631,LinkedIn,Online,REP-105,2025-03-16,Converted,1
+LEAD-6193,CUST-1281,Referral,Partner,REP-103,2024-12-21,Converted,1
+LEAD-6194,,Inbound Demo,Direct Sales,REP-105,2024-08-17,Converted,1
+LEAD-6195,CUST-1099,Inbound Demo,Direct Sales,REP-111,2024-04-18,Converted,1
+LEAD-6196,,Website,Direct Sales,REP-110,2024-06-21,Disqualified,0
+LEAD-6197,,Website,Direct Sales,REP-108,2024-07-18,Converted,1
+LEAD-6198,CUST-1456,Referral,Retail,REP-110,2024-07-27,Converted,1
+LEAD-6199,,Referral,Retail,REP-102,2025-04-09,Disqualified,0
+LEAD-6200,CUST-1089,Cold Outreach,Direct Sales,REP-107,2024-05-02,Contacted,0
+LEAD-6201,CUST-1363,Webinar,Retail,REP-111,2024-10-12,Contacted,0
+LEAD-6202,CUST-1520,Webinar,Partner,REP-102,2024-08-15,Converted,1
+LEAD-6203,CUST-1076,Webinar,Direct Sales,REP-112,2025-04-09,Qualified,0
+LEAD-6204,CUST-1534,Website,Retail,REP-107,2024-11-18,Converted,1
+LEAD-6205,CUST-1141,Webinar,Online,REP-111,2024-02-06,Converted,1
+LEAD-6206,CUST-1156,Webinar,Online,REP-104,2024-08-13,Converted,1
+LEAD-6207,CUST-1204,Webinar,Retail,REP-108,2024-07-10,Qualified,0
+LEAD-6208,,LinkedIn,Direct Sales,REP-112,2024-03-31,Converted,1
+LEAD-6209,CUST-1183,Cold Outreach,Retail,REP-109,2024-03-09,Converted,1
+LEAD-6210,CUST-1241,LinkedIn,Retail,REP-107,2024-09-26,Qualified,0
+LEAD-6211,,LinkedIn,Online,REP-111,2025-05-10,Contacted,0
+LEAD-6212,CUST-1646,Referral,Retail,REP-111,2024-08-25,Converted,1
+LEAD-6213,CUST-1225,LinkedIn,Direct Sales,REP-108,2024-12-31,Converted,1
+LEAD-6214,CUST-1436,Cold Outreach,Direct Sales,REP-108,2024-10-21,Converted,1
+LEAD-6215,CUST-1408,Referral,Partner,REP-111,2025-04-20,Qualified,0
+LEAD-6216,CUST-1241,Partner Event,Retail,REP-108,2025-05-10,Converted,1
+LEAD-6217,,LinkedIn,Online,REP-104,2024-10-01,Contacted,0
+LEAD-6218,CUST-1326,LinkedIn,Direct Sales,REP-106,2024-03-03,Converted,1
+LEAD-6219,CUST-1056,Cold Outreach,Partner,REP-107,2025-03-28,Converted,1
+LEAD-6220,,Referral,Partner,REP-111,2024-08-12,Converted,1
+LEAD-6221,,Inbound Demo,Partner,REP-110,2025-02-23,Converted,1
+LEAD-6222,CUST-1620,LinkedIn,Online,REP-110,2024-04-22,Converted,1
+LEAD-6223,CUST-1342,Partner Event,Online,REP-107,2024-01-22,Disqualified,0
+LEAD-6224,CUST-1371,Webinar,Direct Sales,REP-101,2024-03-05,Converted,1
+LEAD-6225,CUST-1235,Partner Event,Partner,REP-109,2024-06-09,Converted,1
+LEAD-6226,CUST-1567,Referral,Online,REP-106,2024-06-14,Qualified,0
+LEAD-6227,,Website,Online,REP-101,2024-01-14,Converted,1
+LEAD-6228,CUST-1290,Cold Outreach,Retail,REP-108,2025-05-28,Converted,1
+LEAD-6229,CUST-1279,Webinar,Online,REP-112,2024-08-23,Qualified,0
+LEAD-6230,CUST-1277,Webinar,Retail,REP-107,2025-01-21,Contacted,0
+LEAD-6231,,Website,Partner,REP-109,2024-03-19,Qualified,0
+LEAD-6232,,Website,Retail,REP-101,2025-03-01,Converted,1
+LEAD-6233,CUST-1401,Website,Online,REP-112,2024-06-04,Converted,1
+LEAD-6234,CUST-1024,Partner Event,Online,REP-106,2024-11-15,Converted,1
+LEAD-6235,CUST-1591,Inbound Demo,Partner,REP-102,2025-04-14,Converted,1
+LEAD-6236,CUST-1417,Cold Outreach,Retail,REP-102,2024-10-25,Converted,1
+LEAD-6237,CUST-1251,Referral,Partner,REP-112,2025-05-09,Converted,1
+LEAD-6238,,Webinar,Online,REP-107,2025-05-23,Qualified,0
+LEAD-6239,CUST-1026,Cold Outreach,Partner,REP-104,2024-04-20,Converted,1
+LEAD-6240,CUST-1112,Cold Outreach,Partner,REP-106,2024-08-25,Qualified,0
+LEAD-6241,,Inbound Demo,Partner,REP-111,2024-12-06,Converted,1
+LEAD-6242,CUST-1086,Inbound Demo,Partner,REP-108,2024-06-22,Converted,1
+LEAD-6243,,LinkedIn,Retail,REP-112,2025-04-29,Qualified,0
+LEAD-6244,CUST-1319,Partner Event,Partner,REP-108,2024-03-01,Qualified,0
+LEAD-6245,,Website,Online,REP-106,2024-06-03,Converted,1
+LEAD-6246,CUST-1576,Referral,Direct Sales,REP-112,2024-01-06,Contacted,0
+LEAD-6247,CUST-1473,Referral,Online,REP-111,2025-05-26,Qualified,0
+LEAD-6248,,Website,Direct Sales,REP-107,2024-03-24,Converted,1
+LEAD-6249,,Inbound Demo,Direct Sales,REP-109,2024-01-14,Converted,1
+LEAD-6250,CUST-1435,Partner Event,Online,REP-102,2025-03-24,Converted,1
+LEAD-6251,,Inbound Demo,Direct Sales,REP-112,2025-05-13,Converted,1
+LEAD-6252,CUST-1302,Referral,Online,REP-102,2024-01-10,Qualified,0
+LEAD-6253,CUST-1381,LinkedIn,Partner,REP-106,2024-10-04,Converted,1
+LEAD-6254,CUST-1210,Inbound Demo,Retail,REP-105,2024-06-18,Contacted,0
+LEAD-6255,CUST-1474,LinkedIn,Online,REP-110,2025-01-15,Converted,1
+LEAD-6256,,Webinar,Retail,REP-112,2024-12-04,Disqualified,0
+LEAD-6257,,LinkedIn,Direct Sales,REP-112,2024-06-17,Converted,1
+LEAD-6258,CUST-1006,Inbound Demo,Online,REP-103,2025-03-02,Converted,1
+LEAD-6259,CUST-1470,Inbound Demo,Online,REP-112,2024-07-11,Converted,1
+LEAD-6260,CUST-1069,LinkedIn,Direct Sales,REP-108,2024-03-03,Converted,1
+LEAD-6261,CUST-1198,Referral,Partner,REP-111,2024-08-19,Converted,1
+LEAD-6262,CUST-1640,LinkedIn,Partner,REP-112,2025-03-12,Qualified,0
+LEAD-6263,CUST-1208,LinkedIn,Online,REP-109,2024-09-17,Converted,1
+LEAD-6264,CUST-1183,Website,Online,REP-112,2024-06-05,Converted,1
+LEAD-6265,CUST-1393,Inbound Demo,Direct Sales,REP-109,2024-04-14,Converted,1
+LEAD-6266,,Partner Event,Online,REP-112,2024-10-10,Qualified,0
+LEAD-6267,CUST-1238,Inbound Demo,Online,REP-103,2025-04-29,Disqualified,0
+LEAD-6268,CUST-1169,Partner Event,Online,REP-110,2024-04-03,Converted,1
+LEAD-6269,,Referral,Partner,REP-102,2024-01-01,Converted,1
+LEAD-6270,CUST-1310,Cold Outreach,Retail,REP-111,2025-03-26,Converted,1
+LEAD-6271,CUST-1395,Inbound Demo,Direct Sales,REP-109,2024-04-30,Qualified,0
+LEAD-6272,CUST-1081,Referral,Retail,REP-109,2024-12-29,Contacted,0
+LEAD-6273,,Inbound Demo,Direct Sales,REP-111,2024-08-07,Qualified,0
+LEAD-6274,CUST-1257,LinkedIn,Direct Sales,REP-108,2025-03-23,Qualified,0
+LEAD-6275,CUST-1375,Webinar,Online,REP-106,2025-03-21,Contacted,0
+LEAD-6276,CUST-1574,Webinar,Partner,REP-107,2024-12-20,Contacted,0
+LEAD-6277,CUST-1011,Cold Outreach,Retail,REP-106,2024-07-14,Converted,1
+LEAD-6278,CUST-1318,LinkedIn,Partner,REP-104,2025-01-04,Converted,1
+LEAD-6279,,Referral,Direct Sales,REP-109,2025-01-12,Converted,1
+LEAD-6280,CUST-1408,Webinar,Partner,REP-105,2024-02-04,Converted,1
+LEAD-6281,CUST-1586,Referral,Online,REP-111,2024-09-16,Contacted,0
+LEAD-6282,CUST-1178,LinkedIn,Retail,REP-111,2025-04-27,Converted,1
+LEAD-6283,CUST-1157,Website,Direct Sales,REP-106,2024-04-16,Qualified,0
+LEAD-6284,CUST-1123,Partner Event,Direct Sales,REP-103,2024-06-30,Converted,1
+LEAD-6285,,Referral,Direct Sales,REP-102,2024-03-04,Converted,1
+LEAD-6286,,Webinar,Partner,REP-110,2024-07-17,Converted,1
+LEAD-6287,,Webinar,Online,REP-103,2024-11-20,Converted,1
+LEAD-6288,,LinkedIn,Partner,REP-101,2025-01-10,Converted,1
+LEAD-6289,,Website,Online,REP-104,2024-03-03,Converted,1
+LEAD-6290,CUST-1283,Website,Partner,REP-103,2024-09-30,Converted,1
+LEAD-6291,,Inbound Demo,Retail,REP-111,2025-02-23,Contacted,0
+LEAD-6292,CUST-1121,Referral,Partner,REP-105,2024-01-04,Converted,1
+LEAD-6293,CUST-1093,LinkedIn,Direct Sales,REP-108,2024-03-29,Converted,1
+LEAD-6294,CUST-1021,Inbound Demo,Direct Sales,REP-106,2024-03-29,Qualified,0
+LEAD-6295,CUST-1084,Inbound Demo,Online,REP-111,2024-01-11,Contacted,0
+LEAD-6296,CUST-1196,Referral,Partner,REP-111,2024-09-09,Qualified,0
+LEAD-6297,CUST-1294,Referral,Online,REP-101,2024-05-15,Converted,1
+LEAD-6298,CUST-1193,LinkedIn,Direct Sales,REP-106,2024-05-23,Converted,1
+LEAD-6299,CUST-1451,Inbound Demo,Online,REP-105,2024-07-23,Converted,1
+LEAD-6300,CUST-1536,Referral,Online,REP-110,2025-05-16,Converted,1
+LEAD-6301,CUST-1551,Website,Partner,REP-110,2024-06-23,Converted,1
+LEAD-6302,,Referral,Online,REP-111,2025-03-20,Contacted,0
+LEAD-6303,,Referral,Partner,REP-112,2024-07-31,Converted,1
+LEAD-6304,,Website,Direct Sales,REP-109,2024-10-02,Converted,1
+LEAD-6305,,Referral,Online,REP-101,2025-04-23,Converted,1
+LEAD-6306,CUST-1331,Cold Outreach,Direct Sales,REP-103,2024-07-09,Converted,1
+LEAD-6307,,Webinar,Online,REP-110,2025-01-21,Converted,1
+LEAD-6308,,Webinar,Online,REP-106,2024-04-17,Converted,1
+LEAD-6309,CUST-1103,Cold Outreach,Partner,REP-106,2025-03-07,Converted,1
+LEAD-6310,CUST-1191,Referral,Online,REP-103,2025-01-01,Qualified,0
+LEAD-6311,CUST-1590,Partner Event,Retail,REP-110,2025-03-25,Qualified,0
+LEAD-6312,CUST-1383,Cold Outreach,Online,REP-104,2025-02-12,Converted,1
+LEAD-6313,CUST-1240,Webinar,Online,REP-107,2025-05-09,Qualified,0
+LEAD-6314,,Cold Outreach,Partner,REP-107,2024-04-20,Disqualified,0
+LEAD-6315,CUST-1171,LinkedIn,Direct Sales,REP-101,2025-02-14,Disqualified,0
+LEAD-6316,CUST-1342,LinkedIn,Online,REP-103,2024-07-22,Contacted,0
+LEAD-6317,,Website,Direct Sales,REP-105,2024-02-25,Converted,1
+LEAD-6318,CUST-1001,Cold Outreach,Online,REP-107,2024-12-20,Qualified,0
+LEAD-6319,CUST-1190,Inbound Demo,Retail,REP-105,2024-07-24,Converted,1
+LEAD-6320,,Cold Outreach,Direct Sales,REP-102,2024-07-27,Converted,1
+LEAD-6321,CUST-1103,Website,Partner,REP-108,2025-01-18,Converted,1
+LEAD-6322,,Webinar,Retail,REP-104,2025-02-07,Qualified,0
+LEAD-6323,,Webinar,Direct Sales,REP-104,2025-04-19,Converted,1
+LEAD-6324,CUST-1335,Referral,Retail,REP-103,2024-05-11,Contacted,0
+LEAD-6325,CUST-1356,LinkedIn,Direct Sales,REP-107,2025-03-10,Converted,1
+LEAD-6326,CUST-1241,Inbound Demo,Retail,REP-110,2024-01-28,Converted,1
+LEAD-6327,CUST-1408,LinkedIn,Online,REP-101,2024-12-14,Disqualified,0
+LEAD-6328,CUST-1217,Inbound Demo,Partner,REP-108,2024-08-23,Converted,1
+LEAD-6329,,Referral,Direct Sales,REP-107,2024-04-05,Converted,1
+LEAD-6330,,Referral,Direct Sales,REP-107,2024-10-18,Converted,1
+LEAD-6331,CUST-1530,Cold Outreach,Partner,REP-103,2024-09-24,Contacted,0
+LEAD-6332,CUST-1104,Partner Event,Partner,REP-102,2025-04-21,Qualified,0
+LEAD-6333,CUST-1132,Partner Event,Online,REP-101,2025-02-18,Converted,1
+LEAD-6334,CUST-1412,Webinar,Online,REP-108,2025-01-28,Converted,1
+LEAD-6335,CUST-1650,Referral,Partner,REP-107,2024-02-25,Converted,1
+LEAD-6336,,LinkedIn,Partner,REP-106,2025-04-06,Qualified,0
+LEAD-6337,,Website,Retail,REP-103,2025-01-08,Converted,1
+LEAD-6338,CUST-1008,Partner Event,Partner,REP-111,2025-01-27,Converted,1
+LEAD-6339,,Inbound Demo,Retail,REP-109,2024-09-21,Qualified,0
+LEAD-6340,CUST-1041,Cold Outreach,Partner,REP-101,2025-04-10,Converted,1
+LEAD-6341,CUST-1614,Cold Outreach,Online,REP-106,2025-05-16,Qualified,0
+LEAD-6342,,Cold Outreach,Online,REP-106,2024-09-15,Qualified,0
+LEAD-6343,CUST-1366,LinkedIn,Partner,REP-105,2024-01-25,Converted,1
+LEAD-6344,CUST-1611,Referral,Partner,REP-105,2025-04-02,Converted,1
+LEAD-6345,CUST-1180,LinkedIn,Online,REP-112,2024-02-07,Converted,1
+LEAD-6346,CUST-1506,Inbound Demo,Direct Sales,REP-112,2024-04-06,Converted,1
+LEAD-6347,,Referral,Retail,REP-108,2024-10-08,Converted,1
+LEAD-6348,CUST-1040,Website,Direct Sales,REP-102,2025-04-14,Converted,1
+LEAD-6349,,Cold Outreach,Direct Sales,REP-109,2024-04-13,Converted,1
+LEAD-6350,CUST-1264,Cold Outreach,Direct Sales,REP-107,2024-11-05,Qualified,0
+LEAD-6351,,Partner Event,Online,REP-107,2024-03-22,Contacted,0
+LEAD-6352,CUST-1250,Referral,Direct Sales,REP-110,2024-09-24,Qualified,0
+LEAD-6353,CUST-1448,Referral,Direct Sales,REP-110,2024-02-20,Converted,1
+LEAD-6354,,Referral,Online,REP-109,2024-07-09,Converted,1
+LEAD-6355,CUST-1417,Webinar,Partner,REP-105,2024-07-04,Converted,1
+LEAD-6356,CUST-1474,Webinar,Direct Sales,REP-103,2025-02-28,Converted,1
+LEAD-6357,CUST-1333,Website,Retail,REP-104,2024-11-21,Converted,1
+LEAD-6358,CUST-1472,Webinar,Retail,REP-112,2024-10-21,Converted,1
+LEAD-6359,CUST-1572,LinkedIn,Online,REP-107,2024-12-02,Converted,1
+LEAD-6360,,Referral,Partner,REP-106,2024-12-14,Converted,1
+LEAD-6361,,Inbound Demo,Direct Sales,REP-109,2025-05-25,Qualified,0
+LEAD-6362,,Cold Outreach,Retail,REP-101,2024-09-18,Converted,1
+LEAD-6363,CUST-1354,Webinar,Online,REP-108,2024-03-21,Converted,1
+LEAD-6364,,Referral,Partner,REP-105,2025-01-13,Converted,1
+LEAD-6365,CUST-1171,Website,Partner,REP-103,2025-04-23,Qualified,0
+LEAD-6366,,Cold Outreach,Online,REP-101,2025-03-17,Converted,1
+LEAD-6367,,Inbound Demo,Online,REP-107,2025-05-17,Converted,1
+LEAD-6368,CUST-1114,Website,Partner,REP-107,2024-05-06,Converted,1
+LEAD-6369,,Partner Event,Partner,REP-103,2024-07-01,Disqualified,0
+LEAD-6370,CUST-1223,LinkedIn,Direct Sales,REP-107,2025-02-14,Converted,1
+LEAD-6371,CUST-1649,Referral,Partner,REP-106,2024-10-12,Qualified,0
+LEAD-6372,CUST-1231,LinkedIn,Direct Sales,REP-109,2024-11-21,Contacted,0
+LEAD-6373,CUST-1461,Partner Event,Partner,REP-108,2025-05-21,Converted,1
+LEAD-6374,CUST-1343,Cold Outreach,Online,REP-105,2024-06-30,Qualified,0
+LEAD-6375,CUST-1429,Webinar,Retail,REP-102,2024-06-25,Disqualified,0
+LEAD-6376,CUST-1230,Inbound Demo,Online,REP-111,2025-02-24,Converted,1
+LEAD-6377,CUST-1419,Website,Direct Sales,REP-110,2025-05-30,Disqualified,0
+LEAD-6378,CUST-1641,LinkedIn,Online,REP-104,2024-11-28,Converted,1
+LEAD-6379,,Referral,Online,REP-101,2024-04-03,Contacted,0
+LEAD-6380,,LinkedIn,Direct Sales,REP-109,2025-02-02,Contacted,0
+LEAD-6381,,Cold Outreach,Online,REP-106,2024-06-14,Converted,1
+LEAD-6382,CUST-1301,Webinar,Retail,REP-104,2025-04-28,Converted,1
+LEAD-6383,CUST-1251,Inbound Demo,Online,REP-110,2024-02-01,Qualified,0
+LEAD-6384,,Inbound Demo,Direct Sales,REP-103,2025-03-30,Converted,1
+LEAD-6385,,Partner Event,Direct Sales,REP-110,2024-04-23,Contacted,0
+LEAD-6386,,Inbound Demo,Online,REP-108,2024-06-12,Converted,1
+LEAD-6387,CUST-1533,Webinar,Online,REP-111,2024-02-03,Disqualified,0
+LEAD-6388,,Website,Direct Sales,REP-107,2025-01-29,Contacted,0
+LEAD-6389,CUST-1547,Webinar,Direct Sales,REP-110,2024-05-03,Qualified,0
+LEAD-6390,CUST-1408,Cold Outreach,Direct Sales,REP-112,2025-03-25,Contacted,0
+LEAD-6391,,Referral,Direct Sales,REP-107,2024-02-10,Converted,1
+LEAD-6392,CUST-1269,Cold Outreach,Partner,REP-102,2025-03-26,Qualified,0
+LEAD-6393,CUST-1348,Webinar,Online,REP-103,2024-04-24,Converted,1
+LEAD-6394,CUST-1100,Partner Event,Direct Sales,REP-108,2024-09-05,Converted,1
+LEAD-6395,CUST-1251,Cold Outreach,Retail,REP-112,2024-03-16,Qualified,0
+LEAD-6396,CUST-1462,Referral,Direct Sales,REP-112,2024-12-16,Qualified,0
+LEAD-6397,,LinkedIn,Partner,REP-101,2024-10-08,Converted,1
+LEAD-6398,,Website,Direct Sales,REP-104,2024-10-22,Converted,1
+LEAD-6399,CUST-1650,Referral,Partner,REP-112,2024-10-25,Converted,1
+LEAD-6400,CUST-1132,Webinar,Partner,REP-105,2025-03-26,Converted,1
+LEAD-6401,CUST-1234,Partner Event,Direct Sales,REP-107,2024-10-26,Converted,1
+LEAD-6402,CUST-1013,LinkedIn,Retail,REP-105,2024-08-04,Converted,1
+LEAD-6403,,Cold Outreach,Online,REP-110,2025-02-19,Disqualified,0
+LEAD-6404,CUST-1384,LinkedIn,Online,REP-109,2024-06-08,Converted,1
+LEAD-6405,,Webinar,Partner,REP-103,2025-05-11,Converted,1
+LEAD-6406,,Cold Outreach,Partner,REP-101,2025-05-10,Converted,1
+LEAD-6407,CUST-1285,Referral,Online,REP-104,2024-08-18,Converted,1
+LEAD-6408,CUST-1471,Webinar,Online,REP-104,2024-05-02,Converted,1
+LEAD-6409,,Partner Event,Online,REP-112,2024-01-13,Contacted,0
+LEAD-6410,CUST-1034,Webinar,Online,REP-104,2024-08-21,Converted,1
+LEAD-6411,CUST-1567,Referral,Partner,REP-109,2024-04-11,Disqualified,0
+LEAD-6412,CUST-1536,Partner Event,Direct Sales,REP-101,2024-03-22,Converted,1
+LEAD-6413,CUST-1251,Partner Event,Direct Sales,REP-112,2024-09-19,Converted,1
+LEAD-6414,,Inbound Demo,Direct Sales,REP-101,2025-04-12,Converted,1
+LEAD-6415,CUST-1066,Website,Online,REP-112,2024-10-11,Disqualified,0
+LEAD-6416,CUST-1234,LinkedIn,Online,REP-105,2024-05-15,Converted,1
+LEAD-6417,CUST-1053,Cold Outreach,Partner,REP-102,2025-05-03,Converted,1
+LEAD-6418,CUST-1086,Inbound Demo,Retail,REP-108,2024-03-15,Converted,1
+LEAD-6419,CUST-1499,LinkedIn,Retail,REP-110,2024-04-12,Converted,1
+LEAD-6420,,LinkedIn,Online,REP-107,2024-01-10,Converted,1
+LEAD-6421,CUST-1630,Partner Event,Retail,REP-111,2025-03-29,Qualified,0
+LEAD-6422,CUST-1505,Referral,Partner,REP-107,2024-01-01,Qualified,0
+LEAD-6423,CUST-1307,LinkedIn,Partner,REP-108,2024-12-02,Converted,1
+LEAD-6424,,Referral,Direct Sales,REP-105,2024-09-11,Converted,1
+LEAD-6425,CUST-1327,Website,Direct Sales,REP-103,2025-03-26,Contacted,0
+LEAD-6426,CUST-1443,Cold Outreach,Online,REP-103,2025-04-26,Qualified,0
+LEAD-6427,CUST-1552,Partner Event,Online,REP-108,2024-04-06,Contacted,0
+LEAD-6428,,Partner Event,Online,REP-102,2024-07-17,Converted,1
+LEAD-6429,,Referral,Online,REP-106,2025-05-28,Converted,1
+LEAD-6430,CUST-1159,LinkedIn,Direct Sales,REP-104,2024-11-03,Converted,1
+LEAD-6431,,Partner Event,Partner,REP-107,2024-07-15,Contacted,0
+LEAD-6432,,Referral,Direct Sales,REP-109,2024-06-09,Qualified,0
+LEAD-6433,CUST-1270,Partner Event,Online,REP-112,2025-03-02,Converted,1
+LEAD-6434,CUST-1363,Referral,Retail,REP-103,2024-11-06,Contacted,0
+LEAD-6435,CUST-1403,Cold Outreach,Retail,REP-105,2024-11-18,Qualified,0
+LEAD-6436,CUST-1419,Partner Event,Partner,REP-107,2024-01-06,Converted,1
+LEAD-6437,CUST-1208,Cold Outreach,Retail,REP-105,2024-05-23,Converted,1
+LEAD-6438,CUST-1438,Referral,Direct Sales,REP-106,2024-09-19,Contacted,0
+LEAD-6439,,LinkedIn,Retail,REP-109,2024-11-29,Contacted,0
+LEAD-6440,CUST-1249,Cold Outreach,Online,REP-105,2025-05-30,Converted,1
+LEAD-6441,CUST-1048,Webinar,Direct Sales,REP-110,2025-05-06,Contacted,0
+LEAD-6442,CUST-1287,Webinar,Online,REP-112,2025-02-03,Disqualified,0
+LEAD-6443,CUST-1351,Website,Online,REP-102,2025-01-19,Converted,1
+LEAD-6444,CUST-1138,Cold Outreach,Online,REP-105,2025-01-13,Contacted,0
+LEAD-6445,CUST-1156,Referral,Partner,REP-112,2024-03-16,Contacted,0
+LEAD-6446,CUST-1449,LinkedIn,Partner,REP-104,2024-11-02,Converted,1
+LEAD-6447,,LinkedIn,Direct Sales,REP-109,2024-09-23,Qualified,0
+LEAD-6448,,Partner Event,Online,REP-102,2024-05-23,Qualified,0
+LEAD-6449,,Partner Event,Partner,REP-106,2024-11-17,Converted,1
+LEAD-6450,CUST-1472,Inbound Demo,Partner,REP-106,2024-08-07,Converted,1
+LEAD-6451,CUST-1619,Webinar,Direct Sales,REP-112,2024-07-22,Qualified,0
+LEAD-6452,CUST-1438,Inbound Demo,Partner,REP-102,2024-01-24,Converted,1
+LEAD-6453,,Partner Event,Online,REP-101,2025-05-13,Converted,1
+LEAD-6454,CUST-1033,Website,Direct Sales,REP-110,2025-01-17,Disqualified,0
+LEAD-6455,CUST-1589,Partner Event,Retail,REP-109,2024-11-30,Converted,1
+LEAD-6456,CUST-1572,Webinar,Online,REP-102,2024-03-09,Contacted,0
+LEAD-6457,,Partner Event,Direct Sales,REP-109,2024-06-11,Converted,1
+LEAD-6458,,LinkedIn,Retail,REP-111,2025-04-24,Qualified,0
+LEAD-6459,CUST-1156,Partner Event,Partner,REP-105,2025-03-17,Qualified,0
+LEAD-6460,CUST-1465,Inbound Demo,Online,REP-111,2024-03-15,Converted,1
+LEAD-6461,CUST-1007,Website,Online,REP-107,2025-03-18,Qualified,0
+LEAD-6462,CUST-1438,Website,Online,REP-101,2025-02-03,Converted,1
+LEAD-6463,,LinkedIn,Partner,REP-111,2024-08-16,Converted,1
+LEAD-6464,,Partner Event,Direct Sales,REP-110,2024-07-24,Contacted,0
+LEAD-6465,CUST-1186,Inbound Demo,Online,REP-103,2024-06-05,Converted,1
+LEAD-6466,CUST-1071,Partner Event,Retail,REP-103,2024-02-10,Converted,1
+LEAD-6467,CUST-1311,Inbound Demo,Direct Sales,REP-111,2024-11-18,Converted,1
+LEAD-6468,,Inbound Demo,Online,REP-104,2024-10-04,Converted,1
+LEAD-6469,CUST-1214,Website,Direct Sales,REP-107,2025-03-26,Converted,1
+LEAD-6470,CUST-1390,Cold Outreach,Partner,REP-107,2025-04-02,Converted,1
+LEAD-6471,CUST-1593,Website,Online,REP-103,2024-05-07,Qualified,0
+LEAD-6472,CUST-1501,Inbound Demo,Online,REP-104,2024-05-04,Qualified,0
+LEAD-6473,CUST-1216,Webinar,Partner,REP-106,2025-01-01,Disqualified,0
+LEAD-6474,CUST-1468,Cold Outreach,Direct Sales,REP-105,2025-01-03,Converted,1
+LEAD-6475,CUST-1103,Partner Event,Direct Sales,REP-107,2025-01-24,Converted,1
+LEAD-6476,CUST-1308,Partner Event,Direct Sales,REP-102,2024-11-13,Converted,1
+LEAD-6477,,Webinar,Online,REP-111,2024-03-27,Contacted,0
+LEAD-6478,CUST-1332,Referral,Online,REP-112,2024-01-17,Converted,1
+LEAD-6479,CUST-1532,Inbound Demo,Direct Sales,REP-110,2024-09-11,Converted,1
+LEAD-6480,CUST-1215,Partner Event,Online,REP-101,2025-04-26,Contacted,0
+LEAD-6481,CUST-1162,Referral,Online,REP-110,2024-10-27,Converted,1
+LEAD-6482,,LinkedIn,Retail,REP-103,2024-06-27,Contacted,0
+LEAD-6483,,Referral,Retail,REP-102,2024-07-04,Converted,1
+LEAD-6484,CUST-1272,Referral,Partner,REP-107,2024-07-27,Qualified,0
+LEAD-6485,CUST-1482,Partner Event,Retail,REP-101,2024-01-30,Converted,1
+LEAD-6486,CUST-1613,Cold Outreach,Online,REP-101,2024-05-27,Qualified,0
+LEAD-6487,CUST-1229,Inbound Demo,Retail,REP-102,2024-06-22,Converted,1
+LEAD-6488,CUST-1426,Website,Online,REP-108,2024-03-08,Contacted,0
+LEAD-6489,,Inbound Demo,Retail,REP-110,2025-03-26,Converted,1
+LEAD-6490,CUST-1553,Cold Outreach,Retail,REP-105,2025-05-02,Converted,1
+LEAD-6491,,Cold Outreach,Partner,REP-108,2024-04-08,Contacted,0
+LEAD-6492,CUST-1147,Inbound Demo,Retail,REP-104,2024-07-19,Converted,1
+LEAD-6493,,Webinar,Direct Sales,REP-102,2024-03-25,Converted,1
+LEAD-6494,CUST-1309,Inbound Demo,Online,REP-104,2024-04-17,Converted,1
+LEAD-6495,CUST-1592,Webinar,Direct Sales,REP-110,2025-04-18,Disqualified,0
+LEAD-6496,CUST-1384,Partner Event,Partner,REP-103,2024-09-30,Qualified,0
+LEAD-6497,CUST-1203,Webinar,Online,REP-107,2024-02-05,Disqualified,0
+LEAD-6498,CUST-1244,Inbound Demo,Partner,REP-111,2024-01-15,Converted,1
+LEAD-6499,CUST-1353,Website,Retail,REP-110,2024-11-26,Converted,1
+LEAD-6500,CUST-1270,Cold Outreach,Online,REP-104,2025-02-19,Converted,1
+LEAD-6501,,Webinar,Partner,REP-105,2024-04-30,Converted,1
+LEAD-6502,CUST-1500,Referral,Retail,REP-103,2024-12-11,Qualified,0
+LEAD-6503,,Webinar,Retail,REP-102,2025-04-12,Converted,1
+LEAD-6504,CUST-1027,Website,Retail,REP-106,2024-09-26,Disqualified,0
+LEAD-6505,,Website,Direct Sales,REP-104,2024-05-09,Contacted,0
+LEAD-6506,CUST-1356,LinkedIn,Retail,REP-112,2024-05-03,Converted,1
+LEAD-6507,,LinkedIn,Partner,REP-102,2025-03-22,Disqualified,0
+LEAD-6508,CUST-1228,Cold Outreach,Online,REP-109,2024-07-05,Qualified,0
+LEAD-6509,CUST-1616,Webinar,Direct Sales,REP-112,2024-07-22,Qualified,0
+LEAD-6510,CUST-1236,Partner Event,Partner,REP-109,2024-02-18,Qualified,0
+LEAD-6511,CUST-1170,Referral,Online,REP-103,2024-06-19,Qualified,0
+LEAD-6512,CUST-1625,Partner Event,Partner,REP-112,2024-08-19,Converted,1
+LEAD-6513,,Referral,Partner,REP-101,2024-07-26,Disqualified,0
+LEAD-6514,,Cold Outreach,Online,REP-109,2024-10-30,Contacted,0
+LEAD-6515,,Referral,Direct Sales,REP-103,2025-04-24,Converted,1
+LEAD-6516,CUST-1320,Referral,Partner,REP-112,2024-03-17,Converted,1
+LEAD-6517,CUST-1493,Website,Direct Sales,REP-107,2024-03-09,Contacted,0
+LEAD-6518,CUST-1401,Cold Outreach,Online,REP-103,2024-09-05,Converted,1
+LEAD-6519,CUST-1283,Partner Event,Online,REP-106,2024-09-11,Converted,1
+LEAD-6520,,Website,Direct Sales,REP-112,2025-02-15,Disqualified,0
+LEAD-6521,CUST-1283,Inbound Demo,Retail,REP-108,2024-06-04,Qualified,0
+LEAD-6522,CUST-1537,Webinar,Online,REP-102,2024-01-12,Converted,1
+LEAD-6523,CUST-1128,Inbound Demo,Partner,REP-111,2025-04-27,Converted,1
+LEAD-6524,,Inbound Demo,Online,REP-102,2025-04-10,Qualified,0
+LEAD-6525,CUST-1262,Referral,Direct Sales,REP-101,2024-12-15,Converted,1
+LEAD-6526,CUST-1499,Cold Outreach,Retail,REP-110,2025-04-22,Qualified,0
+LEAD-6527,CUST-1618,LinkedIn,Partner,REP-102,2024-08-18,Disqualified,0
+LEAD-6528,CUST-1443,Inbound Demo,Online,REP-111,2025-01-06,Converted,1
+LEAD-6529,,Partner Event,Direct Sales,REP-105,2024-04-17,Qualified,0
+LEAD-6530,CUST-1258,Webinar,Online,REP-109,2024-09-14,Disqualified,0
+LEAD-6531,,Website,Direct Sales,REP-102,2024-03-26,Converted,1
+LEAD-6532,CUST-1273,Inbound Demo,Partner,REP-110,2025-05-21,Converted,1
+LEAD-6533,,LinkedIn,Online,REP-110,2025-05-14,Converted,1
+LEAD-6534,CUST-1101,Website,Online,REP-110,2025-01-26,Converted,1
+LEAD-6535,CUST-1619,Partner Event,Direct Sales,REP-104,2024-04-30,Converted,1
+LEAD-6536,CUST-1451,Webinar,Retail,REP-112,2025-02-07,Contacted,0
+LEAD-6537,,Cold Outreach,Retail,REP-111,2024-02-08,Converted,1
+LEAD-6538,CUST-1646,Inbound Demo,Online,REP-110,2024-01-27,Disqualified,0
+LEAD-6539,,Referral,Partner,REP-107,2024-04-11,Qualified,0
+LEAD-6540,CUST-1255,Referral,Direct Sales,REP-111,2024-09-16,Converted,1
+LEAD-6541,,Referral,Direct Sales,REP-108,2024-02-18,Qualified,0
+LEAD-6542,,Inbound Demo,Partner,REP-109,2024-06-13,Converted,1
+LEAD-6543,,Webinar,Retail,REP-107,2024-11-25,Contacted,0
+LEAD-6544,,Partner Event,Retail,REP-108,2024-06-25,Converted,1
+LEAD-6545,CUST-1093,Referral,Direct Sales,REP-105,2024-08-21,Qualified,0
+LEAD-6546,CUST-1392,LinkedIn,Direct Sales,REP-108,2024-11-16,Converted,1
+LEAD-6547,,Referral,Partner,REP-106,2025-05-12,Contacted,0
+LEAD-6548,CUST-1195,Inbound Demo,Online,REP-106,2024-06-12,Converted,1
+LEAD-6549,CUST-1408,Partner Event,Direct Sales,REP-109,2024-10-30,Converted,1
+LEAD-6550,CUST-1613,Inbound Demo,Direct Sales,REP-102,2024-03-18,Disqualified,0
+LEAD-6551,CUST-1349,Partner Event,Partner,REP-105,2025-02-18,Converted,1
+LEAD-6552,CUST-1301,Inbound Demo,Online,REP-107,2025-02-10,Converted,1
+LEAD-6553,CUST-1042,Referral,Online,REP-104,2024-03-25,Converted,1
+LEAD-6554,CUST-1230,Webinar,Retail,REP-105,2024-06-07,Contacted,0
+LEAD-6555,CUST-1222,Inbound Demo,Online,REP-104,2024-08-12,Converted,1
+LEAD-6556,,Inbound Demo,Direct Sales,REP-101,2024-10-30,Converted,1
+LEAD-6557,CUST-1582,Cold Outreach,Online,REP-109,2025-03-25,Converted,1
+LEAD-6558,CUST-1643,Partner Event,Online,REP-109,2024-07-09,Converted,1
+LEAD-6559,,Webinar,Online,REP-105,2025-01-31,Disqualified,0
+LEAD-6560,CUST-1241,Cold Outreach,Online,REP-106,2024-09-26,Converted,1
+LEAD-6561,CUST-1253,Website,Retail,REP-112,2024-12-31,Contacted,0
+LEAD-6562,,Website,Online,REP-109,2024-05-11,Converted,1
+LEAD-6563,CUST-1357,Partner Event,Retail,REP-110,2024-04-17,Qualified,0
+LEAD-6564,CUST-1055,Cold Outreach,Direct Sales,REP-105,2024-08-17,Converted,1
+LEAD-6565,CUST-1176,Cold Outreach,Direct Sales,REP-110,2025-03-24,Converted,1
+LEAD-6566,CUST-1356,LinkedIn,Direct Sales,REP-111,2025-04-04,Converted,1
+LEAD-6567,CUST-1283,Website,Direct Sales,REP-111,2024-05-31,Converted,1
+LEAD-6568,CUST-1137,Webinar,Partner,REP-110,2024-01-29,Disqualified,0
+LEAD-6569,CUST-1312,Webinar,Online,REP-108,2024-08-08,Converted,1
+LEAD-6570,,Inbound Demo,Direct Sales,REP-109,2025-02-20,Converted,1
+LEAD-6571,,LinkedIn,Retail,REP-101,2024-01-07,Converted,1
+LEAD-6572,CUST-1543,Partner Event,Retail,REP-102,2024-05-02,Converted,1
+LEAD-6573,CUST-1616,Webinar,Retail,REP-104,2024-06-14,Qualified,0
+LEAD-6574,CUST-1507,Partner Event,Direct Sales,REP-103,2024-07-02,Qualified,0
+LEAD-6575,,Website,Partner,REP-102,2024-12-05,Converted,1
+LEAD-6576,CUST-1486,Partner Event,Direct Sales,REP-107,2025-01-31,Converted,1
+LEAD-6577,CUST-1182,Inbound Demo,Direct Sales,REP-102,2024-12-17,Qualified,0
+LEAD-6578,CUST-1412,Cold Outreach,Online,REP-102,2024-09-15,Converted,1
+LEAD-6579,CUST-1463,Webinar,Partner,REP-111,2024-12-25,Qualified,0
+LEAD-6580,CUST-1571,Website,Online,REP-110,2024-09-20,Converted,1
+LEAD-6581,CUST-1542,Website,Direct Sales,REP-103,2025-01-17,Converted,1
+LEAD-6582,CUST-1582,Cold Outreach,Retail,REP-105,2024-11-30,Converted,1
+LEAD-6583,CUST-1511,Inbound Demo,Online,REP-104,2024-03-12,Converted,1
+LEAD-6584,,Referral,Online,REP-102,2024-08-11,Disqualified,0
+LEAD-6585,,LinkedIn,Online,REP-103,2025-01-18,Qualified,0
+LEAD-6586,,LinkedIn,Retail,REP-103,2024-06-30,Converted,1
+LEAD-6587,,LinkedIn,Direct Sales,REP-102,2024-02-09,Converted,1
+LEAD-6588,,Website,Direct Sales,REP-106,2024-10-25,Converted,1
+LEAD-6589,CUST-1159,Website,Partner,REP-108,2024-06-20,Disqualified,0
+LEAD-6590,CUST-1399,Cold Outreach,Retail,REP-111,2024-12-11,Contacted,0
+LEAD-6591,CUST-1253,Webinar,Direct Sales,REP-109,2024-04-29,Converted,1
+LEAD-6592,CUST-1414,Partner Event,Partner,REP-108,2024-09-02,Converted,1
+LEAD-6593,,Cold Outreach,Partner,REP-111,2024-03-01,Contacted,0
+LEAD-6594,CUST-1329,Partner Event,Partner,REP-109,2024-04-11,Disqualified,0
+LEAD-6595,CUST-1290,Partner Event,Online,REP-109,2025-02-07,Converted,1
+LEAD-6596,CUST-1642,Partner Event,Retail,REP-104,2025-04-03,Converted,1
+LEAD-6597,CUST-1504,Cold Outreach,Direct Sales,REP-102,2025-03-21,Converted,1
+LEAD-6598,CUST-1295,LinkedIn,Online,REP-107,2025-05-10,Qualified,0
+LEAD-6599,CUST-1092,LinkedIn,Direct Sales,REP-101,2024-02-26,Converted,1
+LEAD-6600,,Webinar,Online,REP-106,2024-06-26,Converted,1
+LEAD-6601,CUST-1551,Referral,Online,REP-107,2024-02-18,Converted,1
+LEAD-6602,CUST-1183,Webinar,Partner,REP-109,2025-03-20,Converted,1
+LEAD-6603,CUST-1191,Inbound Demo,Online,REP-102,2024-02-15,Contacted,0
+LEAD-6604,CUST-1212,Website,Direct Sales,REP-112,2024-11-23,Converted,1
+LEAD-6605,CUST-1120,Website,Direct Sales,REP-107,2024-01-16,Disqualified,0
+LEAD-6606,,Inbound Demo,Online,REP-111,2024-01-05,Contacted,0
+LEAD-6607,CUST-1412,Cold Outreach,Retail,REP-104,2024-06-30,Converted,1
+LEAD-6608,CUST-1265,LinkedIn,Online,REP-104,2024-05-25,Contacted,0
+LEAD-6609,,Webinar,Online,REP-110,2025-03-08,Disqualified,0
+LEAD-6610,,Inbound Demo,Online,REP-111,2024-11-13,Converted,1
+LEAD-6611,CUST-1195,Cold Outreach,Online,REP-107,2024-01-11,Contacted,0
+LEAD-6612,CUST-1405,Referral,Online,REP-110,2025-05-14,Converted,1
+LEAD-6613,,Inbound Demo,Partner,REP-111,2025-04-04,Converted,1
+LEAD-6614,,Website,Retail,REP-103,2024-04-27,Converted,1
+LEAD-6615,CUST-1263,LinkedIn,Online,REP-106,2024-07-06,Disqualified,0
+LEAD-6616,CUST-1584,Referral,Partner,REP-109,2025-02-11,Converted,1
+LEAD-6617,,Cold Outreach,Partner,REP-104,2024-05-02,Converted,1
+LEAD-6618,CUST-1037,Inbound Demo,Retail,REP-103,2025-05-24,Converted,1
+LEAD-6619,CUST-1398,Website,Direct Sales,REP-104,2024-04-21,Converted,1
+LEAD-6620,CUST-1449,Inbound Demo,Online,REP-107,2024-03-10,Qualified,0
+LEAD-6621,,LinkedIn,Direct Sales,REP-101,2025-03-28,Converted,1
+LEAD-6622,,Partner Event,Partner,REP-104,2024-07-12,Converted,1
+LEAD-6623,,Inbound Demo,Partner,REP-106,2024-01-15,Converted,1
+LEAD-6624,CUST-1058,Referral,Online,REP-108,2024-06-28,Converted,1
+LEAD-6625,CUST-1189,Referral,Direct Sales,REP-109,2024-06-05,Qualified,0
+LEAD-6626,CUST-1452,Webinar,Retail,REP-112,2024-12-09,Converted,1
+LEAD-6627,CUST-1165,LinkedIn,Partner,REP-109,2024-09-08,Converted,1
+LEAD-6628,,Website,Retail,REP-102,2024-11-21,Converted,1
+LEAD-6629,CUST-1330,LinkedIn,Partner,REP-112,2024-01-18,Converted,1
+LEAD-6630,CUST-1391,Website,Direct Sales,REP-111,2024-05-26,Converted,1
+LEAD-6631,,Partner Event,Partner,REP-107,2024-02-29,Converted,1
+LEAD-6632,CUST-1559,Partner Event,Partner,REP-111,2024-08-17,Converted,1
+LEAD-6633,CUST-1631,LinkedIn,Online,REP-111,2025-05-02,Converted,1
+LEAD-6634,CUST-1354,Webinar,Direct Sales,REP-108,2024-08-31,Disqualified,0
+LEAD-6635,CUST-1369,Cold Outreach,Partner,REP-103,2025-04-10,Converted,1
+LEAD-6636,CUST-1398,Webinar,Online,REP-112,2024-10-20,Disqualified,0
+LEAD-6637,CUST-1308,Referral,Partner,REP-112,2024-06-13,Converted,1
+LEAD-6638,,Cold Outreach,Direct Sales,REP-112,2025-04-15,Contacted,0
+LEAD-6639,CUST-1416,Inbound Demo,Retail,REP-111,2025-02-15,Converted,1
+LEAD-6640,CUST-1398,Cold Outreach,Online,REP-112,2025-03-03,Converted,1
+LEAD-6641,CUST-1543,Referral,Online,REP-111,2024-12-11,Converted,1
+LEAD-6642,CUST-1634,Webinar,Partner,REP-104,2024-08-10,Converted,1
+LEAD-6643,CUST-1315,LinkedIn,Online,REP-107,2025-04-19,Converted,1
+LEAD-6644,CUST-1464,Cold Outreach,Partner,REP-102,2024-05-24,Converted,1
+LEAD-6645,CUST-1565,Website,Partner,REP-104,2025-02-26,Contacted,0
+LEAD-6646,CUST-1454,LinkedIn,Online,REP-107,2025-01-28,Converted,1
+LEAD-6647,,Cold Outreach,Direct Sales,REP-110,2024-07-30,Converted,1
+LEAD-6648,CUST-1203,Webinar,Direct Sales,REP-107,2024-06-08,Converted,1
+LEAD-6649,,Cold Outreach,Direct Sales,REP-104,2024-11-20,Converted,1
+LEAD-6650,,Referral,Retail,REP-110,2025-05-13,Converted,1
+LEAD-6651,,Webinar,Retail,REP-102,2024-02-06,Converted,1
+LEAD-6652,CUST-1093,Partner Event,Partner,REP-101,2024-01-09,Converted,1
+LEAD-6653,CUST-1219,Inbound Demo,Partner,REP-112,2024-12-31,Converted,1
+LEAD-6654,,Referral,Direct Sales,REP-110,2024-03-08,Converted,1
+LEAD-6655,,Cold Outreach,Retail,REP-106,2025-04-02,Converted,1
+LEAD-6656,CUST-1156,Partner Event,Partner,REP-109,2024-04-13,Converted,1
+LEAD-6657,CUST-1576,LinkedIn,Partner,REP-110,2024-05-01,Converted,1
+LEAD-6658,,Webinar,Retail,REP-105,2025-04-25,Disqualified,0
+LEAD-6659,,Webinar,Online,REP-103,2024-04-26,Converted,1
+LEAD-6660,CUST-1489,Inbound Demo,Partner,REP-107,2024-02-10,Converted,1
+LEAD-6661,,LinkedIn,Online,REP-112,2024-01-21,Converted,1
+LEAD-6662,CUST-1021,LinkedIn,Direct Sales,REP-110,2025-03-27,Disqualified,0
+LEAD-6663,,Referral,Direct Sales,REP-102,2024-12-18,Converted,1
+LEAD-6664,,LinkedIn,Retail,REP-105,2024-05-18,Disqualified,0
+LEAD-6665,CUST-1650,Partner Event,Retail,REP-111,2024-04-23,Converted,1
+LEAD-6666,,Referral,Partner,REP-110,2024-03-26,Converted,1
+LEAD-6667,,Inbound Demo,Partner,REP-106,2025-03-03,Converted,1
+LEAD-6668,CUST-1171,LinkedIn,Direct Sales,REP-101,2024-10-13,Converted,1
+LEAD-6669,CUST-1444,Webinar,Retail,REP-105,2024-09-01,Converted,1
+LEAD-6670,CUST-1083,Webinar,Direct Sales,REP-111,2024-10-06,Converted,1
+LEAD-6671,CUST-1588,Inbound Demo,Direct Sales,REP-110,2024-02-02,Converted,1
+LEAD-6672,CUST-1037,Inbound Demo,Online,REP-108,2025-01-24,Qualified,0
+LEAD-6673,CUST-1525,Webinar,Partner,REP-107,2024-10-03,Contacted,0
+LEAD-6674,CUST-1355,Cold Outreach,Partner,REP-112,2025-03-10,Qualified,0
+LEAD-6675,CUST-1461,Cold Outreach,Direct Sales,REP-105,2024-07-16,Disqualified,0
+LEAD-6676,,Partner Event,Online,REP-111,2024-03-27,Contacted,0
+LEAD-6677,,Website,Retail,REP-103,2024-04-26,Converted,1
+LEAD-6678,CUST-1586,Inbound Demo,Online,REP-106,2024-03-17,Contacted,0
+LEAD-6679,CUST-1014,Partner Event,Partner,REP-102,2024-03-30,Qualified,0
+LEAD-6680,CUST-1597,Partner Event,Retail,REP-110,2024-12-15,Qualified,0
+LEAD-6681,,Webinar,Direct Sales,REP-106,2025-04-16,Converted,1
+LEAD-6682,CUST-1084,Website,Online,REP-112,2024-05-04,Converted,1
+LEAD-6683,,Website,Partner,REP-107,2024-04-03,Converted,1
+LEAD-6684,CUST-1641,Webinar,Partner,REP-102,2024-02-21,Converted,1
+LEAD-6685,,Partner Event,Direct Sales,REP-104,2025-05-02,Converted,1
+LEAD-6686,,Cold Outreach,Retail,REP-105,2024-07-09,Converted,1
+LEAD-6687,CUST-1082,Cold Outreach,Online,REP-103,2024-03-03,Converted,1
+LEAD-6688,,Referral,Direct Sales,REP-103,2024-07-21,Converted,1
+LEAD-6689,,Webinar,Partner,REP-102,2024-07-12,Converted,1
+LEAD-6690,,Partner Event,Retail,REP-106,2024-07-10,Converted,1
+LEAD-6691,CUST-1423,Webinar,Online,REP-110,2025-02-08,Converted,1
+LEAD-6692,CUST-1354,Inbound Demo,Partner,REP-107,2024-10-19,Qualified,0
+LEAD-6693,CUST-1166,Webinar,Direct Sales,REP-111,2024-01-08,Converted,1
+LEAD-6694,,Cold Outreach,Direct Sales,REP-106,2024-03-05,Converted,1
+LEAD-6695,,Website,Online,REP-111,2025-03-16,Qualified,0
+LEAD-6696,CUST-1603,Webinar,Retail,REP-111,2024-01-13,Qualified,0
+LEAD-6697,CUST-1068,Webinar,Online,REP-111,2025-01-05,Converted,1
+LEAD-6698,,Cold Outreach,Online,REP-106,2024-11-22,Converted,1
+LEAD-6699,CUST-1195,Referral,Online,REP-108,2025-05-26,Converted,1
+LEAD-6700,CUST-1477,Website,Retail,REP-112,2024-06-23,Contacted,0
+LEAD-6701,CUST-1476,Partner Event,Partner,REP-107,2024-11-28,Converted,1
+LEAD-6702,CUST-1026,Webinar,Partner,REP-107,2024-05-25,Contacted,0
+LEAD-6703,CUST-1375,Cold Outreach,Online,REP-111,2024-11-20,Converted,1
+LEAD-6704,,Inbound Demo,Partner,REP-110,2024-06-25,Converted,1
+LEAD-6705,CUST-1346,Cold Outreach,Direct Sales,REP-108,2024-01-17,Converted,1
+LEAD-6706,CUST-1563,Cold Outreach,Retail,REP-103,2025-05-24,Converted,1
+LEAD-6707,,Cold Outreach,Retail,REP-110,2024-07-13,Converted,1
+LEAD-6708,CUST-1109,Cold Outreach,Online,REP-111,2024-06-12,Converted,1
+LEAD-6709,CUST-1145,Webinar,Partner,REP-108,2024-11-27,Converted,1
+LEAD-6710,CUST-1014,Partner Event,Online,REP-104,2025-05-21,Disqualified,0
+LEAD-6711,CUST-1634,Referral,Direct Sales,REP-111,2024-06-11,Converted,1
+LEAD-6712,CUST-1350,LinkedIn,Online,REP-103,2024-05-04,Qualified,0
+LEAD-6713,,Referral,Online,REP-110,2024-05-11,Converted,1
+LEAD-6714,CUST-1335,Referral,Direct Sales,REP-107,2025-04-02,Qualified,0
+LEAD-6715,,Webinar,Partner,REP-108,2024-11-16,Converted,1
+LEAD-6716,,Webinar,Direct Sales,REP-104,2024-12-05,Disqualified,0
+LEAD-6717,CUST-1256,Webinar,Partner,REP-110,2024-08-22,Converted,1
+LEAD-6718,CUST-1098,Website,Direct Sales,REP-106,2025-04-26,Converted,1
+LEAD-6719,CUST-1503,LinkedIn,Online,REP-106,2024-05-31,Converted,1
+LEAD-6720,CUST-1198,Website,Partner,REP-108,2024-09-29,Contacted,0
+LEAD-6721,CUST-1061,Webinar,Online,REP-103,2024-10-09,Converted,1
+LEAD-6722,CUST-1636,Webinar,Direct Sales,REP-101,2024-08-16,Converted,1
+LEAD-6723,,Partner Event,Partner,REP-105,2024-05-29,Converted,1
+LEAD-6724,CUST-1193,LinkedIn,Direct Sales,REP-109,2024-11-17,Disqualified,0
+LEAD-6725,CUST-1200,Referral,Online,REP-112,2024-05-03,Converted,1
+LEAD-6726,,Referral,Direct Sales,REP-104,2025-05-31,Converted,1
+LEAD-6727,CUST-1304,Referral,Retail,REP-105,2024-01-12,Converted,1
+LEAD-6728,CUST-1152,Website,Partner,REP-106,2025-03-07,Converted,1
+LEAD-6729,CUST-1322,LinkedIn,Partner,REP-103,2025-01-26,Converted,1
+LEAD-6730,CUST-1622,Cold Outreach,Partner,REP-105,2024-10-07,Converted,1
+LEAD-6731,CUST-1018,LinkedIn,Online,REP-103,2024-06-15,Converted,1
+LEAD-6732,CUST-1323,LinkedIn,Direct Sales,REP-108,2024-11-30,Contacted,0
+LEAD-6733,CUST-1332,LinkedIn,Partner,REP-101,2025-01-19,Converted,1
+LEAD-6734,CUST-1332,LinkedIn,Online,REP-101,2024-11-30,Converted,1
+LEAD-6735,,LinkedIn,Online,REP-101,2024-02-10,Qualified,0
+LEAD-6736,CUST-1105,Website,Online,REP-102,2025-05-23,Converted,1
+LEAD-6737,,Website,Direct Sales,REP-106,2024-08-28,Converted,1
+LEAD-6738,CUST-1559,Referral,Retail,REP-102,2025-02-26,Converted,1
+LEAD-6739,,Webinar,Online,REP-107,2025-03-02,Converted,1
+LEAD-6740,CUST-1119,Partner Event,Direct Sales,REP-104,2024-04-01,Qualified,0
+LEAD-6741,CUST-1572,Inbound Demo,Online,REP-104,2024-09-24,Converted,1
+LEAD-6742,CUST-1239,Cold Outreach,Retail,REP-101,2024-08-18,Disqualified,0
+LEAD-6743,CUST-1650,LinkedIn,Online,REP-106,2024-05-20,Qualified,0
+LEAD-6744,CUST-1425,LinkedIn,Direct Sales,REP-105,2024-01-20,Converted,1
+LEAD-6745,CUST-1236,Inbound Demo,Partner,REP-110,2024-02-11,Converted,1
+LEAD-6746,CUST-1377,Referral,Partner,REP-112,2024-01-08,Converted,1
+LEAD-6747,CUST-1008,Cold Outreach,Direct Sales,REP-104,2024-06-17,Disqualified,0
+LEAD-6748,CUST-1398,Referral,Direct Sales,REP-109,2024-10-15,Converted,1
+LEAD-6749,CUST-1201,Partner Event,Direct Sales,REP-110,2024-07-25,Converted,1
+LEAD-6750,,Cold Outreach,Online,REP-102,2024-09-23,Converted,1
+LEAD-6751,,LinkedIn,Online,REP-111,2025-04-01,Qualified,0
+LEAD-6752,CUST-1110,Inbound Demo,Direct Sales,REP-102,2024-07-28,Qualified,0
+LEAD-6753,,Inbound Demo,Online,REP-110,2024-07-29,Converted,1
+LEAD-6754,CUST-1056,LinkedIn,Online,REP-105,2024-08-07,Qualified,0
+LEAD-6755,CUST-1025,LinkedIn,Partner,REP-105,2024-08-23,Converted,1
+LEAD-6756,,Partner Event,Retail,REP-103,2024-08-09,Converted,1
+LEAD-6757,CUST-1401,Webinar,Partner,REP-106,2025-02-01,Converted,1
+LEAD-6758,CUST-1293,Cold Outreach,Online,REP-108,2024-06-18,Contacted,0
+LEAD-6759,CUST-1001,Website,Online,REP-110,2024-09-11,Contacted,0
+LEAD-6760,,Partner Event,Retail,REP-101,2024-02-21,Disqualified,0
+LEAD-6761,,Cold Outreach,Online,REP-107,2024-11-06,Disqualified,0
+LEAD-6762,CUST-1196,Website,Online,REP-106,2024-04-09,Disqualified,0
+LEAD-6763,CUST-1023,Website,Partner,REP-105,2025-01-16,Converted,1
+LEAD-6764,CUST-1468,Website,Partner,REP-105,2024-02-05,Disqualified,0
+LEAD-6765,,Website,Partner,REP-111,2024-07-28,Qualified,0
+LEAD-6766,CUST-1089,Cold Outreach,Online,REP-103,2024-02-01,Qualified,0
+LEAD-6767,,Partner Event,Online,REP-110,2025-04-11,Converted,1
+LEAD-6768,CUST-1157,Webinar,Retail,REP-110,2024-01-24,Converted,1
+LEAD-6769,CUST-1510,Webinar,Online,REP-107,2025-02-11,Converted,1
+LEAD-6770,,Cold Outreach,Partner,REP-103,2025-04-21,Converted,1
+LEAD-6771,,Webinar,Partner,REP-102,2024-02-15,Contacted,0
+LEAD-6772,CUST-1274,Webinar,Partner,REP-108,2024-10-15,Converted,1
+LEAD-6773,CUST-1459,Partner Event,Direct Sales,REP-104,2024-10-05,Contacted,0
+LEAD-6774,,Partner Event,Online,REP-110,2024-02-15,Converted,1
+LEAD-6775,,Partner Event,Partner,REP-104,2025-05-15,Qualified,0
+LEAD-6776,CUST-1468,Referral,Retail,REP-102,2024-10-20,Contacted,0
+LEAD-6777,,Referral,Retail,REP-111,2024-06-16,Qualified,0
+LEAD-6778,CUST-1417,Referral,Online,REP-112,2024-05-29,Converted,1
+LEAD-6779,,Referral,Online,REP-108,2025-02-15,Qualified,0
+LEAD-6780,,Partner Event,Retail,REP-111,2024-05-31,Converted,1
+LEAD-6781,CUST-1260,Referral,Partner,REP-107,2025-02-21,Contacted,0
+LEAD-6782,CUST-1553,Referral,Retail,REP-111,2024-12-06,Contacted,0
+LEAD-6783,CUST-1641,Website,Online,REP-106,2024-06-17,Converted,1
+LEAD-6784,,LinkedIn,Direct Sales,REP-111,2024-12-15,Converted,1
+LEAD-6785,,Partner Event,Partner,REP-104,2024-05-22,Converted,1
+LEAD-6786,CUST-1533,Website,Partner,REP-109,2025-03-05,Converted,1
+LEAD-6787,,Referral,Direct Sales,REP-109,2024-01-05,Converted,1
+LEAD-6788,,Webinar,Online,REP-112,2024-08-20,Converted,1
+LEAD-6789,CUST-1405,Webinar,Direct Sales,REP-106,2024-11-29,Converted,1
+LEAD-6790,CUST-1418,Inbound Demo,Online,REP-110,2025-02-06,Qualified,0
+LEAD-6791,CUST-1160,Inbound Demo,Direct Sales,REP-111,2024-04-18,Contacted,0
+LEAD-6792,,Webinar,Retail,REP-101,2024-07-11,Disqualified,0
+LEAD-6793,,Cold Outreach,Direct Sales,REP-103,2024-04-20,Qualified,0
+LEAD-6794,CUST-1215,Inbound Demo,Retail,REP-107,2024-11-09,Converted,1
+LEAD-6795,CUST-1032,Partner Event,Online,REP-104,2024-04-08,Converted,1
+LEAD-6796,CUST-1260,Inbound Demo,Partner,REP-111,2024-07-31,Converted,1
+LEAD-6797,,Cold Outreach,Retail,REP-106,2024-05-01,Converted,1
+LEAD-6798,CUST-1312,Referral,Online,REP-107,2024-11-03,Converted,1
+LEAD-6799,CUST-1504,Webinar,Online,REP-110,2025-05-04,Disqualified,0
+LEAD-6800,CUST-1485,Referral,Direct Sales,REP-106,2025-05-26,Contacted,0
+LEAD-6801,,Partner Event,Online,REP-109,2025-01-27,Converted,1
+LEAD-6802,,Webinar,Partner,REP-108,2024-12-25,Converted,1
+LEAD-6803,CUST-1557,Partner Event,Retail,REP-102,2025-05-14,Converted,1
+LEAD-6804,CUST-1097,Webinar,Direct Sales,REP-112,2024-09-08,Converted,1
+LEAD-6805,,Inbound Demo,Online,REP-110,2024-12-11,Converted,1
+LEAD-6806,,LinkedIn,Direct Sales,REP-112,2024-11-13,Converted,1
+LEAD-6807,,Website,Partner,REP-101,2025-02-24,Converted,1
+LEAD-6808,CUST-1186,LinkedIn,Online,REP-108,2024-01-29,Converted,1
+LEAD-6809,,Partner Event,Direct Sales,REP-109,2025-02-01,Converted,1
+LEAD-6810,CUST-1463,Webinar,Partner,REP-109,2024-04-30,Converted,1
+LEAD-6811,CUST-1437,Website,Partner,REP-105,2024-06-15,Converted,1
+LEAD-6812,CUST-1498,Partner Event,Online,REP-102,2024-06-07,Converted,1
+LEAD-6813,,Partner Event,Partner,REP-112,2025-01-31,Disqualified,0
+LEAD-6814,CUST-1349,Website,Online,REP-105,2025-01-20,Contacted,0
+LEAD-6815,CUST-1119,Inbound Demo,Online,REP-112,2025-05-20,Converted,1
+LEAD-6816,,Inbound Demo,Retail,REP-112,2024-05-22,Converted,1
+LEAD-6817,CUST-1441,Cold Outreach,Partner,REP-108,2024-01-25,Converted,1
+LEAD-6818,CUST-1486,Webinar,Online,REP-109,2025-01-12,Converted,1
+LEAD-6819,CUST-1067,LinkedIn,Online,REP-112,2025-03-22,Converted,1
+LEAD-6820,CUST-1250,Cold Outreach,Online,REP-107,2025-01-01,Disqualified,0
+LEAD-6821,CUST-1585,Website,Online,REP-101,2024-05-20,Converted,1
+LEAD-6822,,Cold Outreach,Online,REP-111,2024-07-20,Converted,1
+LEAD-6823,,Cold Outreach,Online,REP-102,2024-09-26,Qualified,0
+LEAD-6824,CUST-1208,Website,Direct Sales,REP-109,2025-02-27,Converted,1
+LEAD-6825,CUST-1381,Webinar,Partner,REP-112,2024-05-16,Converted,1
+LEAD-6826,,Website,Partner,REP-109,2024-01-13,Converted,1
+LEAD-6827,CUST-1250,Referral,Partner,REP-103,2024-01-10,Contacted,0
+LEAD-6828,CUST-1491,Inbound Demo,Online,REP-111,2024-08-06,Converted,1
+LEAD-6829,CUST-1555,Cold Outreach,Retail,REP-109,2024-06-25,Contacted,0
+LEAD-6830,CUST-1523,Inbound Demo,Retail,REP-111,2024-03-13,Converted,1
+LEAD-6831,,Cold Outreach,Partner,REP-109,2024-03-10,Converted,1
+LEAD-6832,,Inbound Demo,Retail,REP-111,2024-06-17,Contacted,0
+LEAD-6833,CUST-1443,Inbound Demo,Retail,REP-105,2025-01-05,Converted,1
+LEAD-6834,CUST-1383,Partner Event,Direct Sales,REP-107,2024-11-24,Converted,1
+LEAD-6835,CUST-1522,Webinar,Online,REP-103,2024-08-18,Contacted,0
+LEAD-6836,CUST-1510,Inbound Demo,Partner,REP-110,2024-06-10,Qualified,0
+LEAD-6837,CUST-1576,LinkedIn,Partner,REP-101,2025-03-19,Converted,1
+LEAD-6838,CUST-1285,Partner Event,Partner,REP-111,2024-05-29,Converted,1
+LEAD-6839,CUST-1549,Webinar,Direct Sales,REP-106,2025-04-20,Converted,1
+LEAD-6840,CUST-1396,Partner Event,Online,REP-108,2024-11-11,Qualified,0
+LEAD-6841,CUST-1502,Cold Outreach,Direct Sales,REP-106,2024-05-20,Disqualified,0
+LEAD-6842,CUST-1278,Referral,Retail,REP-111,2024-03-05,Contacted,0
+LEAD-6843,,Referral,Direct Sales,REP-106,2024-08-21,Converted,1
+LEAD-6844,,Referral,Direct Sales,REP-104,2024-12-22,Converted,1
+LEAD-6845,CUST-1193,Referral,Online,REP-105,2025-02-25,Qualified,0
+LEAD-6846,CUST-1371,Partner Event,Direct Sales,REP-112,2024-05-22,Qualified,0
+LEAD-6847,CUST-1178,Inbound Demo,Retail,REP-108,2024-11-24,Converted,1
+LEAD-6848,CUST-1649,Webinar,Partner,REP-104,2024-10-25,Contacted,0
+LEAD-6849,CUST-1402,Webinar,Partner,REP-108,2024-07-06,Converted,1
+LEAD-6850,CUST-1150,LinkedIn,Direct Sales,REP-108,2024-10-04,Converted,1
+LEAD-6851,,Referral,Partner,REP-102,2024-03-14,Contacted,0
+LEAD-6852,CUST-1261,Website,Online,REP-102,2025-02-06,Disqualified,0
+LEAD-6853,,LinkedIn,Partner,REP-110,2025-04-10,Converted,1
+LEAD-6854,CUST-1438,Inbound Demo,Direct Sales,REP-105,2025-03-06,Qualified,0
+LEAD-6855,CUST-1397,LinkedIn,Direct Sales,REP-102,2025-05-16,Converted,1
+LEAD-6856,CUST-1056,Inbound Demo,Partner,REP-102,2024-05-23,Converted,1
+LEAD-6857,CUST-1275,Referral,Retail,REP-102,2024-03-12,Converted,1
+LEAD-6858,CUST-1041,Webinar,Online,REP-111,2024-04-08,Contacted,0
+LEAD-6859,CUST-1640,Website,Retail,REP-102,2024-03-02,Qualified,0
+LEAD-6860,CUST-1634,Cold Outreach,Online,REP-104,2024-10-18,Converted,1
+LEAD-6861,,LinkedIn,Direct Sales,REP-106,2024-09-30,Converted,1
+LEAD-6862,CUST-1393,Partner Event,Online,REP-104,2024-11-20,Converted,1
+LEAD-6863,CUST-1629,Inbound Demo,Online,REP-102,2024-01-18,Disqualified,0
+LEAD-6864,CUST-1253,Partner Event,Direct Sales,REP-108,2024-10-03,Contacted,0
+LEAD-6865,CUST-1178,Inbound Demo,Online,REP-108,2024-08-14,Disqualified,0
+LEAD-6866,CUST-1316,Website,Direct Sales,REP-101,2024-10-13,Converted,1
+LEAD-6867,CUST-1084,Cold Outreach,Retail,REP-104,2025-01-30,Converted,1
+LEAD-6868,,Cold Outreach,Online,REP-103,2025-03-30,Converted,1
+LEAD-6869,,Website,Partner,REP-109,2025-01-24,Converted,1
+LEAD-6870,CUST-1022,Cold Outreach,Direct Sales,REP-109,2025-05-18,Converted,1
+LEAD-6871,CUST-1382,Partner Event,Partner,REP-108,2025-02-01,Converted,1
+LEAD-6872,,LinkedIn,Online,REP-112,2024-03-20,Converted,1
+LEAD-6873,CUST-1415,Inbound Demo,Online,REP-104,2025-02-17,Converted,1
+LEAD-6874,CUST-1481,Inbound Demo,Online,REP-107,2024-10-24,Disqualified,0
+LEAD-6875,CUST-1023,Webinar,Online,REP-112,2024-09-06,Converted,1
+LEAD-6876,CUST-1447,Referral,Online,REP-107,2024-12-19,Qualified,0
+LEAD-6877,CUST-1235,Website,Partner,REP-107,2025-03-10,Converted,1
+LEAD-6878,CUST-1600,Cold Outreach,Retail,REP-103,2024-09-23,Qualified,0
+LEAD-6879,,Partner Event,Partner,REP-101,2024-07-19,Converted,1
+LEAD-6880,,Website,Partner,REP-112,2024-08-22,Converted,1
+LEAD-6881,CUST-1262,Referral,Online,REP-102,2024-02-21,Converted,1
+LEAD-6882,CUST-1191,Inbound Demo,Online,REP-107,2024-10-27,Converted,1
+LEAD-6883,CUST-1095,Inbound Demo,Online,REP-109,2024-11-15,Qualified,0
+LEAD-6884,CUST-1434,Referral,Online,REP-109,2024-06-29,Contacted,0
+LEAD-6885,CUST-1079,Website,Direct Sales,REP-104,2024-08-29,Converted,1
+LEAD-6886,CUST-1474,Referral,Direct Sales,REP-103,2024-04-13,Converted,1
+LEAD-6887,CUST-1192,Webinar,Direct Sales,REP-103,2025-01-12,Converted,1
+LEAD-6888,,Referral,Direct Sales,REP-103,2024-01-09,Converted,1
+LEAD-6889,,LinkedIn,Retail,REP-109,2024-01-22,Converted,1
+LEAD-6890,CUST-1136,Website,Partner,REP-108,2024-06-20,Converted,1
+LEAD-6891,CUST-1466,LinkedIn,Online,REP-105,2025-01-11,Converted,1
+LEAD-6892,CUST-1621,Webinar,Retail,REP-104,2024-04-22,Qualified,0
+LEAD-6893,CUST-1472,Cold Outreach,Retail,REP-103,2024-03-09,Converted,1
+LEAD-6894,CUST-1414,Webinar,Direct Sales,REP-107,2025-05-16,Contacted,0
+LEAD-6895,CUST-1621,Webinar,Direct Sales,REP-109,2025-04-22,Converted,1
+LEAD-6896,CUST-1418,Partner Event,Direct Sales,REP-105,2025-02-18,Converted,1
+LEAD-6897,CUST-1615,Inbound Demo,Retail,REP-101,2025-05-26,Disqualified,0
+LEAD-6898,,Website,Retail,REP-110,2024-11-01,Converted,1
+LEAD-6899,CUST-1204,Referral,Online,REP-101,2024-11-02,Qualified,0
+LEAD-6900,,Cold Outreach,Direct Sales,REP-111,2024-08-08,Converted,1
+LEAD-6901,CUST-1146,Webinar,Direct Sales,REP-105,2024-05-23,Converted,1
+LEAD-6902,CUST-1478,Cold Outreach,Direct Sales,REP-105,2024-08-20,Qualified,0
+LEAD-6903,CUST-1053,Inbound Demo,Online,REP-108,2025-01-15,Converted,1
+LEAD-6904,CUST-1055,Webinar,Retail,REP-102,2024-05-29,Converted,1
+LEAD-6905,CUST-1302,Webinar,Partner,REP-107,2025-01-30,Converted,1
+LEAD-6906,CUST-1340,Website,Retail,REP-108,2025-05-03,Converted,1
+LEAD-6907,CUST-1576,Website,Retail,REP-102,2024-06-18,Converted,1
+LEAD-6908,CUST-1381,LinkedIn,Partner,REP-104,2024-01-26,Converted,1
+LEAD-6909,CUST-1637,Referral,Direct Sales,REP-110,2025-02-17,Converted,1
+LEAD-6910,CUST-1449,Website,Partner,REP-109,2025-01-11,Qualified,0
+LEAD-6911,CUST-1562,Partner Event,Online,REP-109,2025-03-19,Qualified,0
+LEAD-6912,CUST-1451,Inbound Demo,Partner,REP-107,2024-03-09,Qualified,0
+LEAD-6913,,Inbound Demo,Online,REP-103,2024-09-30,Converted,1
+LEAD-6914,CUST-1046,Referral,Partner,REP-107,2025-01-28,Converted,1
+LEAD-6915,CUST-1428,Inbound Demo,Online,REP-107,2024-05-16,Contacted,0
+LEAD-6916,CUST-1216,Cold Outreach,Online,REP-109,2024-06-04,Converted,1
+LEAD-6917,CUST-1495,Inbound Demo,Online,REP-101,2024-03-08,Contacted,0
+LEAD-6918,,Cold Outreach,Online,REP-103,2024-08-12,Converted,1
+LEAD-6919,,Webinar,Partner,REP-108,2024-03-22,Converted,1
+LEAD-6920,,Partner Event,Partner,REP-108,2025-01-16,Converted,1
+LEAD-6921,CUST-1160,Webinar,Direct Sales,REP-111,2024-12-04,Qualified,0
+LEAD-6922,,Partner Event,Online,REP-110,2024-10-12,Converted,1
+LEAD-6923,CUST-1522,Cold Outreach,Online,REP-108,2024-01-23,Converted,1
+LEAD-6924,CUST-1264,Website,Online,REP-110,2025-02-18,Converted,1
+LEAD-6925,,LinkedIn,Online,REP-104,2024-05-31,Converted,1
+LEAD-6926,,Cold Outreach,Retail,REP-103,2024-09-11,Qualified,0
+LEAD-6927,CUST-1581,Cold Outreach,Online,REP-112,2025-01-06,Converted,1
+LEAD-6928,CUST-1068,Inbound Demo,Direct Sales,REP-103,2024-03-24,Qualified,0
+LEAD-6929,,Cold Outreach,Online,REP-107,2024-02-28,Converted,1
+LEAD-6930,,Website,Online,REP-106,2025-04-29,Converted,1
+LEAD-6931,,Cold Outreach,Direct Sales,REP-108,2024-08-29,Converted,1
+LEAD-6932,,Cold Outreach,Partner,REP-107,2024-08-07,Converted,1
+LEAD-6933,CUST-1608,Referral,Online,REP-103,2024-06-17,Converted,1
+LEAD-6934,CUST-1009,Website,Online,REP-102,2024-03-25,Converted,1
+LEAD-6935,,Cold Outreach,Direct Sales,REP-102,2025-03-14,Contacted,0
+LEAD-6936,CUST-1034,Website,Online,REP-101,2024-06-04,Converted,1
+LEAD-6937,,Webinar,Online,REP-111,2025-01-10,Qualified,0
+LEAD-6938,,Website,Retail,REP-103,2024-03-30,Converted,1
+LEAD-6939,,LinkedIn,Partner,REP-102,2024-02-09,Converted,1
+LEAD-6940,,Partner Event,Direct Sales,REP-103,2024-07-15,Contacted,0
+LEAD-6941,CUST-1631,Website,Direct Sales,REP-105,2025-05-17,Contacted,0
+LEAD-6942,CUST-1067,Partner Event,Direct Sales,REP-110,2024-03-14,Converted,1
+LEAD-6943,,Inbound Demo,Direct Sales,REP-111,2024-09-23,Converted,1
+LEAD-6944,,LinkedIn,Partner,REP-104,2025-05-23,Converted,1
+LEAD-6945,,Webinar,Partner,REP-103,2024-12-12,Contacted,0
+LEAD-6946,CUST-1411,LinkedIn,Online,REP-105,2025-01-02,Converted,1
+LEAD-6947,,Partner Event,Direct Sales,REP-105,2024-08-28,Converted,1
+LEAD-6948,CUST-1082,Inbound Demo,Direct Sales,REP-112,2025-04-17,Converted,1
+LEAD-6949,,Inbound Demo,Retail,REP-102,2024-04-30,Converted,1
+LEAD-6950,,Referral,Partner,REP-106,2024-03-16,Converted,1
+LEAD-6951,CUST-1566,Cold Outreach,Direct Sales,REP-107,2025-05-08,Qualified,0
+LEAD-6952,,Webinar,Online,REP-104,2024-11-05,Qualified,0
+LEAD-6953,CUST-1068,Inbound Demo,Partner,REP-107,2025-01-07,Converted,1
+LEAD-6954,,Cold Outreach,Online,REP-103,2024-09-15,Converted,1
+LEAD-6955,,Partner Event,Direct Sales,REP-112,2025-02-11,Converted,1
+LEAD-6956,CUST-1323,Webinar,Online,REP-112,2024-11-30,Disqualified,0
+LEAD-6957,,Website,Partner,REP-103,2024-07-07,Converted,1
+LEAD-6958,CUST-1144,Referral,Online,REP-103,2025-05-13,Converted,1
+LEAD-6959,,Referral,Direct Sales,REP-104,2025-05-22,Converted,1
+LEAD-6960,,Webinar,Retail,REP-106,2024-01-10,Contacted,0
+LEAD-6961,CUST-1514,Referral,Online,REP-101,2025-01-16,Converted,1
+LEAD-6962,,Referral,Direct Sales,REP-111,2024-05-31,Qualified,0
+LEAD-6963,,LinkedIn,Direct Sales,REP-107,2024-10-07,Disqualified,0
+LEAD-6964,,Cold Outreach,Online,REP-112,2024-07-20,Converted,1
+LEAD-6965,CUST-1341,LinkedIn,Partner,REP-108,2024-10-24,Converted,1
+LEAD-6966,,Cold Outreach,Online,REP-107,2024-03-05,Disqualified,0
+LEAD-6967,CUST-1272,Referral,Direct Sales,REP-110,2024-08-24,Converted,1
+LEAD-6968,,Partner Event,Direct Sales,REP-104,2024-02-09,Converted,1
+LEAD-6969,CUST-1042,Referral,Partner,REP-101,2025-02-08,Converted,1
+LEAD-6970,CUST-1049,Inbound Demo,Partner,REP-107,2025-04-05,Disqualified,0
+LEAD-6971,,LinkedIn,Online,REP-109,2024-10-07,Converted,1
+LEAD-6972,,Partner Event,Online,REP-110,2024-11-09,Converted,1
+LEAD-6973,CUST-1119,LinkedIn,Partner,REP-111,2024-08-06,Contacted,0
+LEAD-6974,CUST-1559,LinkedIn,Direct Sales,REP-112,2025-02-02,Qualified,0
+LEAD-6975,CUST-1252,Webinar,Retail,REP-107,2024-01-15,Disqualified,0
+LEAD-6976,,Website,Retail,REP-103,2024-01-22,Qualified,0
+LEAD-6977,,Webinar,Retail,REP-105,2024-06-22,Converted,1
+LEAD-6978,CUST-1100,Inbound Demo,Direct Sales,REP-112,2025-03-12,Qualified,0
+LEAD-6979,,Referral,Direct Sales,REP-109,2024-10-22,Qualified,0
+LEAD-6980,,Inbound Demo,Partner,REP-102,2024-03-19,Converted,1
+LEAD-6981,,Website,Direct Sales,REP-105,2024-09-02,Converted,1
+LEAD-6982,CUST-1548,Referral,Online,REP-102,2025-04-07,Converted,1
+LEAD-6983,CUST-1086,Cold Outreach,Retail,REP-111,2024-05-05,Converted,1
+LEAD-6984,CUST-1194,Referral,Retail,REP-103,2024-04-04,Converted,1
+LEAD-6985,,Webinar,Direct Sales,REP-101,2024-09-13,Qualified,0
+LEAD-6986,CUST-1165,Website,Online,REP-103,2024-03-29,Converted,1
+LEAD-6987,CUST-1349,Cold Outreach,Direct Sales,REP-111,2024-07-17,Contacted,0
+LEAD-6988,,Website,Partner,REP-109,2025-03-18,Converted,1
+LEAD-6989,CUST-1601,Inbound Demo,Retail,REP-110,2024-06-20,Qualified,0
+LEAD-6990,,Webinar,Online,REP-104,2024-03-09,Disqualified,0
+LEAD-6991,CUST-1378,LinkedIn,Online,REP-108,2025-05-21,Converted,1
+LEAD-6992,CUST-1585,Website,Retail,REP-108,2024-02-12,Converted,1
+LEAD-6993,CUST-1008,Webinar,Direct Sales,REP-106,2025-01-16,Disqualified,0
+LEAD-6994,,Website,Direct Sales,REP-103,2025-04-19,Converted,1
+LEAD-6995,CUST-1567,LinkedIn,Retail,REP-103,2024-04-29,Disqualified,0
+LEAD-6996,,Website,Online,REP-110,2024-12-14,Contacted,0
+LEAD-6997,CUST-1436,Inbound Demo,Partner,REP-105,2024-11-20,Converted,1
+LEAD-6998,,Website,Online,REP-105,2024-04-19,Disqualified,0
+LEAD-6999,,Partner Event,Direct Sales,REP-107,2024-09-21,Converted,1
+LEAD-7000,CUST-1511,Website,Partner,REP-109,2025-02-25,Converted,1
+LEAD-7001,CUST-1292,Cold Outreach,Direct Sales,REP-101,2024-11-03,Converted,1
+LEAD-7002,,Partner Event,Retail,REP-103,2024-04-05,Converted,1
+LEAD-7003,CUST-1271,Referral,Direct Sales,REP-102,2024-04-12,Qualified,0
+LEAD-7004,CUST-1597,Website,Direct Sales,REP-103,2024-11-21,Contacted,0
+LEAD-7005,CUST-1564,Website,Online,REP-105,2024-08-25,Qualified,0
+LEAD-7006,CUST-1592,Partner Event,Direct Sales,REP-112,2024-03-22,Contacted,0
+LEAD-7007,CUST-1414,LinkedIn,Direct Sales,REP-111,2024-10-31,Qualified,0
+LEAD-7008,CUST-1342,Referral,Online,REP-107,2024-02-11,Converted,1
+LEAD-7009,CUST-1603,Inbound Demo,Direct Sales,REP-102,2024-02-23,Converted,1
+LEAD-7010,,Website,Direct Sales,REP-108,2025-05-03,Converted,1
+LEAD-7011,CUST-1575,Referral,Partner,REP-103,2024-04-19,Contacted,0
+LEAD-7012,CUST-1583,Website,Partner,REP-106,2024-09-10,Qualified,0
+LEAD-7013,CUST-1130,Webinar,Partner,REP-101,2024-04-16,Converted,1
+LEAD-7014,,Cold Outreach,Online,REP-101,2024-09-01,Contacted,0
+LEAD-7015,CUST-1441,Cold Outreach,Online,REP-109,2024-07-11,Converted,1
+LEAD-7016,CUST-1140,Inbound Demo,Partner,REP-109,2025-02-01,Converted,1
+LEAD-7017,CUST-1632,LinkedIn,Direct Sales,REP-105,2025-02-25,Contacted,0
+LEAD-7018,CUST-1620,Webinar,Online,REP-107,2024-05-07,Converted,1
+LEAD-7019,CUST-1260,Cold Outreach,Partner,REP-110,2024-04-27,Qualified,0
+LEAD-7020,CUST-1255,Partner Event,Partner,REP-111,2024-07-07,Converted,1
+LEAD-7021,,Inbound Demo,Direct Sales,REP-104,2024-02-11,Qualified,0
+LEAD-7022,CUST-1116,Inbound Demo,Online,REP-104,2025-02-08,Converted,1
+LEAD-7023,,Webinar,Partner,REP-102,2024-08-03,Converted,1
+LEAD-7024,CUST-1151,Referral,Direct Sales,REP-104,2024-04-19,Qualified,0
+LEAD-7025,CUST-1421,Partner Event,Partner,REP-106,2024-05-06,Converted,1
+LEAD-7026,CUST-1150,Cold Outreach,Partner,REP-111,2024-10-08,Converted,1
+LEAD-7027,,Inbound Demo,Partner,REP-111,2024-12-27,Qualified,0
+LEAD-7028,CUST-1259,Cold Outreach,Direct Sales,REP-105,2025-05-16,Converted,1
+LEAD-7029,,Inbound Demo,Online,REP-101,2025-04-19,Contacted,0
+LEAD-7030,CUST-1114,LinkedIn,Partner,REP-105,2025-04-14,Contacted,0
+LEAD-7031,CUST-1015,Referral,Partner,REP-105,2024-05-24,Converted,1
+LEAD-7032,CUST-1230,LinkedIn,Partner,REP-108,2024-03-07,Converted,1
+LEAD-7033,,Partner Event,Online,REP-108,2024-10-09,Converted,1
+LEAD-7034,,Inbound Demo,Online,REP-108,2025-05-06,Converted,1
+LEAD-7035,CUST-1565,Webinar,Retail,REP-108,2024-08-28,Converted,1
+LEAD-7036,,Website,Partner,REP-105,2024-05-28,Converted,1
+LEAD-7037,CUST-1318,Referral,Retail,REP-111,2024-04-11,Qualified,0
+LEAD-7038,,Website,Partner,REP-110,2024-01-21,Converted,1
+LEAD-7039,,Referral,Partner,REP-104,2024-10-16,Qualified,0
+LEAD-7040,,Webinar,Partner,REP-108,2024-07-06,Converted,1
+LEAD-7041,,Referral,Retail,REP-112,2024-01-21,Converted,1
+LEAD-7042,CUST-1112,Website,Direct Sales,REP-108,2024-12-15,Qualified,0
+LEAD-7043,,Referral,Partner,REP-112,2025-03-11,Converted,1
+LEAD-7044,CUST-1366,Webinar,Online,REP-110,2025-02-15,Converted,1
+LEAD-7045,,LinkedIn,Direct Sales,REP-104,2025-04-28,Converted,1
+LEAD-7046,,Referral,Partner,REP-108,2024-12-10,Converted,1
+LEAD-7047,,Inbound Demo,Online,REP-107,2025-05-19,Converted,1
+LEAD-7048,,Website,Online,REP-110,2024-03-19,Converted,1
+LEAD-7049,CUST-1075,Inbound Demo,Direct Sales,REP-108,2024-02-14,Converted,1
+LEAD-7050,CUST-1220,Webinar,Online,REP-103,2025-03-27,Converted,1
+LEAD-7051,CUST-1602,Website,Online,REP-105,2024-04-09,Converted,1
+LEAD-7052,,Webinar,Direct Sales,REP-110,2024-10-14,Contacted,0
+LEAD-7053,CUST-1096,Referral,Retail,REP-104,2024-04-05,Contacted,0
+LEAD-7054,,Website,Direct Sales,REP-108,2024-09-03,Converted,1
+LEAD-7055,,Partner Event,Online,REP-108,2024-01-07,Converted,1
+LEAD-7056,CUST-1597,Referral,Online,REP-102,2025-02-25,Converted,1
+LEAD-7057,,Website,Partner,REP-107,2024-10-11,Disqualified,0
+LEAD-7058,CUST-1100,LinkedIn,Direct Sales,REP-112,2025-04-08,Disqualified,0
+LEAD-7059,CUST-1161,Webinar,Retail,REP-105,2024-01-22,Converted,1
+LEAD-7060,CUST-1215,Webinar,Partner,REP-103,2024-02-16,Converted,1
+LEAD-7061,,Cold Outreach,Partner,REP-101,2024-10-29,Converted,1
+LEAD-7062,,Website,Online,REP-102,2024-05-17,Qualified,0
+LEAD-7063,,Webinar,Partner,REP-105,2025-01-10,Converted,1
+LEAD-7064,CUST-1008,Partner Event,Online,REP-103,2024-03-05,Converted,1
+LEAD-7065,,LinkedIn,Retail,REP-103,2024-02-05,Contacted,0
+LEAD-7066,CUST-1158,Website,Partner,REP-103,2024-04-21,Converted,1
+LEAD-7067,,Inbound Demo,Direct Sales,REP-112,2025-03-21,Converted,1
+LEAD-7068,,Cold Outreach,Online,REP-103,2024-12-03,Converted,1
+LEAD-7069,CUST-1456,Cold Outreach,Online,REP-107,2024-08-08,Converted,1
+LEAD-7070,,LinkedIn,Partner,REP-104,2024-09-23,Contacted,0
+LEAD-7071,CUST-1549,Inbound Demo,Online,REP-107,2024-01-21,Converted,1
+LEAD-7072,CUST-1130,Partner Event,Partner,REP-110,2024-04-03,Disqualified,0
+LEAD-7073,CUST-1116,Webinar,Online,REP-112,2024-08-23,Converted,1
+LEAD-7074,,Webinar,Partner,REP-110,2025-02-08,Contacted,0
+LEAD-7075,CUST-1238,LinkedIn,Partner,REP-103,2024-02-24,Contacted,0
+LEAD-7076,,Website,Partner,REP-109,2024-09-03,Converted,1
+LEAD-7077,CUST-1348,Inbound Demo,Partner,REP-109,2024-03-16,Converted,1
+LEAD-7078,CUST-1140,Referral,Online,REP-105,2024-04-05,Contacted,0
+LEAD-7079,,Cold Outreach,Online,REP-108,2024-02-15,Converted,1
+LEAD-7080,CUST-1152,Webinar,Partner,REP-111,2024-08-13,Qualified,0
+LEAD-7081,CUST-1083,Cold Outreach,Direct Sales,REP-112,2024-03-14,Qualified,0
+LEAD-7082,,Cold Outreach,Direct Sales,REP-103,2024-11-25,Disqualified,0
+LEAD-7083,,Website,Online,REP-101,2024-12-11,Contacted,0
+LEAD-7084,CUST-1331,Partner Event,Online,REP-112,2024-01-25,Converted,1
+LEAD-7085,CUST-1101,Website,Online,REP-112,2024-03-24,Converted,1
+LEAD-7086,,Website,Retail,REP-111,2025-01-15,Converted,1
+LEAD-7087,CUST-1118,Referral,Online,REP-106,2024-06-02,Contacted,0
+LEAD-7088,,Webinar,Direct Sales,REP-105,2025-05-31,Converted,1
+LEAD-7089,CUST-1591,LinkedIn,Online,REP-103,2024-03-28,Converted,1
+LEAD-7090,,Cold Outreach,Partner,REP-109,2024-10-21,Converted,1
+LEAD-7091,CUST-1044,Partner Event,Direct Sales,REP-105,2024-06-28,Converted,1
+LEAD-7092,CUST-1027,Website,Retail,REP-109,2025-04-25,Converted,1
+LEAD-7093,CUST-1252,Website,Retail,REP-111,2024-02-20,Converted,1
+LEAD-7094,,Website,Direct Sales,REP-106,2024-12-15,Converted,1
+LEAD-7095,CUST-1242,Cold Outreach,Retail,REP-107,2024-06-02,Converted,1
+LEAD-7096,,LinkedIn,Retail,REP-104,2024-10-02,Converted,1
+LEAD-7097,,Referral,Retail,REP-105,2024-02-20,Contacted,0
+LEAD-7098,CUST-1041,Webinar,Retail,REP-101,2025-01-19,Qualified,0
+LEAD-7099,CUST-1617,Cold Outreach,Online,REP-104,2024-02-24,Contacted,0
+LEAD-7100,,LinkedIn,Direct Sales,REP-106,2025-04-16,Converted,1
+LEAD-7101,CUST-1049,Inbound Demo,Online,REP-102,2024-07-08,Disqualified,0
+LEAD-7102,CUST-1570,Referral,Online,REP-109,2025-02-05,Disqualified,0
+LEAD-7103,,Referral,Retail,REP-111,2024-01-06,Disqualified,0
+LEAD-7104,CUST-1255,LinkedIn,Direct Sales,REP-108,2024-06-30,Converted,1
+LEAD-7105,CUST-1066,Webinar,Partner,REP-104,2025-01-22,Converted,1
+LEAD-7106,CUST-1410,Inbound Demo,Partner,REP-111,2024-09-05,Converted,1
+LEAD-7107,CUST-1315,Webinar,Retail,REP-103,2024-10-29,Converted,1
+LEAD-7108,,Website,Retail,REP-104,2024-06-11,Qualified,0
+LEAD-7109,,Referral,Online,REP-112,2024-05-13,Converted,1
+LEAD-7110,,Website,Online,REP-105,2024-08-07,Converted,1
+LEAD-7111,,Partner Event,Direct Sales,REP-101,2025-04-18,Converted,1
+LEAD-7112,,Inbound Demo,Online,REP-106,2025-02-03,Converted,1
+LEAD-7113,CUST-1235,Partner Event,Online,REP-101,2024-10-24,Qualified,0
+LEAD-7114,,Referral,Direct Sales,REP-109,2025-01-12,Converted,1
+LEAD-7115,CUST-1316,Webinar,Partner,REP-102,2024-01-24,Converted,1
+LEAD-7116,CUST-1544,Partner Event,Direct Sales,REP-105,2024-10-13,Converted,1
+LEAD-7117,,Partner Event,Direct Sales,REP-104,2024-01-24,Converted,1
+LEAD-7118,,LinkedIn,Partner,REP-103,2025-05-27,Converted,1
+LEAD-7119,,Cold Outreach,Online,REP-110,2024-05-17,Converted,1
+LEAD-7120,,Website,Online,REP-105,2024-12-14,Converted,1
+LEAD-7121,,Inbound Demo,Partner,REP-104,2024-10-25,Converted,1
+LEAD-7122,CUST-1323,Inbound Demo,Partner,REP-109,2024-12-29,Contacted,0
+LEAD-7123,CUST-1145,Cold Outreach,Partner,REP-112,2024-05-05,Contacted,0
+LEAD-7124,CUST-1539,Website,Online,REP-112,2024-04-02,Converted,1
+LEAD-7125,CUST-1204,LinkedIn,Retail,REP-101,2024-05-06,Converted,1
+LEAD-7126,CUST-1222,Webinar,Partner,REP-111,2024-04-03,Converted,1
+LEAD-7127,,Inbound Demo,Direct Sales,REP-101,2024-11-26,Contacted,0
+LEAD-7128,,Website,Partner,REP-110,2024-03-19,Converted,1
+LEAD-7129,CUST-1513,Cold Outreach,Retail,REP-102,2024-12-01,Contacted,0
+LEAD-7130,CUST-1028,Website,Direct Sales,REP-103,2024-01-09,Disqualified,0
+LEAD-7131,CUST-1425,LinkedIn,Direct Sales,REP-102,2024-01-31,Converted,1
+LEAD-7132,CUST-1014,Partner Event,Retail,REP-110,2024-05-10,Converted,1
+LEAD-7133,CUST-1510,Referral,Partner,REP-108,2025-01-21,Converted,1
+LEAD-7134,CUST-1426,Partner Event,Direct Sales,REP-110,2024-10-17,Disqualified,0
+LEAD-7135,CUST-1355,Cold Outreach,Partner,REP-106,2024-08-06,Converted,1
+LEAD-7136,CUST-1127,Website,Direct Sales,REP-105,2024-02-29,Contacted,0
+LEAD-7137,CUST-1237,Website,Online,REP-109,2024-10-20,Converted,1
+LEAD-7138,CUST-1418,Referral,Partner,REP-101,2025-05-03,Converted,1
+LEAD-7139,CUST-1152,Inbound Demo,Retail,REP-110,2024-06-10,Converted,1
+LEAD-7140,CUST-1079,Referral,Retail,REP-106,2025-04-07,Converted,1
+LEAD-7141,,Webinar,Direct Sales,REP-112,2024-02-07,Converted,1
+LEAD-7142,,Webinar,Direct Sales,REP-101,2025-02-21,Qualified,0
+LEAD-7143,,Inbound Demo,Online,REP-108,2024-12-11,Converted,1
+LEAD-7144,CUST-1132,LinkedIn,Retail,REP-112,2024-02-17,Converted,1
+LEAD-7145,,Website,Retail,REP-104,2024-01-19,Converted,1
+LEAD-7146,CUST-1623,Referral,Partner,REP-107,2024-07-27,Converted,1
+LEAD-7147,,Cold Outreach,Partner,REP-103,2024-01-28,Converted,1
+LEAD-7148,,Website,Partner,REP-103,2024-08-05,Converted,1
+LEAD-7149,,Referral,Partner,REP-101,2024-12-14,Converted,1
+LEAD-7150,CUST-1642,Cold Outreach,Online,REP-110,2024-07-06,Contacted,0
+LEAD-7151,CUST-1147,Partner Event,Direct Sales,REP-109,2025-03-10,Qualified,0
+LEAD-7152,,Referral,Partner,REP-112,2024-09-27,Converted,1
+LEAD-7153,,LinkedIn,Partner,REP-101,2024-11-07,Disqualified,0
+LEAD-7154,CUST-1564,Referral,Direct Sales,REP-105,2024-07-17,Qualified,0
+LEAD-7155,CUST-1384,Cold Outreach,Retail,REP-101,2024-05-19,Converted,1
+LEAD-7156,,Website,Online,REP-102,2024-05-07,Converted,1
+LEAD-7157,CUST-1579,LinkedIn,Direct Sales,REP-101,2024-01-19,Converted,1
+LEAD-7158,CUST-1187,Partner Event,Partner,REP-105,2024-03-07,Disqualified,0
+LEAD-7159,,Referral,Partner,REP-110,2025-04-08,Converted,1
+LEAD-7160,CUST-1385,Partner Event,Partner,REP-110,2025-03-06,Contacted,0
+LEAD-7161,CUST-1615,Partner Event,Online,REP-109,2024-10-30,Qualified,0
+LEAD-7162,CUST-1549,Website,Online,REP-109,2025-04-12,Contacted,0
+LEAD-7163,CUST-1339,Webinar,Partner,REP-110,2025-01-28,Converted,1
+LEAD-7164,,Website,Partner,REP-109,2024-10-28,Converted,1
+LEAD-7165,CUST-1229,Inbound Demo,Online,REP-104,2024-07-18,Converted,1
+LEAD-7166,CUST-1574,Partner Event,Partner,REP-107,2024-05-24,Disqualified,0
+LEAD-7167,,Cold Outreach,Direct Sales,REP-110,2024-02-26,Disqualified,0
+LEAD-7168,CUST-1469,Inbound Demo,Partner,REP-107,2025-04-29,Qualified,0
+LEAD-7169,CUST-1222,Webinar,Retail,REP-108,2024-02-01,Converted,1
+LEAD-7170,CUST-1617,LinkedIn,Online,REP-110,2024-08-21,Disqualified,0
+LEAD-7171,,LinkedIn,Online,REP-103,2024-09-06,Converted,1
+LEAD-7172,,Partner Event,Partner,REP-105,2024-01-18,Contacted,0
+LEAD-7173,,Webinar,Partner,REP-102,2025-02-21,Disqualified,0
+LEAD-7174,CUST-1151,Referral,Partner,REP-101,2025-03-20,Converted,1
+LEAD-7175,CUST-1273,LinkedIn,Retail,REP-111,2025-01-02,Converted,1
+LEAD-7176,CUST-1646,LinkedIn,Partner,REP-107,2025-01-26,Converted,1
+LEAD-7177,CUST-1437,Website,Retail,REP-109,2024-08-09,Converted,1
+LEAD-7178,,Partner Event,Direct Sales,REP-104,2024-05-29,Converted,1
+LEAD-7179,CUST-1197,Partner Event,Direct Sales,REP-102,2024-12-10,Qualified,0
+LEAD-7180,CUST-1319,LinkedIn,Direct Sales,REP-103,2025-02-12,Contacted,0
+LEAD-7181,,Webinar,Online,REP-101,2024-10-05,Contacted,0
+LEAD-7182,CUST-1527,Cold Outreach,Direct Sales,REP-104,2024-06-17,Converted,1
+LEAD-7183,,Cold Outreach,Online,REP-102,2025-02-04,Converted,1
+LEAD-7184,CUST-1198,LinkedIn,Retail,REP-104,2025-01-31,Contacted,0
+LEAD-7185,CUST-1068,Partner Event,Direct Sales,REP-101,2024-12-08,Converted,1
+LEAD-7186,CUST-1301,LinkedIn,Partner,REP-111,2024-02-27,Qualified,0
+LEAD-7187,CUST-1465,Partner Event,Direct Sales,REP-112,2024-03-15,Converted,1
+LEAD-7188,CUST-1597,Partner Event,Online,REP-111,2024-06-30,Disqualified,0
+LEAD-7189,CUST-1378,Webinar,Online,REP-103,2025-02-25,Converted,1
+LEAD-7190,,Referral,Direct Sales,REP-101,2024-10-13,Converted,1
+LEAD-7191,CUST-1460,Cold Outreach,Online,REP-103,2024-10-15,Contacted,0
+LEAD-7192,,Partner Event,Partner,REP-107,2025-02-16,Converted,1
+LEAD-7193,,Website,Retail,REP-109,2024-12-18,Qualified,0
+LEAD-7194,,Webinar,Retail,REP-111,2025-05-18,Disqualified,0
+LEAD-7195,,Inbound Demo,Partner,REP-110,2024-02-18,Converted,1
+LEAD-7196,,Website,Online,REP-107,2024-09-26,Qualified,0
+LEAD-7197,CUST-1465,Website,Retail,REP-104,2024-09-26,Converted,1
+LEAD-7198,,Referral,Retail,REP-106,2024-05-15,Converted,1
+LEAD-7199,CUST-1082,Cold Outreach,Online,REP-102,2024-12-19,Converted,1
+LEAD-7200,,Partner Event,Partner,REP-103,2024-07-28,Converted,1
+LEAD-7201,CUST-1433,Website,Online,REP-107,2024-06-16,Converted,1
+LEAD-7202,CUST-1588,Inbound Demo,Partner,REP-108,2024-11-21,Disqualified,0
+LEAD-7203,CUST-1077,Website,Retail,REP-104,2025-01-20,Contacted,0
+LEAD-7204,CUST-1173,Referral,Online,REP-105,2024-10-30,Contacted,0
+LEAD-7205,,Website,Retail,REP-103,2024-11-26,Converted,1
+LEAD-7206,CUST-1292,Partner Event,Partner,REP-102,2024-02-14,Disqualified,0
+LEAD-7207,,Cold Outreach,Retail,REP-104,2024-08-30,Contacted,0
+LEAD-7208,CUST-1146,Cold Outreach,Direct Sales,REP-109,2025-02-11,Disqualified,0
+LEAD-7209,CUST-1192,Webinar,Retail,REP-109,2025-05-26,Converted,1
+LEAD-7210,,Webinar,Online,REP-102,2024-06-14,Contacted,0
+LEAD-7211,CUST-1532,Website,Direct Sales,REP-111,2024-07-05,Disqualified,0
+LEAD-7212,CUST-1504,Inbound Demo,Online,REP-110,2025-03-05,Contacted,0
+LEAD-7213,,Inbound Demo,Retail,REP-107,2025-03-24,Converted,1
+LEAD-7214,CUST-1327,Website,Partner,REP-109,2024-09-05,Converted,1
+LEAD-7215,,Inbound Demo,Retail,REP-110,2024-12-12,Disqualified,0
+LEAD-7216,CUST-1439,Cold Outreach,Retail,REP-112,2024-01-24,Converted,1
+LEAD-7217,,Cold Outreach,Online,REP-108,2024-05-01,Converted,1
+LEAD-7218,CUST-1151,Inbound Demo,Direct Sales,REP-107,2025-05-23,Contacted,0
+LEAD-7219,CUST-1148,Referral,Online,REP-101,2024-01-16,Converted,1
+LEAD-7220,CUST-1336,Inbound Demo,Online,REP-104,2024-06-24,Qualified,0
+LEAD-7221,,Cold Outreach,Online,REP-111,2024-03-29,Converted,1
+LEAD-7222,,LinkedIn,Direct Sales,REP-108,2024-12-09,Qualified,0
+LEAD-7223,,LinkedIn,Online,REP-103,2025-02-18,Converted,1
+LEAD-7224,CUST-1582,Website,Online,REP-110,2024-06-27,Converted,1
+LEAD-7225,,Partner Event,Online,REP-110,2025-04-12,Converted,1
+LEAD-7226,CUST-1555,Inbound Demo,Online,REP-107,2024-10-01,Converted,1
+LEAD-7227,,Inbound Demo,Retail,REP-103,2024-01-17,Converted,1
+LEAD-7228,,Partner Event,Partner,REP-101,2024-12-04,Qualified,0
+LEAD-7229,CUST-1613,Webinar,Retail,REP-109,2024-08-23,Qualified,0
+LEAD-7230,CUST-1306,LinkedIn,Direct Sales,REP-105,2024-09-13,Contacted,0
+LEAD-7231,CUST-1567,Partner Event,Online,REP-112,2024-12-11,Qualified,0
+LEAD-7232,CUST-1559,Referral,Partner,REP-106,2024-03-27,Converted,1
+LEAD-7233,CUST-1366,Webinar,Direct Sales,REP-111,2024-02-06,Disqualified,0
+LEAD-7234,CUST-1490,LinkedIn,Online,REP-107,2024-08-28,Converted,1
+LEAD-7235,CUST-1390,Website,Online,REP-110,2024-07-10,Contacted,0
+LEAD-7236,,Webinar,Online,REP-111,2024-03-06,Converted,1
+LEAD-7237,CUST-1639,Cold Outreach,Online,REP-109,2025-05-19,Converted,1
+LEAD-7238,,LinkedIn,Direct Sales,REP-108,2025-03-22,Converted,1
+LEAD-7239,CUST-1506,Referral,Partner,REP-109,2024-05-12,Disqualified,0
+LEAD-7240,CUST-1537,Partner Event,Online,REP-111,2024-02-09,Converted,1
+LEAD-7241,,Webinar,Online,REP-111,2024-07-09,Converted,1
+LEAD-7242,,Website,Partner,REP-111,2024-10-02,Converted,1
+LEAD-7243,CUST-1468,Cold Outreach,Online,REP-112,2025-02-03,Converted,1
+LEAD-7244,CUST-1555,Webinar,Direct Sales,REP-102,2024-02-01,Converted,1
+LEAD-7245,CUST-1187,Partner Event,Retail,REP-106,2024-12-16,Disqualified,0
+LEAD-7246,CUST-1144,Cold Outreach,Online,REP-110,2025-02-06,Converted,1
+LEAD-7247,CUST-1137,Inbound Demo,Online,REP-111,2024-10-28,Qualified,0
+LEAD-7248,,Partner Event,Direct Sales,REP-107,2024-10-02,Converted,1
+LEAD-7249,,LinkedIn,Online,REP-110,2024-07-18,Converted,1
+LEAD-7250,,Referral,Direct Sales,REP-102,2024-06-17,Disqualified,0
+LEAD-7251,,LinkedIn,Partner,REP-106,2024-07-10,Disqualified,0
+LEAD-7252,CUST-1590,Referral,Online,REP-107,2024-07-01,Converted,1
+LEAD-7253,CUST-1543,Partner Event,Direct Sales,REP-112,2024-08-14,Converted,1
+LEAD-7254,,Website,Direct Sales,REP-104,2025-01-13,Disqualified,0
+LEAD-7255,CUST-1375,LinkedIn,Online,REP-112,2024-04-18,Converted,1
+LEAD-7256,,LinkedIn,Partner,REP-105,2025-05-16,Disqualified,0
+LEAD-7257,CUST-1500,Website,Online,REP-110,2024-11-28,Qualified,0
+LEAD-7258,CUST-1199,Partner Event,Direct Sales,REP-105,2024-10-21,Converted,1
+LEAD-7259,,Webinar,Online,REP-109,2024-05-02,Converted,1
+LEAD-7260,CUST-1049,Cold Outreach,Direct Sales,REP-110,2024-04-25,Converted,1
+LEAD-7261,CUST-1039,LinkedIn,Online,REP-104,2024-12-07,Converted,1
+LEAD-7262,CUST-1334,Inbound Demo,Retail,REP-107,2025-01-07,Converted,1
+LEAD-7263,CUST-1222,Referral,Online,REP-106,2024-04-20,Qualified,0
+LEAD-7264,,LinkedIn,Direct Sales,REP-104,2025-01-09,Converted,1
+LEAD-7265,CUST-1325,Inbound Demo,Direct Sales,REP-107,2024-04-09,Converted,1
+LEAD-7266,,Partner Event,Partner,REP-103,2024-09-29,Qualified,0
+LEAD-7267,CUST-1363,Referral,Direct Sales,REP-102,2024-04-21,Converted,1
+LEAD-7268,,LinkedIn,Partner,REP-109,2025-01-27,Converted,1
+LEAD-7269,CUST-1135,LinkedIn,Partner,REP-101,2025-04-29,Qualified,0
+LEAD-7270,CUST-1527,Referral,Retail,REP-106,2024-01-07,Converted,1
+LEAD-7271,,Cold Outreach,Direct Sales,REP-103,2024-12-22,Disqualified,0
+LEAD-7272,,Cold Outreach,Direct Sales,REP-101,2025-03-14,Contacted,0
+LEAD-7273,CUST-1287,Partner Event,Retail,REP-108,2025-03-01,Converted,1
+LEAD-7274,,Inbound Demo,Retail,REP-108,2024-06-20,Converted,1
+LEAD-7275,CUST-1603,LinkedIn,Retail,REP-111,2024-10-13,Converted,1
+LEAD-7276,,Partner Event,Direct Sales,REP-106,2025-01-07,Contacted,0
+LEAD-7277,CUST-1630,Inbound Demo,Online,REP-109,2024-10-21,Disqualified,0
+LEAD-7278,CUST-1341,Partner Event,Direct Sales,REP-112,2024-03-25,Converted,1
+LEAD-7279,CUST-1315,Website,Partner,REP-101,2024-01-07,Converted,1
+LEAD-7280,,LinkedIn,Direct Sales,REP-111,2024-08-23,Converted,1
+LEAD-7281,,Inbound Demo,Direct Sales,REP-111,2024-08-30,Contacted,0
+LEAD-7282,,Partner Event,Retail,REP-106,2024-04-28,Converted,1
+LEAD-7283,CUST-1535,Referral,Direct Sales,REP-106,2024-01-06,Converted,1
+LEAD-7284,CUST-1103,LinkedIn,Retail,REP-112,2025-03-11,Converted,1
+LEAD-7285,CUST-1393,Partner Event,Direct Sales,REP-109,2024-10-18,Converted,1
+LEAD-7286,,Inbound Demo,Direct Sales,REP-108,2025-05-17,Qualified,0
+LEAD-7287,,Cold Outreach,Direct Sales,REP-108,2024-08-15,Contacted,0
+LEAD-7288,CUST-1007,Webinar,Partner,REP-107,2024-10-26,Converted,1
+LEAD-7289,CUST-1072,Referral,Online,REP-105,2024-06-20,Converted,1
+LEAD-7290,,Webinar,Online,REP-109,2024-06-26,Converted,1
+LEAD-7291,CUST-1622,Inbound Demo,Retail,REP-102,2024-05-16,Converted,1
+LEAD-7292,CUST-1061,Webinar,Online,REP-105,2024-01-08,Converted,1
+LEAD-7293,CUST-1269,Website,Direct Sales,REP-109,2024-01-09,Converted,1
+LEAD-7294,CUST-1025,Webinar,Direct Sales,REP-109,2024-07-27,Converted,1
+LEAD-7295,,Cold Outreach,Direct Sales,REP-109,2025-04-27,Qualified,0
+LEAD-7296,,Partner Event,Partner,REP-103,2024-06-30,Converted,1
+LEAD-7297,,Referral,Online,REP-112,2024-11-24,Converted,1
+LEAD-7298,CUST-1585,Cold Outreach,Direct Sales,REP-103,2024-09-29,Disqualified,0
+LEAD-7299,CUST-1465,Inbound Demo,Direct Sales,REP-110,2024-11-29,Converted,1
+LEAD-7300,CUST-1563,Webinar,Partner,REP-102,2024-09-03,Contacted,0
+LEAD-7301,CUST-1065,Website,Online,REP-111,2025-03-26,Converted,1
+LEAD-7302,,Inbound Demo,Direct Sales,REP-108,2024-08-08,Qualified,0
+LEAD-7303,CUST-1177,Partner Event,Online,REP-101,2024-07-09,Converted,1
+LEAD-7304,,Webinar,Online,REP-107,2024-08-07,Disqualified,0
+LEAD-7305,,Partner Event,Online,REP-106,2025-03-13,Converted,1
+LEAD-7306,CUST-1243,Inbound Demo,Online,REP-109,2024-11-06,Contacted,0
+LEAD-7307,,Webinar,Retail,REP-106,2024-11-28,Converted,1
+LEAD-7308,,Referral,Online,REP-109,2024-07-27,Converted,1
+LEAD-7309,CUST-1505,Cold Outreach,Retail,REP-112,2024-05-05,Converted,1
+LEAD-7310,,Referral,Retail,REP-104,2025-02-06,Converted,1
+LEAD-7311,CUST-1511,Partner Event,Direct Sales,REP-105,2024-09-24,Converted,1
+LEAD-7312,CUST-1597,Inbound Demo,Online,REP-108,2024-04-29,Converted,1
+LEAD-7313,CUST-1166,LinkedIn,Direct Sales,REP-103,2024-07-10,Converted,1
+LEAD-7314,CUST-1540,Webinar,Partner,REP-110,2024-09-09,Disqualified,0
+LEAD-7315,,Inbound Demo,Direct Sales,REP-108,2024-04-25,Contacted,0
+LEAD-7316,,LinkedIn,Online,REP-109,2024-05-21,Converted,1
+LEAD-7317,,Inbound Demo,Direct Sales,REP-101,2024-05-13,Qualified,0
+LEAD-7318,CUST-1056,Inbound Demo,Retail,REP-106,2024-04-10,Converted,1
+LEAD-7319,CUST-1568,Website,Partner,REP-101,2024-06-26,Converted,1
+LEAD-7320,CUST-1583,LinkedIn,Online,REP-109,2025-04-21,Converted,1
+LEAD-7321,,Webinar,Partner,REP-112,2024-08-03,Contacted,0
+LEAD-7322,CUST-1404,Inbound Demo,Online,REP-104,2024-12-31,Disqualified,0
+LEAD-7323,CUST-1310,Inbound Demo,Online,REP-101,2024-02-11,Converted,1
+LEAD-7324,,Webinar,Retail,REP-102,2025-02-01,Contacted,0
+LEAD-7325,CUST-1167,Website,Online,REP-108,2024-11-24,Disqualified,0
+LEAD-7326,CUST-1172,Website,Online,REP-103,2024-04-05,Qualified,0
+LEAD-7327,CUST-1204,Webinar,Online,REP-101,2024-12-22,Converted,1
+LEAD-7328,,Website,Retail,REP-110,2024-07-16,Disqualified,0
+LEAD-7329,CUST-1608,Cold Outreach,Partner,REP-102,2025-03-01,Converted,1
+LEAD-7330,CUST-1155,Inbound Demo,Partner,REP-107,2024-04-27,Qualified,0
+LEAD-7331,CUST-1472,Inbound Demo,Partner,REP-103,2024-04-28,Converted,1
+LEAD-7332,CUST-1092,Website,Online,REP-102,2024-05-22,Converted,1
+LEAD-7333,CUST-1186,Cold Outreach,Direct Sales,REP-102,2025-01-26,Converted,1
+LEAD-7334,,Cold Outreach,Direct Sales,REP-103,2024-02-02,Qualified,0
+LEAD-7335,,Inbound Demo,Online,REP-104,2025-03-24,Qualified,0
+LEAD-7336,CUST-1442,Website,Direct Sales,REP-105,2024-08-07,Converted,1
+LEAD-7337,,LinkedIn,Retail,REP-101,2024-08-01,Converted,1
+LEAD-7338,CUST-1289,Partner Event,Online,REP-109,2024-11-04,Converted,1
+LEAD-7339,,Referral,Online,REP-101,2024-04-02,Qualified,0
+LEAD-7340,CUST-1335,Referral,Online,REP-101,2024-05-23,Disqualified,0
+LEAD-7341,CUST-1018,LinkedIn,Online,REP-105,2024-06-02,Contacted,0
+LEAD-7342,,Webinar,Retail,REP-106,2024-07-17,Converted,1
+LEAD-7343,,Partner Event,Direct Sales,REP-102,2025-01-24,Qualified,0
+LEAD-7344,,Partner Event,Direct Sales,REP-104,2024-01-02,Converted,1
+LEAD-7345,CUST-1018,Inbound Demo,Partner,REP-112,2024-12-19,Qualified,0
+LEAD-7346,CUST-1196,Cold Outreach,Online,REP-102,2024-08-22,Converted,1
+LEAD-7347,CUST-1397,LinkedIn,Direct Sales,REP-106,2025-01-02,Converted,1
+LEAD-7348,CUST-1077,Inbound Demo,Direct Sales,REP-101,2024-05-13,Contacted,0
+LEAD-7349,,Website,Partner,REP-103,2024-06-08,Disqualified,0
+LEAD-7350,CUST-1491,Website,Retail,REP-106,2025-03-08,Converted,1
+LEAD-7351,CUST-1635,Referral,Partner,REP-101,2025-05-21,Converted,1
+LEAD-7352,,Cold Outreach,Direct Sales,REP-107,2024-03-28,Converted,1
+LEAD-7353,,Inbound Demo,Retail,REP-103,2024-08-21,Converted,1
+LEAD-7354,CUST-1163,Referral,Online,REP-106,2024-04-19,Contacted,0
+LEAD-7355,,Inbound Demo,Online,REP-112,2024-01-08,Converted,1
+LEAD-7356,CUST-1372,Website,Online,REP-102,2024-09-12,Disqualified,0
+LEAD-7357,,Cold Outreach,Direct Sales,REP-110,2025-02-19,Qualified,0
+LEAD-7358,CUST-1380,Cold Outreach,Direct Sales,REP-105,2025-01-12,Converted,1
+LEAD-7359,CUST-1177,Referral,Partner,REP-105,2024-12-22,Disqualified,0
+LEAD-7360,CUST-1258,Cold Outreach,Retail,REP-102,2024-09-14,Converted,1
+LEAD-7361,CUST-1122,Website,Direct Sales,REP-101,2024-01-03,Contacted,0
+LEAD-7362,CUST-1423,Website,Direct Sales,REP-104,2024-05-05,Converted,1
+LEAD-7363,CUST-1093,Cold Outreach,Online,REP-107,2024-04-12,Converted,1
+LEAD-7364,CUST-1530,LinkedIn,Online,REP-101,2025-03-09,Converted,1
+LEAD-7365,CUST-1032,Cold Outreach,Direct Sales,REP-102,2025-01-10,Contacted,0
+LEAD-7366,CUST-1087,Referral,Direct Sales,REP-112,2024-04-20,Converted,1
+LEAD-7367,CUST-1056,Cold Outreach,Retail,REP-108,2024-02-13,Converted,1
+LEAD-7368,,Referral,Online,REP-102,2024-08-22,Contacted,0
+LEAD-7369,,Referral,Online,REP-109,2024-10-21,Converted,1
+LEAD-7370,CUST-1202,Partner Event,Direct Sales,REP-107,2024-07-23,Converted,1
+LEAD-7371,CUST-1541,Inbound Demo,Online,REP-106,2025-03-21,Qualified,0
+LEAD-7372,CUST-1260,Cold Outreach,Online,REP-112,2025-04-02,Converted,1
+LEAD-7373,CUST-1204,Website,Partner,REP-109,2024-07-28,Disqualified,0
+LEAD-7374,CUST-1451,LinkedIn,Online,REP-107,2024-07-24,Disqualified,0
+LEAD-7375,,Cold Outreach,Partner,REP-107,2025-03-23,Converted,1
+LEAD-7376,,LinkedIn,Online,REP-104,2024-03-06,Qualified,0
+LEAD-7377,CUST-1273,Website,Online,REP-101,2025-05-01,Converted,1
+LEAD-7378,,Website,Direct Sales,REP-105,2025-03-11,Qualified,0
+LEAD-7379,,Partner Event,Partner,REP-102,2024-01-26,Converted,1
+LEAD-7380,CUST-1259,Webinar,Direct Sales,REP-108,2025-05-12,Converted,1
+LEAD-7381,CUST-1566,LinkedIn,Partner,REP-104,2024-09-25,Converted,1
+LEAD-7382,CUST-1068,LinkedIn,Online,REP-101,2024-10-03,Converted,1
+LEAD-7383,CUST-1514,Website,Partner,REP-105,2024-06-25,Converted,1
+LEAD-7384,,Webinar,Online,REP-110,2024-10-31,Disqualified,0
+LEAD-7385,CUST-1505,Partner Event,Partner,REP-110,2025-02-08,Qualified,0
+LEAD-7386,CUST-1124,Inbound Demo,Direct Sales,REP-108,2024-03-07,Contacted,0
+LEAD-7387,,LinkedIn,Retail,REP-109,2025-01-26,Converted,1
+LEAD-7388,CUST-1294,Website,Direct Sales,REP-103,2025-01-26,Disqualified,0
+LEAD-7389,CUST-1239,Cold Outreach,Online,REP-110,2025-05-11,Contacted,0
+LEAD-7390,CUST-1528,Cold Outreach,Online,REP-103,2024-11-26,Qualified,0
+LEAD-7391,,LinkedIn,Retail,REP-110,2024-10-23,Disqualified,0
+LEAD-7392,CUST-1271,Partner Event,Direct Sales,REP-101,2025-04-01,Converted,1
+LEAD-7393,CUST-1220,Partner Event,Partner,REP-111,2025-03-17,Converted,1
+LEAD-7394,,Partner Event,Online,REP-109,2025-04-16,Converted,1
+LEAD-7395,,Website,Direct Sales,REP-103,2025-02-24,Qualified,0
+LEAD-7396,,Website,Online,REP-109,2024-09-22,Contacted,0
+LEAD-7397,,Referral,Retail,REP-111,2024-08-28,Converted,1
+LEAD-7398,CUST-1151,Partner Event,Partner,REP-110,2025-05-31,Contacted,0
+LEAD-7399,,Cold Outreach,Retail,REP-101,2024-03-26,Converted,1
+LEAD-7400,CUST-1073,Webinar,Online,REP-109,2024-10-23,Disqualified,0

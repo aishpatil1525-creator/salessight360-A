@@ -1,0 +1,451 @@
+target_id,year,month,region,team,target_revenue,year_month
+TGT-4001,2024,1,North America,Enterprise East,140000.0,2024-01
+TGT-4002,2024,1,North America,Enterprise West,138000.0,2024-01
+TGT-4003,2024,1,North America,Mid-Market Global,134000.0,2024-01
+TGT-4004,2024,1,North America,Inbound Growth,127000.0,2024-01
+TGT-4005,2024,1,North America,Strategic Accounts,135000.0,2024-01
+TGT-4006,2024,1,Europe,Enterprise East,105000.0,2024-01
+TGT-4007,2024,1,Europe,Enterprise West,103000.0,2024-01
+TGT-4008,2024,1,Europe,Mid-Market Global,103000.0,2024-01
+TGT-4009,2024,1,Europe,Inbound Growth,100000.0,2024-01
+TGT-4010,2024,1,Europe,Strategic Accounts,95000.0,2024-01
+TGT-4011,2024,1,Asia Pacific,Enterprise East,81000.0,2024-01
+TGT-4012,2024,1,Asia Pacific,Enterprise West,76000.0,2024-01
+TGT-4013,2024,1,Asia Pacific,Mid-Market Global,76000.0,2024-01
+TGT-4014,2024,1,Asia Pacific,Inbound Growth,75000.0,2024-01
+TGT-4015,2024,1,Asia Pacific,Strategic Accounts,71000.0,2024-01
+TGT-4016,2024,1,Latin America,Enterprise East,55000.0,2024-01
+TGT-4017,2024,1,Latin America,Enterprise West,57000.0,2024-01
+TGT-4018,2024,1,Latin America,Mid-Market Global,58000.0,2024-01
+TGT-4019,2024,1,Latin America,Inbound Growth,56000.0,2024-01
+TGT-4020,2024,1,Latin America,Strategic Accounts,52000.0,2024-01
+TGT-4021,2024,1,Middle East & Africa,Enterprise East,36000.0,2024-01
+TGT-4022,2024,1,Middle East & Africa,Enterprise West,38000.0,2024-01
+TGT-4023,2024,1,Middle East & Africa,Mid-Market Global,35000.0,2024-01
+TGT-4024,2024,1,Middle East & Africa,Inbound Growth,34000.0,2024-01
+TGT-4025,2024,1,Middle East & Africa,Strategic Accounts,37000.0,2024-01
+TGT-4026,2024,2,North America,Enterprise East,125000.0,2024-02
+TGT-4027,2024,2,North America,Enterprise West,140000.0,2024-02
+TGT-4028,2024,2,North America,Mid-Market Global,133000.0,2024-02
+TGT-4029,2024,2,North America,Inbound Growth,142000.0,2024-02
+TGT-4030,2024,2,North America,Strategic Accounts,129000.0,2024-02
+TGT-4031,2024,2,Europe,Enterprise East,92000.0,2024-02
+TGT-4032,2024,2,Europe,Enterprise West,104000.0,2024-02
+TGT-4033,2024,2,Europe,Mid-Market Global,104000.0,2024-02
+TGT-4034,2024,2,Europe,Inbound Growth,105000.0,2024-02
+TGT-4035,2024,2,Europe,Strategic Accounts,105000.0,2024-02
+TGT-4036,2024,2,Asia Pacific,Enterprise East,76000.0,2024-02
+TGT-4037,2024,2,Asia Pacific,Enterprise West,77000.0,2024-02
+TGT-4038,2024,2,Asia Pacific,Mid-Market Global,80000.0,2024-02
+TGT-4039,2024,2,Asia Pacific,Inbound Growth,74000.0,2024-02
+TGT-4040,2024,2,Asia Pacific,Strategic Accounts,76000.0,2024-02
+TGT-4041,2024,2,Latin America,Enterprise East,57000.0,2024-02
+TGT-4042,2024,2,Latin America,Enterprise West,55000.0,2024-02
+TGT-4043,2024,2,Latin America,Mid-Market Global,53000.0,2024-02
+TGT-4044,2024,2,Latin America,Inbound Growth,60000.0,2024-02
+TGT-4045,2024,2,Latin America,Strategic Accounts,56000.0,2024-02
+TGT-4046,2024,2,Middle East & Africa,Enterprise East,38000.0,2024-02
+TGT-4047,2024,2,Middle East & Africa,Enterprise West,37000.0,2024-02
+TGT-4048,2024,2,Middle East & Africa,Mid-Market Global,34000.0,2024-02
+TGT-4049,2024,2,Middle East & Africa,Inbound Growth,34000.0,2024-02
+TGT-4050,2024,2,Middle East & Africa,Strategic Accounts,34000.0,2024-02
+TGT-4051,2024,3,North America,Enterprise East,126000.0,2024-03
+TGT-4052,2024,3,North America,Enterprise West,137000.0,2024-03
+TGT-4053,2024,3,North America,Mid-Market Global,138000.0,2024-03
+TGT-4054,2024,3,North America,Inbound Growth,135000.0,2024-03
+TGT-4055,2024,3,North America,Strategic Accounts,131000.0,2024-03
+TGT-4056,2024,3,Europe,Enterprise East,97000.0,2024-03
+TGT-4057,2024,3,Europe,Enterprise West,99000.0,2024-03
+TGT-4058,2024,3,Europe,Mid-Market Global,96000.0,2024-03
+TGT-4059,2024,3,Europe,Inbound Growth,105000.0,2024-03
+TGT-4060,2024,3,Europe,Strategic Accounts,108000.0,2024-03
+TGT-4061,2024,3,Asia Pacific,Enterprise East,75000.0,2024-03
+TGT-4062,2024,3,Asia Pacific,Enterprise West,79000.0,2024-03
+TGT-4063,2024,3,Asia Pacific,Mid-Market Global,73000.0,2024-03
+TGT-4064,2024,3,Asia Pacific,Inbound Growth,82000.0,2024-03
+TGT-4065,2024,3,Asia Pacific,Strategic Accounts,78000.0,2024-03
+TGT-4066,2024,3,Latin America,Enterprise East,56000.0,2024-03
+TGT-4067,2024,3,Latin America,Enterprise West,59000.0,2024-03
+TGT-4068,2024,3,Latin America,Mid-Market Global,59000.0,2024-03
+TGT-4069,2024,3,Latin America,Inbound Growth,54000.0,2024-03
+TGT-4070,2024,3,Latin America,Strategic Accounts,54000.0,2024-03
+TGT-4071,2024,3,Middle East & Africa,Enterprise East,36000.0,2024-03
+TGT-4072,2024,3,Middle East & Africa,Enterprise West,37000.0,2024-03
+TGT-4073,2024,3,Middle East & Africa,Mid-Market Global,36000.0,2024-03
+TGT-4074,2024,3,Middle East & Africa,Inbound Growth,39000.0,2024-03
+TGT-4075,2024,3,Middle East & Africa,Strategic Accounts,36000.0,2024-03
+TGT-4076,2024,4,North America,Enterprise East,126000.0,2024-04
+TGT-4077,2024,4,North America,Enterprise West,141000.0,2024-04
+TGT-4078,2024,4,North America,Mid-Market Global,129000.0,2024-04
+TGT-4079,2024,4,North America,Inbound Growth,138000.0,2024-04
+TGT-4080,2024,4,North America,Strategic Accounts,122000.0,2024-04
+TGT-4081,2024,4,Europe,Enterprise East,99000.0,2024-04
+TGT-4082,2024,4,Europe,Enterprise West,95000.0,2024-04
+TGT-4083,2024,4,Europe,Mid-Market Global,105000.0,2024-04
+TGT-4084,2024,4,Europe,Inbound Growth,94000.0,2024-04
+TGT-4085,2024,4,Europe,Strategic Accounts,93000.0,2024-04
+TGT-4086,2024,4,Asia Pacific,Enterprise East,74000.0,2024-04
+TGT-4087,2024,4,Asia Pacific,Enterprise West,78000.0,2024-04
+TGT-4088,2024,4,Asia Pacific,Mid-Market Global,78000.0,2024-04
+TGT-4089,2024,4,Asia Pacific,Inbound Growth,70000.0,2024-04
+TGT-4090,2024,4,Asia Pacific,Strategic Accounts,71000.0,2024-04
+TGT-4091,2024,4,Latin America,Enterprise East,58000.0,2024-04
+TGT-4092,2024,4,Latin America,Enterprise West,60000.0,2024-04
+TGT-4093,2024,4,Latin America,Mid-Market Global,56000.0,2024-04
+TGT-4094,2024,4,Latin America,Inbound Growth,59000.0,2024-04
+TGT-4095,2024,4,Latin America,Strategic Accounts,54000.0,2024-04
+TGT-4096,2024,4,Middle East & Africa,Enterprise East,33000.0,2024-04
+TGT-4097,2024,4,Middle East & Africa,Enterprise West,36000.0,2024-04
+TGT-4098,2024,4,Middle East & Africa,Mid-Market Global,37000.0,2024-04
+TGT-4099,2024,4,Middle East & Africa,Inbound Growth,34000.0,2024-04
+TGT-4100,2024,4,Middle East & Africa,Strategic Accounts,36000.0,2024-04
+TGT-4101,2024,5,North America,Enterprise East,128000.0,2024-05
+TGT-4102,2024,5,North America,Enterprise West,124000.0,2024-05
+TGT-4103,2024,5,North America,Mid-Market Global,141000.0,2024-05
+TGT-4104,2024,5,North America,Inbound Growth,125000.0,2024-05
+TGT-4105,2024,5,North America,Strategic Accounts,137000.0,2024-05
+TGT-4106,2024,5,Europe,Enterprise East,98000.0,2024-05
+TGT-4107,2024,5,Europe,Enterprise West,105000.0,2024-05
+TGT-4108,2024,5,Europe,Mid-Market Global,96000.0,2024-05
+TGT-4109,2024,5,Europe,Inbound Growth,101000.0,2024-05
+TGT-4110,2024,5,Europe,Strategic Accounts,105000.0,2024-05
+TGT-4111,2024,5,Asia Pacific,Enterprise East,77000.0,2024-05
+TGT-4112,2024,5,Asia Pacific,Enterprise West,75000.0,2024-05
+TGT-4113,2024,5,Asia Pacific,Mid-Market Global,78000.0,2024-05
+TGT-4114,2024,5,Asia Pacific,Inbound Growth,74000.0,2024-05
+TGT-4115,2024,5,Asia Pacific,Strategic Accounts,72000.0,2024-05
+TGT-4116,2024,5,Latin America,Enterprise East,55000.0,2024-05
+TGT-4117,2024,5,Latin America,Enterprise West,60000.0,2024-05
+TGT-4118,2024,5,Latin America,Mid-Market Global,55000.0,2024-05
+TGT-4119,2024,5,Latin America,Inbound Growth,58000.0,2024-05
+TGT-4120,2024,5,Latin America,Strategic Accounts,55000.0,2024-05
+TGT-4121,2024,5,Middle East & Africa,Enterprise East,36000.0,2024-05
+TGT-4122,2024,5,Middle East & Africa,Enterprise West,35000.0,2024-05
+TGT-4123,2024,5,Middle East & Africa,Mid-Market Global,36000.0,2024-05
+TGT-4124,2024,5,Middle East & Africa,Inbound Growth,36000.0,2024-05
+TGT-4125,2024,5,Middle East & Africa,Strategic Accounts,34000.0,2024-05
+TGT-4126,2024,6,North America,Enterprise East,146000.0,2024-06
+TGT-4127,2024,6,North America,Enterprise West,140000.0,2024-06
+TGT-4128,2024,6,North America,Mid-Market Global,136000.0,2024-06
+TGT-4129,2024,6,North America,Inbound Growth,139000.0,2024-06
+TGT-4130,2024,6,North America,Strategic Accounts,152000.0,2024-06
+TGT-4131,2024,6,Europe,Enterprise East,116000.0,2024-06
+TGT-4132,2024,6,Europe,Enterprise West,114000.0,2024-06
+TGT-4133,2024,6,Europe,Mid-Market Global,112000.0,2024-06
+TGT-4134,2024,6,Europe,Inbound Growth,103000.0,2024-06
+TGT-4135,2024,6,Europe,Strategic Accounts,105000.0,2024-06
+TGT-4136,2024,6,Asia Pacific,Enterprise East,85000.0,2024-06
+TGT-4137,2024,6,Asia Pacific,Enterprise West,89000.0,2024-06
+TGT-4138,2024,6,Asia Pacific,Mid-Market Global,81000.0,2024-06
+TGT-4139,2024,6,Asia Pacific,Inbound Growth,83000.0,2024-06
+TGT-4140,2024,6,Asia Pacific,Strategic Accounts,81000.0,2024-06
+TGT-4141,2024,6,Latin America,Enterprise East,63000.0,2024-06
+TGT-4142,2024,6,Latin America,Enterprise West,61000.0,2024-06
+TGT-4143,2024,6,Latin America,Mid-Market Global,65000.0,2024-06
+TGT-4144,2024,6,Latin America,Inbound Growth,66000.0,2024-06
+TGT-4145,2024,6,Latin America,Strategic Accounts,60000.0,2024-06
+TGT-4146,2024,6,Middle East & Africa,Enterprise East,41000.0,2024-06
+TGT-4147,2024,6,Middle East & Africa,Enterprise West,41000.0,2024-06
+TGT-4148,2024,6,Middle East & Africa,Mid-Market Global,39000.0,2024-06
+TGT-4149,2024,6,Middle East & Africa,Inbound Growth,41000.0,2024-06
+TGT-4150,2024,6,Middle East & Africa,Strategic Accounts,42000.0,2024-06
+TGT-4151,2024,7,North America,Enterprise East,142000.0,2024-07
+TGT-4152,2024,7,North America,Enterprise West,127000.0,2024-07
+TGT-4153,2024,7,North America,Mid-Market Global,142000.0,2024-07
+TGT-4154,2024,7,North America,Inbound Growth,126000.0,2024-07
+TGT-4155,2024,7,North America,Strategic Accounts,138000.0,2024-07
+TGT-4156,2024,7,Europe,Enterprise East,108000.0,2024-07
+TGT-4157,2024,7,Europe,Enterprise West,103000.0,2024-07
+TGT-4158,2024,7,Europe,Mid-Market Global,103000.0,2024-07
+TGT-4159,2024,7,Europe,Inbound Growth,107000.0,2024-07
+TGT-4160,2024,7,Europe,Strategic Accounts,103000.0,2024-07
+TGT-4161,2024,7,Asia Pacific,Enterprise East,73000.0,2024-07
+TGT-4162,2024,7,Asia Pacific,Enterprise West,74000.0,2024-07
+TGT-4163,2024,7,Asia Pacific,Mid-Market Global,78000.0,2024-07
+TGT-4164,2024,7,Asia Pacific,Inbound Growth,80000.0,2024-07
+TGT-4165,2024,7,Asia Pacific,Strategic Accounts,77000.0,2024-07
+TGT-4166,2024,7,Latin America,Enterprise East,53000.0,2024-07
+TGT-4167,2024,7,Latin America,Enterprise West,59000.0,2024-07
+TGT-4168,2024,7,Latin America,Mid-Market Global,56000.0,2024-07
+TGT-4169,2024,7,Latin America,Inbound Growth,60000.0,2024-07
+TGT-4170,2024,7,Latin America,Strategic Accounts,55000.0,2024-07
+TGT-4171,2024,7,Middle East & Africa,Enterprise East,39000.0,2024-07
+TGT-4172,2024,7,Middle East & Africa,Enterprise West,37000.0,2024-07
+TGT-4173,2024,7,Middle East & Africa,Mid-Market Global,34000.0,2024-07
+TGT-4174,2024,7,Middle East & Africa,Inbound Growth,37000.0,2024-07
+TGT-4175,2024,7,Middle East & Africa,Strategic Accounts,38000.0,2024-07
+TGT-4176,2024,8,North America,Enterprise East,141000.0,2024-08
+TGT-4177,2024,8,North America,Enterprise West,136000.0,2024-08
+TGT-4178,2024,8,North America,Mid-Market Global,138000.0,2024-08
+TGT-4179,2024,8,North America,Inbound Growth,124000.0,2024-08
+TGT-4180,2024,8,North America,Strategic Accounts,132000.0,2024-08
+TGT-4181,2024,8,Europe,Enterprise East,104000.0,2024-08
+TGT-4182,2024,8,Europe,Enterprise West,98000.0,2024-08
+TGT-4183,2024,8,Europe,Mid-Market Global,107000.0,2024-08
+TGT-4184,2024,8,Europe,Inbound Growth,94000.0,2024-08
+TGT-4185,2024,8,Europe,Strategic Accounts,105000.0,2024-08
+TGT-4186,2024,8,Asia Pacific,Enterprise East,78000.0,2024-08
+TGT-4187,2024,8,Asia Pacific,Enterprise West,82000.0,2024-08
+TGT-4188,2024,8,Asia Pacific,Mid-Market Global,80000.0,2024-08
+TGT-4189,2024,8,Asia Pacific,Inbound Growth,72000.0,2024-08
+TGT-4190,2024,8,Asia Pacific,Strategic Accounts,73000.0,2024-08
+TGT-4191,2024,8,Latin America,Enterprise East,57000.0,2024-08
+TGT-4192,2024,8,Latin America,Enterprise West,54000.0,2024-08
+TGT-4193,2024,8,Latin America,Mid-Market Global,53000.0,2024-08
+TGT-4194,2024,8,Latin America,Inbound Growth,55000.0,2024-08
+TGT-4195,2024,8,Latin America,Strategic Accounts,60000.0,2024-08
+TGT-4196,2024,8,Middle East & Africa,Enterprise East,36000.0,2024-08
+TGT-4197,2024,8,Middle East & Africa,Enterprise West,38000.0,2024-08
+TGT-4198,2024,8,Middle East & Africa,Mid-Market Global,36000.0,2024-08
+TGT-4199,2024,8,Middle East & Africa,Inbound Growth,38000.0,2024-08
+TGT-4200,2024,8,Middle East & Africa,Strategic Accounts,34000.0,2024-08
+TGT-4201,2024,9,North America,Enterprise East,141000.0,2024-09
+TGT-4202,2024,9,North America,Enterprise West,148000.0,2024-09
+TGT-4203,2024,9,North America,Mid-Market Global,141000.0,2024-09
+TGT-4204,2024,9,North America,Inbound Growth,156000.0,2024-09
+TGT-4205,2024,9,North America,Strategic Accounts,151000.0,2024-09
+TGT-4206,2024,9,Europe,Enterprise East,109000.0,2024-09
+TGT-4207,2024,9,Europe,Enterprise West,106000.0,2024-09
+TGT-4208,2024,9,Europe,Mid-Market Global,112000.0,2024-09
+TGT-4209,2024,9,Europe,Inbound Growth,108000.0,2024-09
+TGT-4210,2024,9,Europe,Strategic Accounts,108000.0,2024-09
+TGT-4211,2024,9,Asia Pacific,Enterprise East,80000.0,2024-09
+TGT-4212,2024,9,Asia Pacific,Enterprise West,82000.0,2024-09
+TGT-4213,2024,9,Asia Pacific,Mid-Market Global,88000.0,2024-09
+TGT-4214,2024,9,Asia Pacific,Inbound Growth,81000.0,2024-09
+TGT-4215,2024,9,Asia Pacific,Strategic Accounts,89000.0,2024-09
+TGT-4216,2024,9,Latin America,Enterprise East,58000.0,2024-09
+TGT-4217,2024,9,Latin America,Enterprise West,58000.0,2024-09
+TGT-4218,2024,9,Latin America,Mid-Market Global,64000.0,2024-09
+TGT-4219,2024,9,Latin America,Inbound Growth,62000.0,2024-09
+TGT-4220,2024,9,Latin America,Strategic Accounts,65000.0,2024-09
+TGT-4221,2024,9,Middle East & Africa,Enterprise East,42000.0,2024-09
+TGT-4222,2024,9,Middle East & Africa,Enterprise West,39000.0,2024-09
+TGT-4223,2024,9,Middle East & Africa,Mid-Market Global,38000.0,2024-09
+TGT-4224,2024,9,Middle East & Africa,Inbound Growth,42000.0,2024-09
+TGT-4225,2024,9,Middle East & Africa,Strategic Accounts,38000.0,2024-09
+TGT-4226,2024,10,North America,Enterprise East,142000.0,2024-10
+TGT-4227,2024,10,North America,Enterprise West,136000.0,2024-10
+TGT-4228,2024,10,North America,Mid-Market Global,124000.0,2024-10
+TGT-4229,2024,10,North America,Inbound Growth,126000.0,2024-10
+TGT-4230,2024,10,North America,Strategic Accounts,139000.0,2024-10
+TGT-4231,2024,10,Europe,Enterprise East,102000.0,2024-10
+TGT-4232,2024,10,Europe,Enterprise West,94000.0,2024-10
+TGT-4233,2024,10,Europe,Mid-Market Global,101000.0,2024-10
+TGT-4234,2024,10,Europe,Inbound Growth,99000.0,2024-10
+TGT-4235,2024,10,Europe,Strategic Accounts,107000.0,2024-10
+TGT-4236,2024,10,Asia Pacific,Enterprise East,75000.0,2024-10
+TGT-4237,2024,10,Asia Pacific,Enterprise West,74000.0,2024-10
+TGT-4238,2024,10,Asia Pacific,Mid-Market Global,71000.0,2024-10
+TGT-4239,2024,10,Asia Pacific,Inbound Growth,79000.0,2024-10
+TGT-4240,2024,10,Asia Pacific,Strategic Accounts,73000.0,2024-10
+TGT-4241,2024,10,Latin America,Enterprise East,56000.0,2024-10
+TGT-4242,2024,10,Latin America,Enterprise West,52000.0,2024-10
+TGT-4243,2024,10,Latin America,Mid-Market Global,55000.0,2024-10
+TGT-4244,2024,10,Latin America,Inbound Growth,53000.0,2024-10
+TGT-4245,2024,10,Latin America,Strategic Accounts,52000.0,2024-10
+TGT-4246,2024,10,Middle East & Africa,Enterprise East,34000.0,2024-10
+TGT-4247,2024,10,Middle East & Africa,Enterprise West,37000.0,2024-10
+TGT-4248,2024,10,Middle East & Africa,Mid-Market Global,35000.0,2024-10
+TGT-4249,2024,10,Middle East & Africa,Inbound Growth,35000.0,2024-10
+TGT-4250,2024,10,Middle East & Africa,Strategic Accounts,35000.0,2024-10
+TGT-4251,2024,11,North America,Enterprise East,153000.0,2024-11
+TGT-4252,2024,11,North America,Enterprise West,154000.0,2024-11
+TGT-4253,2024,11,North America,Mid-Market Global,157000.0,2024-11
+TGT-4254,2024,11,North America,Inbound Growth,156000.0,2024-11
+TGT-4255,2024,11,North America,Strategic Accounts,157000.0,2024-11
+TGT-4256,2024,11,Europe,Enterprise East,123000.0,2024-11
+TGT-4257,2024,11,Europe,Enterprise West,119000.0,2024-11
+TGT-4258,2024,11,Europe,Mid-Market Global,125000.0,2024-11
+TGT-4259,2024,11,Europe,Inbound Growth,133000.0,2024-11
+TGT-4260,2024,11,Europe,Strategic Accounts,123000.0,2024-11
+TGT-4261,2024,11,Asia Pacific,Enterprise East,92000.0,2024-11
+TGT-4262,2024,11,Asia Pacific,Enterprise West,101000.0,2024-11
+TGT-4263,2024,11,Asia Pacific,Mid-Market Global,88000.0,2024-11
+TGT-4264,2024,11,Asia Pacific,Inbound Growth,96000.0,2024-11
+TGT-4265,2024,11,Asia Pacific,Strategic Accounts,102000.0,2024-11
+TGT-4266,2024,11,Latin America,Enterprise East,72000.0,2024-11
+TGT-4267,2024,11,Latin America,Enterprise West,70000.0,2024-11
+TGT-4268,2024,11,Latin America,Mid-Market Global,66000.0,2024-11
+TGT-4269,2024,11,Latin America,Inbound Growth,70000.0,2024-11
+TGT-4270,2024,11,Latin America,Strategic Accounts,73000.0,2024-11
+TGT-4271,2024,11,Middle East & Africa,Enterprise East,44000.0,2024-11
+TGT-4272,2024,11,Middle East & Africa,Enterprise West,47000.0,2024-11
+TGT-4273,2024,11,Middle East & Africa,Mid-Market Global,44000.0,2024-11
+TGT-4274,2024,11,Middle East & Africa,Inbound Growth,45000.0,2024-11
+TGT-4275,2024,11,Middle East & Africa,Strategic Accounts,46000.0,2024-11
+TGT-4276,2024,12,North America,Enterprise East,170000.0,2024-12
+TGT-4277,2024,12,North America,Enterprise West,154000.0,2024-12
+TGT-4278,2024,12,North America,Mid-Market Global,163000.0,2024-12
+TGT-4279,2024,12,North America,Inbound Growth,177000.0,2024-12
+TGT-4280,2024,12,North America,Strategic Accounts,165000.0,2024-12
+TGT-4281,2024,12,Europe,Enterprise East,116000.0,2024-12
+TGT-4282,2024,12,Europe,Enterprise West,126000.0,2024-12
+TGT-4283,2024,12,Europe,Mid-Market Global,132000.0,2024-12
+TGT-4284,2024,12,Europe,Inbound Growth,123000.0,2024-12
+TGT-4285,2024,12,Europe,Strategic Accounts,116000.0,2024-12
+TGT-4286,2024,12,Asia Pacific,Enterprise East,92000.0,2024-12
+TGT-4287,2024,12,Asia Pacific,Enterprise West,95000.0,2024-12
+TGT-4288,2024,12,Asia Pacific,Mid-Market Global,100000.0,2024-12
+TGT-4289,2024,12,Asia Pacific,Inbound Growth,91000.0,2024-12
+TGT-4290,2024,12,Asia Pacific,Strategic Accounts,91000.0,2024-12
+TGT-4291,2024,12,Latin America,Enterprise East,74000.0,2024-12
+TGT-4292,2024,12,Latin America,Enterprise West,66000.0,2024-12
+TGT-4293,2024,12,Latin America,Mid-Market Global,74000.0,2024-12
+TGT-4294,2024,12,Latin America,Inbound Growth,72000.0,2024-12
+TGT-4295,2024,12,Latin America,Strategic Accounts,73000.0,2024-12
+TGT-4296,2024,12,Middle East & Africa,Enterprise East,43000.0,2024-12
+TGT-4297,2024,12,Middle East & Africa,Enterprise West,44000.0,2024-12
+TGT-4298,2024,12,Middle East & Africa,Mid-Market Global,44000.0,2024-12
+TGT-4299,2024,12,Middle East & Africa,Inbound Growth,46000.0,2024-12
+TGT-4300,2024,12,Middle East & Africa,Strategic Accounts,42000.0,2024-12
+TGT-4301,2025,1,North America,Enterprise East,122000.0,2025-01
+TGT-4302,2025,1,North America,Enterprise West,137000.0,2025-01
+TGT-4303,2025,1,North America,Mid-Market Global,136000.0,2025-01
+TGT-4304,2025,1,North America,Inbound Growth,126000.0,2025-01
+TGT-4305,2025,1,North America,Strategic Accounts,136000.0,2025-01
+TGT-4306,2025,1,Europe,Enterprise East,98000.0,2025-01
+TGT-4307,2025,1,Europe,Enterprise West,107000.0,2025-01
+TGT-4308,2025,1,Europe,Mid-Market Global,105000.0,2025-01
+TGT-4309,2025,1,Europe,Inbound Growth,101000.0,2025-01
+TGT-4310,2025,1,Europe,Strategic Accounts,107000.0,2025-01
+TGT-4311,2025,1,Asia Pacific,Enterprise East,79000.0,2025-01
+TGT-4312,2025,1,Asia Pacific,Enterprise West,79000.0,2025-01
+TGT-4313,2025,1,Asia Pacific,Mid-Market Global,78000.0,2025-01
+TGT-4314,2025,1,Asia Pacific,Inbound Growth,73000.0,2025-01
+TGT-4315,2025,1,Asia Pacific,Strategic Accounts,72000.0,2025-01
+TGT-4316,2025,1,Latin America,Enterprise East,59000.0,2025-01
+TGT-4317,2025,1,Latin America,Enterprise West,60000.0,2025-01
+TGT-4318,2025,1,Latin America,Mid-Market Global,58000.0,2025-01
+TGT-4319,2025,1,Latin America,Inbound Growth,57000.0,2025-01
+TGT-4320,2025,1,Latin America,Strategic Accounts,58000.0,2025-01
+TGT-4321,2025,1,Middle East & Africa,Enterprise East,34000.0,2025-01
+TGT-4322,2025,1,Middle East & Africa,Enterprise West,34000.0,2025-01
+TGT-4323,2025,1,Middle East & Africa,Mid-Market Global,38000.0,2025-01
+TGT-4324,2025,1,Middle East & Africa,Inbound Growth,36000.0,2025-01
+TGT-4325,2025,1,Middle East & Africa,Strategic Accounts,34000.0,2025-01
+TGT-4326,2025,2,North America,Enterprise East,130000.0,2025-02
+TGT-4327,2025,2,North America,Enterprise West,133000.0,2025-02
+TGT-4328,2025,2,North America,Mid-Market Global,134000.0,2025-02
+TGT-4329,2025,2,North America,Inbound Growth,131000.0,2025-02
+TGT-4330,2025,2,North America,Strategic Accounts,122000.0,2025-02
+TGT-4331,2025,2,Europe,Enterprise East,96000.0,2025-02
+TGT-4332,2025,2,Europe,Enterprise West,94000.0,2025-02
+TGT-4333,2025,2,Europe,Mid-Market Global,97000.0,2025-02
+TGT-4334,2025,2,Europe,Inbound Growth,96000.0,2025-02
+TGT-4335,2025,2,Europe,Strategic Accounts,102000.0,2025-02
+TGT-4336,2025,2,Asia Pacific,Enterprise East,78000.0,2025-02
+TGT-4337,2025,2,Asia Pacific,Enterprise West,75000.0,2025-02
+TGT-4338,2025,2,Asia Pacific,Mid-Market Global,72000.0,2025-02
+TGT-4339,2025,2,Asia Pacific,Inbound Growth,81000.0,2025-02
+TGT-4340,2025,2,Asia Pacific,Strategic Accounts,82000.0,2025-02
+TGT-4341,2025,2,Latin America,Enterprise East,55000.0,2025-02
+TGT-4342,2025,2,Latin America,Enterprise West,52000.0,2025-02
+TGT-4343,2025,2,Latin America,Mid-Market Global,53000.0,2025-02
+TGT-4344,2025,2,Latin America,Inbound Growth,55000.0,2025-02
+TGT-4345,2025,2,Latin America,Strategic Accounts,58000.0,2025-02
+TGT-4346,2025,2,Middle East & Africa,Enterprise East,37000.0,2025-02
+TGT-4347,2025,2,Middle East & Africa,Enterprise West,36000.0,2025-02
+TGT-4348,2025,2,Middle East & Africa,Mid-Market Global,36000.0,2025-02
+TGT-4349,2025,2,Middle East & Africa,Inbound Growth,35000.0,2025-02
+TGT-4350,2025,2,Middle East & Africa,Strategic Accounts,35000.0,2025-02
+TGT-4351,2025,3,North America,Enterprise East,122000.0,2025-03
+TGT-4352,2025,3,North America,Enterprise West,140000.0,2025-03
+TGT-4353,2025,3,North America,Mid-Market Global,141000.0,2025-03
+TGT-4354,2025,3,North America,Inbound Growth,126000.0,2025-03
+TGT-4355,2025,3,North America,Strategic Accounts,138000.0,2025-03
+TGT-4356,2025,3,Europe,Enterprise East,98000.0,2025-03
+TGT-4357,2025,3,Europe,Enterprise West,96000.0,2025-03
+TGT-4358,2025,3,Europe,Mid-Market Global,100000.0,2025-03
+TGT-4359,2025,3,Europe,Inbound Growth,97000.0,2025-03
+TGT-4360,2025,3,Europe,Strategic Accounts,103000.0,2025-03
+TGT-4361,2025,3,Asia Pacific,Enterprise East,77000.0,2025-03
+TGT-4362,2025,3,Asia Pacific,Enterprise West,71000.0,2025-03
+TGT-4363,2025,3,Asia Pacific,Mid-Market Global,75000.0,2025-03
+TGT-4364,2025,3,Asia Pacific,Inbound Growth,75000.0,2025-03
+TGT-4365,2025,3,Asia Pacific,Strategic Accounts,81000.0,2025-03
+TGT-4366,2025,3,Latin America,Enterprise East,54000.0,2025-03
+TGT-4367,2025,3,Latin America,Enterprise West,52000.0,2025-03
+TGT-4368,2025,3,Latin America,Mid-Market Global,54000.0,2025-03
+TGT-4369,2025,3,Latin America,Inbound Growth,60000.0,2025-03
+TGT-4370,2025,3,Latin America,Strategic Accounts,55000.0,2025-03
+TGT-4371,2025,3,Middle East & Africa,Enterprise East,34000.0,2025-03
+TGT-4372,2025,3,Middle East & Africa,Enterprise West,37000.0,2025-03
+TGT-4373,2025,3,Middle East & Africa,Mid-Market Global,35000.0,2025-03
+TGT-4374,2025,3,Middle East & Africa,Inbound Growth,33000.0,2025-03
+TGT-4375,2025,3,Middle East & Africa,Strategic Accounts,34000.0,2025-03
+TGT-4376,2025,4,North America,Enterprise East,123000.0,2025-04
+TGT-4377,2025,4,North America,Enterprise West,122000.0,2025-04
+TGT-4378,2025,4,North America,Mid-Market Global,139000.0,2025-04
+TGT-4379,2025,4,North America,Inbound Growth,123000.0,2025-04
+TGT-4380,2025,4,North America,Strategic Accounts,141000.0,2025-04
+TGT-4381,2025,4,Europe,Enterprise East,96000.0,2025-04
+TGT-4382,2025,4,Europe,Enterprise West,93000.0,2025-04
+TGT-4383,2025,4,Europe,Mid-Market Global,97000.0,2025-04
+TGT-4384,2025,4,Europe,Inbound Growth,100000.0,2025-04
+TGT-4385,2025,4,Europe,Strategic Accounts,102000.0,2025-04
+TGT-4386,2025,4,Asia Pacific,Enterprise East,79000.0,2025-04
+TGT-4387,2025,4,Asia Pacific,Enterprise West,77000.0,2025-04
+TGT-4388,2025,4,Asia Pacific,Mid-Market Global,70000.0,2025-04
+TGT-4389,2025,4,Asia Pacific,Inbound Growth,73000.0,2025-04
+TGT-4390,2025,4,Asia Pacific,Strategic Accounts,80000.0,2025-04
+TGT-4391,2025,4,Latin America,Enterprise East,59000.0,2025-04
+TGT-4392,2025,4,Latin America,Enterprise West,56000.0,2025-04
+TGT-4393,2025,4,Latin America,Mid-Market Global,56000.0,2025-04
+TGT-4394,2025,4,Latin America,Inbound Growth,56000.0,2025-04
+TGT-4395,2025,4,Latin America,Strategic Accounts,59000.0,2025-04
+TGT-4396,2025,4,Middle East & Africa,Enterprise East,37000.0,2025-04
+TGT-4397,2025,4,Middle East & Africa,Enterprise West,34000.0,2025-04
+TGT-4398,2025,4,Middle East & Africa,Mid-Market Global,35000.0,2025-04
+TGT-4399,2025,4,Middle East & Africa,Inbound Growth,36000.0,2025-04
+TGT-4400,2025,4,Middle East & Africa,Strategic Accounts,38000.0,2025-04
+TGT-4401,2025,5,North America,Enterprise East,140000.0,2025-05
+TGT-4402,2025,5,North America,Enterprise West,128000.0,2025-05
+TGT-4403,2025,5,North America,Mid-Market Global,124000.0,2025-05
+TGT-4404,2025,5,North America,Inbound Growth,141000.0,2025-05
+TGT-4405,2025,5,North America,Strategic Accounts,136000.0,2025-05
+TGT-4406,2025,5,Europe,Enterprise East,92000.0,2025-05
+TGT-4407,2025,5,Europe,Enterprise West,93000.0,2025-05
+TGT-4408,2025,5,Europe,Mid-Market Global,98000.0,2025-05
+TGT-4409,2025,5,Europe,Inbound Growth,101000.0,2025-05
+TGT-4410,2025,5,Europe,Strategic Accounts,96000.0,2025-05
+TGT-4411,2025,5,Asia Pacific,Enterprise East,78000.0,2025-05
+TGT-4412,2025,5,Asia Pacific,Enterprise West,77000.0,2025-05
+TGT-4413,2025,5,Asia Pacific,Mid-Market Global,74000.0,2025-05
+TGT-4414,2025,5,Asia Pacific,Inbound Growth,73000.0,2025-05
+TGT-4415,2025,5,Asia Pacific,Strategic Accounts,75000.0,2025-05
+TGT-4416,2025,5,Latin America,Enterprise East,54000.0,2025-05
+TGT-4417,2025,5,Latin America,Enterprise West,58000.0,2025-05
+TGT-4418,2025,5,Latin America,Mid-Market Global,56000.0,2025-05
+TGT-4419,2025,5,Latin America,Inbound Growth,59000.0,2025-05
+TGT-4420,2025,5,Latin America,Strategic Accounts,56000.0,2025-05
+TGT-4421,2025,5,Middle East & Africa,Enterprise East,38000.0,2025-05
+TGT-4422,2025,5,Middle East & Africa,Enterprise West,36000.0,2025-05
+TGT-4423,2025,5,Middle East & Africa,Mid-Market Global,33000.0,2025-05
+TGT-4424,2025,5,Middle East & Africa,Inbound Growth,35000.0,2025-05
+TGT-4425,2025,5,Middle East & Africa,Strategic Accounts,34000.0,2025-05
+TGT-4426,2025,6,North America,Enterprise East,141000.0,2025-06
+TGT-4427,2025,6,North America,Enterprise West,156000.0,2025-06
+TGT-4428,2025,6,North America,Mid-Market Global,153000.0,2025-06
+TGT-4429,2025,6,North America,Inbound Growth,155000.0,2025-06
+TGT-4430,2025,6,North America,Strategic Accounts,152000.0,2025-06
+TGT-4431,2025,6,Europe,Enterprise East,109000.0,2025-06
+TGT-4432,2025,6,Europe,Enterprise West,112000.0,2025-06
+TGT-4433,2025,6,Europe,Mid-Market Global,116000.0,2025-06
+TGT-4434,2025,6,Europe,Inbound Growth,116000.0,2025-06
+TGT-4435,2025,6,Europe,Strategic Accounts,112000.0,2025-06
+TGT-4436,2025,6,Asia Pacific,Enterprise East,83000.0,2025-06
+TGT-4437,2025,6,Asia Pacific,Enterprise West,80000.0,2025-06
+TGT-4438,2025,6,Asia Pacific,Mid-Market Global,80000.0,2025-06
+TGT-4439,2025,6,Asia Pacific,Inbound Growth,79000.0,2025-06
+TGT-4440,2025,6,Asia Pacific,Strategic Accounts,85000.0,2025-06
+TGT-4441,2025,6,Latin America,Enterprise East,61000.0,2025-06
+TGT-4442,2025,6,Latin America,Enterprise West,65000.0,2025-06
+TGT-4443,2025,6,Latin America,Mid-Market Global,64000.0,2025-06
+TGT-4444,2025,6,Latin America,Inbound Growth,60000.0,2025-06
+TGT-4445,2025,6,Latin America,Strategic Accounts,64000.0,2025-06
+TGT-4446,2025,6,Middle East & Africa,Enterprise East,40000.0,2025-06
+TGT-4447,2025,6,Middle East & Africa,Enterprise West,43000.0,2025-06
+TGT-4448,2025,6,Middle East & Africa,Mid-Market Global,43000.0,2025-06
+TGT-4449,2025,6,Middle East & Africa,Inbound Growth,39000.0,2025-06
+TGT-4450,2025,6,Middle East & Africa,Strategic Accounts,41000.0,2025-06
